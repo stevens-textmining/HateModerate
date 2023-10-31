@@ -2,7 +2,21 @@
 
 This is the anonymous repository for our paper "Examining AI System Behaviors against Rule-based Requirements: A Case Study on AI-based Content Moderation"
 
-All experiments are performed under hatemoderate.yml conda environment. 
+## Install
+```
+pip install torch pandas transformers datasets simpletransformers tqdm googleapiclient openai
+```
+
+Dependencies:
+
+- [pytorch](https://pytorch.org)
+-  `pandas` for loading and processing csv files
+-  `transformers` for huggingface transformers
+-  `datasets` for huggingface datasets
+-  `tqdm` for progress bars
+-  `simpletransformers` for easily fine-tuning training
+-  `googleapiclient` for accessing Google's Perspective API
+-  `openai` for accessing OpenAI's API
 
 ## Aggregating the data annotated by annotators:
 
@@ -58,8 +72,7 @@ The results of varying the hyperparameter in Step 3 can be found below:
     <br>
 </p>
 
-### Install
-pip install torch pandas transformers datasets simpletransformers tqdm googleapiclient openai
+
 
 Testing SOTA softwares
 python test_sota/cardiffnlp/testing_cardiffnlp.py
