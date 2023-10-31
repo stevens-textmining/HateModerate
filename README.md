@@ -1,6 +1,6 @@
-# Examining AI System Behaviors against Rule-based Requirements: A Case Study on AI-based Content Moderation
+# HateModerate: Grounding and Benchmarking Hate Speech Detection with Content Policies
 
-This is the anonymous repository for our paper "Examining AI System Behaviors against Rule-based Requirements: A Case Study on AI-based Content Moderation"
+This is the anonymous repository for our paper "HateModerate: Grounding and Benchmarking Hate Speech Detection with Content Policies"
 
 ## Install
 ```
@@ -18,71 +18,140 @@ Dependencies:
 -  `googleapiclient` for accessing Google's Perspective API
 -  `openai` for accessing OpenAI's API
 
-## Aggregating the data annotated by annotators:
+## Datasets Summary:
 
-0. Aggregating the annotators' labels: t1.xlsx...t4.xlsx -> Aggregation.py -> all_data.csv
-1. Get the hatemoderate dataset: all_data.csv, all_examples.csv (from the last submission) -> remove_majority_vote.py -> all_examples_new.csv 
+This repository contains final datasets we collected in `postprocess`. This study mainly focuses hate speech detection in English.
 
-## Step 2 (Section IV) Examining AI-based Content Moderation Software against Policies
+There are two datasets. 
+
+**all_examples_hate.csv:** The hateful dataset that includes **4,651 sentences with guidelines**. The annotations with **more than 87% agreement** are included.
+
+**all_examples_nonhate.csv:** The non-hateful dataset that includes **3,915 sentences with guidelines and types in non-hateful cases**. The annotations with **more than 88% agreement** are included.
+
+<p align="center">
+    <img src="https://anonymous.4open.science/r/HateModerate-4BE1/stats_all.png"  width=500>
+    <br>
+</p>
+
+
+## Benchmarking Hate Speech Detectors' Consistency with Content Policies (Section IV)
 
 ### Instructions for reproducing (requires API keys for OpenAI and Google Perspective) 
 
-0. Testing facebook's API using hatemoderate: all_examples_new_hate.csv -> testing_fb.py -> fb.csv
-1. Testing OpenAI's API using hate moderate: all_examples_new_hate.csv -> testing_openai.py -> openai.csv
-2. Testing Google's Perspective API using hatemoderate: all_examples_new_hate.csv -> testing_perspective.py -> perspective.csv
-3. Plotting the testing results as Figure 6: fb.csv openai.csv perspective.csv -> get_testing_result.py -> app1.png (Figure 6)
+#### Set the OpenAI API key and  Google API key as environment variables in your shell session:
+
+On Linux or macOS:
+```bash
+export GOOGLE_API_KEY=your_api_key_here
+export OPENAI_API_KEY=your_api_key_here
+```
+Or in Windows:
+```bash
+set GOOGLE_API_KEY=your_api_key_here
+set OPENAI_API_KEY=your_api_key_here
+```
+
+Now we are ready to following steps:
+
+- Step 0: Clone the repository and make sure that your are current in the root path of repository `Hatemoderate`.
+
+- Step 1: Testing Facebook’s Fine-Tuned RoBERTa mode using HateModerate test cases `fine_tune/datasets/testing/hatemoderate_test.csv`:
+
+    ```
+    $ python test_sota/facebook/testing_fb.py
+    ```
+
+- Step 2: Testing OpenAI's API using HateModerate:
+
+    ```
+    $ python test_sota/openai/testing_openai.py
+    ```
+
+- Step 3: Testing Google's Perspective API using HateModerate:
+
+    ```
+    $ python test_sota/google/testing_perspective.py
+    ```
+
+- Step 4: Testing [Cardiff NLP’s Fine-Tuned RoBERTa model](https://huggingface.co/cardiffnlp/twitter-roberta-base-hate-latest) using HateModerate:
+
+    ```
+    $ python test_sota/cardiffnlp/testing_cardiffnlp.py
+    ```
+Then we can get result csv file for each of state-of-the-art softwares. For result csv files, the first column is **ID** of sentences, following the **predicted label**(hate or not hate), the last column is **toxity score**.
+
+Note: Result csv file of Google's Perspective API only contains ID and toxity score. The third column of OpenAI API file is label of violence.
 
 ### Main results
 
-The main results of Step 2 can be found in the image below. It shows the failure rates detected for each of the 41 policies in Facebook's community standards. From left to right: Facebook's RoBERTa model finetuned on the DynaHate dataset tested with the entire HateModerate dataset, the same RoBERTa model tested with non-DynaHate cases in HateModerate, Google's Perspective API, and OpenAI's Moderation API (moderation-latest).
+The main results can be found in the image below. It shows the failure rates detected for each of the 41 policies in Facebook's community standards. From left to right: Facebook's RoBERTa model finetuned on the DynaHate dataset, Cardiff NLP’s Fine-Tuned RoBERTa model, Google's Perspective API with threshold 0.5, Perspective*'s threshold is 0.7, and OpenAI's Moderation API (moderation-latest).
 
 
 <p align="center">
-    <img src="https://anonymous.4open.science/r/hatemoderate-835F/hatemoderate/step2/app1.png"  width=1000>
+    <img src="https://anonymous.4open.science/r/HateModerate-4BE1/fail_rate_all.png"  width=1000>
+    <br>
+</p>
+
+The average failure rates of the hateful and non-hateful examples for different tiers of policies, and the average toxicity scores. F: Facebook model, C: Cardiff NLP, P: Perspective with threshold 0.5, P*: Perspective with threshold 0.7, O: OpenAI's API.
+
+<p align="center">
+    <img src="https://anonymous.4open.science/r/HateModerate-4BE1/table%201.png"  width=1000>
     <br>
 </p>
 
 
-## Step 3 (Section V) Automatically Matching Examples to Policies 
+## Mitigating Model Failures with Fine-Tuning HateModerate (Section 4.3) 
 
-### Instructions for reproducing (requires API keys for OpenAI)
+In this step, we compare the results of the two models: 
 
-0. Split hatemoderate into train and test: all_examples_new_hate.csv -> split_train_test.py train.csv test.csv
-1. Convert train into OpenAI compatible format: train.csv -> get_train.py -> train_pr0.jsonl (convert train to OpenAI compatible format)
-2. Prepare OpenAI training data: train_pr0.jsonl -> prepare_openai_compatible.sh -> train_pr0_prepared.jsonl
-3. Finetune using OpenAI API train_pr0_prepared.jsonl -> finetune.sh -> wait until finish to get the model name (Finetuned OpenAI model (models with stevens...))
-4. Use OpenAI API to predict test and compare with the ground truth to get the prediction accuracy: test.csv, model name -> prediction.py -> classification accuracy pasted to "experiment" spreadsheet (create two new tabs)
-5. Update table I
-6. Update Figure 7 using plot_step3.py
+    1. A RoBERTa-base model fine-tuned using all the available training data for the CardiffNLP model. We are only able to access 9 out of the 13 training datasets of the CardiffNLP model.
+    
+    2. A RoBERTa-base model fine-tuned using CardiffNLP's training data + HateModerate's reserved training data.
+
+- Step 1: Train a `roberta-base` hate speech detector with and without HateModerate dataset. The training process is managed by the `train_hate_model` function, and for this task, you need to set the following parameters:
+
+    - `model_name`: "roberta-base"
+    - `learning_rate`: 5e-6
+    - `n_epoch`: 3
+    - `model_type`: "roberta"
+    - The `include` parameter determines whether the HateModerate dataset is used:
+
+    - Set `include` to `False` when you want to train the model without the HateModerate dataset.
+    - Set `include` to `True` (or just omit it, since it defaults to True) when you want to train the model with the HateModerate dataset. In the paper we choose 5e-6 as learning rate with 3 epoches.
+
+    ```
+    $ python fine_tune/training/fine_tune.py "roberta-base" 5e-6 3 "roberta" False
+    ```
+    
+    For training models with more different learning rates and epoches, run `run_fine_tune` script below:
+
+    
+    ```
+    $ ./fine_tune/training/run_fine_tune.sh
+    ``` 
+    
+    Default setting:\
+    LEARNING_RATES=("1e-6" "2e-6" "3e-6" "5e-6" "8e-6" "1e-5")
+    \
+    EPOCHS=("1" "2" "3")
+    
+- Step 2: Testing Fine-tuned `roberta-base` models with following test collections, they can be accessed in `fine_tune/datasets/testing`: 
+    - The testing fold of HateModerate; 
+    - The 3 testing datasets of CardiffNLP; 
+    - HateCheck, a dataset for independent out-of-domain capability tests of hate speech.
+
+    ```
+    $ python fine_tune/testing/test.py
+    ```
 
 ### Main Results
 
-In Step 3, we match the examples to one of the policies. The overall accuracies can be found in the table below:
-
-<p align="center">
-    <img src="https://anonymous.4open.science/r/hatemoderate-835F/hatemoderate/step3/app2_table.png"  width=500>
-    <br>
-</p>
-
-The results of varying the hyperparameter in Step 3 can be found below:
+The overall failure rates of 2 models can be found in the table below:
 
 
-<p align="center">
-    <img src="https://anonymous.4open.science/r/hatemoderate-835F/hatemoderate/step3/app2.png"  width=1300>
+<p align="left">
+    <img src="https://anonymous.4open.science/r/HateModerate-4BE1/table%202.png"  width=500>
     <br>
 </p>
 
 
-
-Testing SOTA softwares
-python test_sota/cardiffnlp/testing_cardiffnlp.py
-python test_sota/facebook/testing_fb.py
-python test_sota/google/testing_perspective.py
-python test_sota/google/testing_openai.py
-
-Fine-tune LLMs
-python fine_tune/training/fine_tune.py "roberta-base" 5e-6 3 "roberta" False
-./fine_tune/training/run_fine_tune.sh
-
-Test finetuned model
-python fine_tune/testing/test.py

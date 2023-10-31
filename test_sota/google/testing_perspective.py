@@ -3,8 +3,12 @@
 from googleapiclient import discovery
 from googleapiclient.errors import HttpError
 import time
+import os
 
-API_KEY = 'YOUR_API_KEY'
+
+API_KEY = os.environ.get('GOOGLE_API_KEY')
+if API_KEY is None:
+    raise ValueError("Please set the GOOGLE_API_KEY environment variable")
 
 client = discovery.build(
   "commentanalyzer",
@@ -15,11 +19,12 @@ client = discovery.build(
 )
 
 
-def process_file(input_path, output_path):
+def process_file(input_path, hate_output_path, nonhate_output_path):
     fin = open(input_path, "r")
     fin.readline()
 
-    fout = open(output_path, "w")
+    hate_fout = open(hate_output_path, "w")
+    nonhate_fout = open(nonhate_output_path, "w")
     line_count = 0
 
     for line in fin:
@@ -29,6 +34,7 @@ def process_file(input_path, output_path):
         tokens = line.strip("\n").split("\t")
         example_id = tokens[0]
         sent = tokens[1]
+        label = tokens[-1]
 
         analyze_request = {
             'comment': {'text': sent},
@@ -38,23 +44,30 @@ def process_file(input_path, output_path):
         try:
             response = client.comments().analyze(body=analyze_request).execute()
             toxic_score = response["attributeScores"]["TOXICITY"]["summaryScore"]["value"]
-            fout.write(str(example_id) + "\t" + str(toxic_score) + "\n")
-            fout.flush()
+            output_line = str(example_id) + "\t" + str(toxic_score) + "\n"
+
+            if label == '1':
+                hate_fout.write(output_line)
+            elif label == '0':
+                nonhate_fout.write(output_line)
+            else:
+                print(f"Invalid label: {label} on line {line_count}")
+
+            hate_fout.flush()
+            nonhate_fout.flush()
             time.sleep(1)
         except HttpError as er:
             print("Error encountered. Sleeping for 5 seconds before retrying.")
             time.sleep(5)
             pass
 
-    fout.close()
+    fin.close()
+    hate_fout.close()
+    nonhate_fout.close()
 
 
+input_path = "fine_tune/datasets/testing/hatemoderate_test.csv"
+hate_output_path = "test_sota/google/perspective_hate.csv"
+nonhate_output_path = "test_sota/google/perspective_nonhate.csv"
 
-hate_input_path = "../postprocess/hate_test.csv"
-hate_output_path = "perspective.csv"
-
-nonhate_input_path = "../postprocess/nonhate_test.csv"
-nonhate_output_path = "perspective_nonhate.csv"
-
-process_file(hate_input_path, hate_output_path)
-process_file(nonhate_input_path, nonhate_output_path)
+process_file(input_path, hate_output_path, nonhate_output_path)
