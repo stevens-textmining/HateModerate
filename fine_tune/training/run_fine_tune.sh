@@ -11,7 +11,7 @@ for LR in "${LEARNING_RATES[@]}"; do
   for EPOCH in "${EPOCHS[@]}"; do
     for INCLUDE_HATEMODERATE in "${INCLUDE_OPTIONS[@]}"; do
       echo "Training with LR = $LR, EPOCH = $EPOCH, INCLUDE_HATEMODERATE = $INCLUDE_HATEMODERATE"
-      python fine_tune.py "$MODEL_NAME" "$LR" "$EPOCH" "$MODEL_TYPE" "$INCLUDE_HATEMODERATE"
+      python fine_tune/training/fine_tune.py "$MODEL_NAME" "$LR" "$EPOCH" "$MODEL_TYPE" "$INCLUDE_HATEMODERATE"
     done
   done
 done

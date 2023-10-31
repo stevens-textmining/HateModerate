@@ -10,7 +10,7 @@ def predict_hate_label(model_path, file_name, dataset, device, BATCH_SIZE=32):
     model = AutoModelForSequenceClassification.from_pretrained(model_path).to(device)
     tokenizer = AutoTokenizer.from_pretrained(model_path)
 
-    fout = open('../tmp/'+ file_name, "w")
+    fout = open('fine_tune/tmp/'+ file_name, "w")
     pipe = TextClassificationPipeline(model=model, tokenizer=tokenizer, device=device)
     BATCH_SIZE = BATCH_SIZE
     num_batches = len(dataset) // BATCH_SIZE + (1 if len(dataset) % BATCH_SIZE != 0 else 0)
@@ -74,7 +74,7 @@ def process_dataset(dataset_name, model_path, comparison_value, device):
         positive_sample['label'] = 'HATE'
         negative_sample['label'] = 'NOT-HATE'
         combined_sample = pd.concat([positive_sample, negative_sample]).reset_index(drop=True)
-    elif dataset_name == "../Hate_Check.csv": # local csv
+    elif dataset_name == "fine_tune/datasets/testing/Hate_Check.csv": # local csv
         df = pd.read_csv(dataset_name, sep = ',')
         df = df.rename(columns={"test_case": "text"})
         # df = df[df['split'] == 'train']
@@ -100,8 +100,10 @@ def process_dataset(dataset_name, model_path, comparison_value, device):
         print("Pattern not found in string")
 
     file_name = "{}_{}.csv".format(extracted_name, model_path.split('/')[-1])
+
+
     predict_hate_label(model_path, file_name, combined_sample, device)
-    df = pd.read_csv('../tmp/'+ file_name, sep='\t', header=None)
+    df = pd.read_csv('fine_tune/tmp/'+ file_name, sep='\t', header=None)
     matching_hate, total_hate = calculate_matching(df, 'HATE', comparison_value)
     matching_nothate, total_nothate = calculate_matching(df, 'NOT-HATE', comparison_value)
 
