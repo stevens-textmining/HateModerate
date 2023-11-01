@@ -33,6 +33,28 @@ There are two datasets.
     <br>
 </p>
 
+## Overview
+
+`example_id` is the unique ID of the entry.
+
+`sentence` is the content which has been entered.
+
+`dataset` is the source of this sentence.
+
+`index` is the position of the sentence within its original dataset. If the sentence is auto-generated, this value is set to -1.
+
+`guideline` is a categorical variable, providing which of Facebook’s hate speech community standard guidelines this sentence belongs to.
+
+`votes` provides the labels assigned by all annotators to this sentence, with 0 representing 'non-hate' and 1 representing 'hate'. A sentence is classified as hate if more than half of the annotators perceive it as hateful.
+
+`labelers` provides index of all annotators who reviewed this sentence.
+
+`type` is a categorical variable that indicates the classes to which this non-hateful example belongs.
+
+`label` is the index of the 'type' for these non-hateful sentences.
+
+`gpt_label` is the predicted 'label' for these non-hateful sentences, determined using GPT-4.
+
 
 ## Benchmarking Hate Speech Detectors' Consistency with Content Policies (Section IV)
 
@@ -78,7 +100,7 @@ Now we are ready to following steps:
     ```
     $ python test_sota/cardiffnlp/testing_cardiffnlp.py
     ```
-Then we can get result csv file for each of state-of-the-art softwares. For result csv files, the first column is **ID** of sentences, following the **predicted label**(hate or not hate), the last column is **toxity score**.
+Then we can get result csv files for each of state-of-the-art softwares. For result csv files, the first column is **ID** of sentences, following the **predicted label**(hate or not hate), the last column is **toxity score**.
 
 Note: Result csv file of Google's Perspective API only contains ID and toxity score. The third column of OpenAI API file is label of violence.
 
@@ -92,7 +114,7 @@ The main results can be found in the image below. It shows the failure rates det
     <br>
 </p>
 
-The average failure rates of the hateful and non-hateful examples for different tiers of policies, and the average toxicity scores. F: Facebook model, C: Cardiff NLP, P: Perspective with threshold 0.5, P*: Perspective with threshold 0.7, O: OpenAI's API.
+The table below shows the average failure rates of the hateful and non-hateful examples for different tiers of policies, and the average toxicity scores. F: Facebook model, C: Cardiff NLP, P: Perspective with threshold 0.5, P*: Perspective with threshold 0.7, O: OpenAI's API.
 
 <p align="center">
     <img src="https://anonymous.4open.science/r/HateModerate-4BE1/table%201.png"  width=1000>
@@ -116,8 +138,10 @@ In this step, we compare the results of the two models:
     - `model_type`: "roberta"
     - The `include` parameter determines whether the HateModerate dataset is used:
 
-    - Set `include` to `False` when you want to train the model without the HateModerate dataset.
-    - Set `include` to `True` (or just omit it, since it defaults to True) when you want to train the model with the HateModerate dataset. In the paper we choose 5e-6 as learning rate with 3 epoches.
+        - Set `include` to `False` when you want to train the model without the HateModerate dataset.
+        - Set `include` to `True` (or just omit it, since it defaults to True) when you want to train the model with the HateModerate dataset. 
+    
+    In the paper we choose 5e-6 as learning rate with 3 epoches.
 
     ```
     $ python fine_tune/training/fine_tune.py "roberta-base" 5e-6 3 "roberta" False
@@ -130,12 +154,15 @@ In this step, we compare the results of the two models:
     $ ./fine_tune/training/run_fine_tune.sh
     ``` 
     
-    Default setting:\
+    Default setting of `run_fine_tune`:
+    \
     LEARNING_RATES=("1e-6" "2e-6" "3e-6" "5e-6" "8e-6" "1e-5")
     \
     EPOCHS=("1" "2" "3")
     
-- Step 2: Testing Fine-tuned `roberta-base` models with following test collections, they can be accessed in `fine_tune/datasets/testing`: 
+    
+     
+- Step 2: Testing Fine-tuned `roberta-base` models with following test collections, they can be accessed in folder `fine_tune/datasets/testing`: 
     - The testing fold of HateModerate; 
     - The 3 testing datasets of CardiffNLP; 
     - HateCheck, a dataset for independent out-of-domain capability tests of hate speech.
