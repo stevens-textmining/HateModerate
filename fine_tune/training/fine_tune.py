@@ -2,26 +2,23 @@ import sys
 import os
 from simpletransformers.classification import ClassificationModel, ClassificationArgs
 import pandas as pd
+import argparse
 
 
-def train_hate_model(model_name,
-                     learning_rate=1e-6,
-                     n_epoch=3,
-                     train_file="fine_tune/datasets/training/hatemoderate_train.csv",
-                     test_file="fine_tune/datasets/testing/hatemoderate_test.csv",
-                     compare_datasets="fine_tune/datasets/training/cardiffnlp.pkl",
-                     include = True,
-                     model_type = "roberta"):
+def train_hate_model(args):
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-    model_args = ClassificationArgs()
+    train_file = "fine_tune/datasets/training/hatemoderate_train.csv"
+    test_file = "fine_tune/datasets/testing/hatemoderate_test.csv"
+    compare_datasets = "fine_tune/datasets/training/cardiffnlp.pkl"
 
-    model_args.learning_rate = learning_rate
-    model_args.num_train_epochs = n_epoch
+    model_args = ClassificationArgs()
+    model_args.learning_rate = args.learning_rate
+    model_args.num_train_epochs = args.n_epoch
     model_args.train_batch_size = 32
     model_args.eval_batch_size = 32
     model_args.n_gpu = 4
-    model_args.output_dir = "{}_lr={}_epoch={}_hatemoderate".format(model_name.replace("/", "-"), learning_rate, n_epoch)
+    model_args.output_dir = "{}_lr={}_epoch={}_hatemoderate".format(args.model_name.replace("/", "-"), args.learning_rate, args.n_epoch)
     model_args.overwrite_output_dir = True
     model_args.save_best_model = True
     model_args.use_multiprocessing = False
@@ -29,7 +26,7 @@ def train_hate_model(model_name,
     model_args.evaluate_during_training = True
     model_args.evaluate_during_training_steps = 100
 
-    model = ClassificationModel(model_type, model_name, num_labels=2, args=model_args)
+    model = ClassificationModel(args.model_type, args.model_name, num_labels=2, args=model_args)
 
     cardiffnlp_datasets = pd.read_pickle(compare_datasets)
     cardiffnlp_datasets = cardiffnlp_datasets.rename(columns={"label": "labels"})
@@ -39,7 +36,7 @@ def train_hate_model(model_name,
 
     train_df = pd.read_csv(train_file, sep="\t")
     train_df = train_df.rename(columns={"sentence": "text"}).sample(frac=1)
-    if include == True:
+    if args.include == True:
         train_df = pd.concat([train_df[columns], cardiffnlp_datasets[columns]])
     else:
         train_df = pd.concat([cardiffnlp_datasets[columns]])
@@ -52,10 +49,14 @@ def train_hate_model(model_name,
 
 
 
-model_name_to_use = sys.argv[1]
-learning_rate_to_use = float(sys.argv[2])
-n_epoch_to_use = int(sys.argv[3])
-model_type_to_use = sys.argv[4]
-include_hatemoderate = sys.argv[5]
-train_hate_model(model_name_to_use, learning_rate=learning_rate_to_use, n_epoch=n_epoch_to_use, model_type= model_type_to_use, include = include_hatemoderate)
-# Example: python fine_tune.py "roberta-base" 5e-6 3 "roberta" False
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Train a hate speech classification model.")
+    parser.add_argument("--model_name", type=str, help="The name or path of the pre-trained model.")
+    parser.add_argument("--learning_rate", type=float, default=5e-6, help="The learning rate to use for training. Default: 5e-6.")
+    parser.add_argument("--n_epoch", type=int, default=3, help="The number of epochs to train for. Default: 3.")
+    parser.add_argument("--model_type", type=str, default="roberta", help="The type of the model (e.g., 'roberta', 'bert'). Default: 'roberta'.")
+    parser.add_argument("--include", action="store_true", default=True, help="Whether to include the hatemoderate dataset in training. Default: True.")
+    parser.add_argument("--no-include", action="store_false", dest="include",
+                        help="Do not include the hatemoderate dataset in training.")
+    args = parser.parse_args()
+    train_hate_model(args)

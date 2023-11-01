@@ -2,21 +2,15 @@
 
 This is the anonymous repository for our paper "HateModerate: Grounding and Benchmarking Hate Speech Detection with Content Policies"
 
+- First of all, clone the repository and make sure that your are current in the root path of repository `Hatemoderate`.
+
 ## Install
+
+
 ```
-pip install torch pandas transformers datasets simpletransformers tqdm googleapiclient openai
+pip install -r requirements.txt
 ```
 
-Dependencies:
-
-- [pytorch](https://pytorch.org)
--  `pandas` for loading and processing csv files
--  `transformers` for huggingface transformers
--  `datasets` for huggingface datasets
--  `tqdm` for progress bars
--  `simpletransformers` for easily fine-tuning training
--  `googleapiclient` for accessing Google's Perspective API
--  `openai` for accessing OpenAI's API
 
 ## Datasets Summary:
 
@@ -33,7 +27,9 @@ There are two datasets.
     <br>
 </p>
 
-## Overview
+### Overview of Final Datasets
+
+List of columns in `all_examples_hate.csv` and `all_examples_nonhate.csv`:
 
 `example_id` is the unique ID of the entry.
 
@@ -56,7 +52,9 @@ There are two datasets.
 `gpt_label` is the predicted 'label' for these non-hateful sentences, determined using GPT-4.
 
 
-## Benchmarking Hate Speech Detectors' Consistency with Content Policies (Section IV)
+
+
+## Benchmarking Hate Speech Detectors' Consistency with Content Policies (Section 4.1 & Section 4.2)
 
 ### Instructions for reproducing (requires API keys for OpenAI and Google Perspective) 
 
@@ -73,9 +71,8 @@ set GOOGLE_API_KEY=your_api_key_here
 set OPENAI_API_KEY=your_api_key_here
 ```
 
-Now we are ready to following steps:
+Now we are ready to the following steps:
 
-- Step 0: Clone the repository and make sure that your are current in the root path of repository `Hatemoderate`.
 
 - Step 1: Testing Facebook’s Fine-Tuned RoBERTa mode using HateModerate test cases `fine_tune/datasets/testing/hatemoderate_test.csv`:
 
@@ -132,19 +129,18 @@ In this step, we compare the results of the two models:
 
 - Step 1: Train a `roberta-base` hate speech detector with and without HateModerate dataset. The training process is managed by the `train_hate_model` function, and for this task, you need to set the following parameters:
 
-    - `model_name`: "roberta-base"
-    - `learning_rate`: 5e-6
-    - `n_epoch`: 3
-    - `model_type`: "roberta"
-    - The `include` parameter determines whether the HateModerate dataset is used:
-
-        - Set `include` to `False` when you want to train the model without the HateModerate dataset.
-        - Set `include` to `True` (or just omit it, since it defaults to True) when you want to train the model with the HateModerate dataset. 
+    - `--model_name`: "roberta-base"
+    - `--learning_rate`: 5e-6
+    - `--n_epoch`: 3
+    - `--model_type`: "roberta"
+    
+        - Set `--include` when you want to train the model without the HateModerate dataset.
+        - Set `--no-include` (or just omit it, since it defaults to True) when you want to train the model with the HateModerate dataset. 
     
     In the paper we choose 5e-6 as learning rate with 3 epoches.
 
     ```
-    $ python fine_tune/training/fine_tune.py "roberta-base" 5e-6 3 "roberta" False
+    $ python fine_tune/training/fine_tune.py --model_name "roberta-base" --learning_rate 5e-6 --n_epoch 3 --model_type "roberta"  --no-include
     ```
     
     For training models with more different learning rates and epoches, run `run_fine_tune` script below:

@@ -9,9 +9,10 @@ INCLUDE_OPTIONS=("True" "False")
 
 for LR in "${LEARNING_RATES[@]}"; do
   for EPOCH in "${EPOCHS[@]}"; do
-    for INCLUDE_HATEMODERATE in "${INCLUDE_OPTIONS[@]}"; do
-      echo "Training with LR = $LR, EPOCH = $EPOCH, INCLUDE_HATEMODERATE = $INCLUDE_HATEMODERATE"
-      python fine_tune/training/fine_tune.py "$MODEL_NAME" "$LR" "$EPOCH" "$MODEL_TYPE" "$INCLUDE_HATEMODERATE"
-    done
+    echo "Training with LR = $LR, EPOCHS = $EPOCH, INCLUDE = False"
+    python fine_tune/training/fine_tune.py --model_name "$MODEL_NAME" --learning_rate "$LR" --n_epoch "$EPOCH" --model_type "$MODEL_TYPE" --no-include
+
+    echo "Training with LR = $LR, EPOCHS = $EPOCH, INCLUDE = True"
+    python fine_tune/training/fine_tune.py --model_name "$MODEL_NAME" --learning_rate "$LR" --n_epoch "$EPOCH" --model_type "$MODEL_TYPE" --include
   done
 done
