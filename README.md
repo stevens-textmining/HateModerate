@@ -123,9 +123,11 @@ The table below shows the average failure rates of the hateful and non-hateful e
 
 In this step, we compare the results of the two models: 
 
-    1. A RoBERTa-base model fine-tuned using all the available training data for the CardiffNLP model. We are only able to access 9 out of the 13 training datasets of the CardiffNLP model.
+ 1. A RoBERTa-base model fine-tuned using all the available training data for the CardiffNLP model. We are only able to access 9 out of the 13 training datasets of the CardiffNLP model.
     
-    2. A RoBERTa-base model fine-tuned using CardiffNLP's training data + HateModerate's reserved training data.
+ 2. A RoBERTa-base model fine-tuned using CardiffNLP's training data + HateModerate's reserved training data.
+
+
 
 - Step 1: Train a `roberta-base` hate speech detector with and without HateModerate dataset. The training process is managed by the `train_hate_model` function, and for this task, you need to set the following parameters:
 
