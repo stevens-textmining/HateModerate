@@ -136,8 +136,8 @@ In this step, we compare the results of the two models:
     - `--n_epoch`: 3
     - `--model_type`: "roberta"
     
-        - Set `--include` when you want to train the model without the HateModerate dataset.
-        - Set `--no-include` (or just omit it, since it defaults to True) when you want to train the model with the HateModerate dataset. 
+        - Set `--no-include` when you want to train the model without the HateModerate dataset.
+        - Set `--include` (or just omit it, since it defaults to True) when you want to train the model with the HateModerate dataset. 
     
     In the paper we choose 5e-6 as learning rate with 3 epoches.
 
@@ -154,7 +154,7 @@ In this step, we compare the results of the two models:
     
     Default setting of `run_fine_tune`:
     \
-    LEARNING_RATES=("1e-6" "2e-6" "3e-6" "5e-6" "8e-6" "1e-5")
+    LEARNING_RATES=("1e-6" "2e-6" "3e-6" "5e-6" "1e-5" "2e-5")
     \
     EPOCHS=("1" "2" "3")
     
