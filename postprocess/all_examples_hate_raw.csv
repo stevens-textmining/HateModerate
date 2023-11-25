@@ -385,6 +385,20 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 754	Muslims are maggots	dynahate	90100	insects	1;1	2;4
 756	The cockroaches don't understand the value of hard work and are always trying to take shortcuts.	manual	-1	insects	1;1	2;4
 757	Blacks should be exterminated like vermin, because that's all they are.	manual	-1	insects	1;1	2;4
+759	Those locusts think they can just swarm in and take over without consequences, but they're wrong.	gpt	-1	insects	1;1	2;4
+760	Don't let the locusts deceive you, they don't have your best interests at heart.	gpt	-1	insects	1;1	2;4
+761	These cockroaches have no respect for our laws and cultural norms.	gpt	-1	insects	1;1	2;4
+764	Locusts should not be tolerated in our society, they're nothing more than parasites.	gpt	-1	insects	1;1	2;4
+765	These cockroaches will never understand the value of money, they just want to take it.	gpt	-1	insects	1;1	2;4
+770	No mercy for these cockroaches, they have no place in our society.	gpt	-1	insects	1;1	2;4
+773	Don't let the locusts deceive you, they don't have any respect for our laws.	gpt	-1	insects	1;1	2;4
+775	These locusts think they can just come in and take over, but they're wrong.	gpt	-1	insects	1;1	2;4
+777	We must get rid of these locusts, or else our society will be overrun.	gpt	-1	insects	1;1	2;4
+779	Those locusts are always looking to take advantage of us, so don't be fooled by them.	gpt	-1	insects	1;1	2;4
+780	Don't let the cockroaches deceive you, they're not here to help, just to take.	gpt	-1	insects	1;1	2;4
+782	These cockroaches will never understand the value of hard work, they just want a handout.	gpt	-1	insects	1;1	2;4
+786	This country is being overrun by a swarm of locusts, we need to control the borders.	gpt	-1	insects	1;1	2;4
+788	I am not saying all immigrants are like cockroaches but some certainly are.	gpt	-1	insects	1;1	2;4
 902	muslims are a virus	dynahate	261	bacteria	1;1;1	11;2;4
 903	the virus (aka gay people) only brings misery to your life	dynahate	293	bacteria	1;1;1	11;2;4
 905	Chinese are a virus	dynahate	348	bacteria	1;1;1	11;2;4
@@ -752,11 +766,60 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 2252	All Rohingya are rapists	dynahate	39459	sexual predator	1;1;1	13;2;12
 2253	Muslims are rapists	dynahate	39539	sexual predator	1;1;1	13;2;12
 2254	May the Rakhine people & and all Myanmar citizens be free from the dangers of sons of a dog, grandchildren of a pig kalar, and rapists	dynahate	93100	sexual predator	1;1;1	13;2;12
+2256	All the Muslim men are nothing more than child molesters.	gpt	-1	sexual predator	1;1;1	13;2;12
+2257	These Muslim men are nothing more than sexual deviants.	gpt	-1	sexual predator	1;1;1	13;2;12
+2258	These Middle Eastern men are nothing more than sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2259	No Muslim man can be trusted, they are all sexual offenders.	gpt	-1	sexual predator	1;1;1	13;2;12
+2260	The Muslim community is just a bunch of pedophiles.	gpt	-1	sexual predator	1;1;1	13;2;12
+2261	Don't trust any Muslim men, they are just predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2262	All Middle Eastern men are potential rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
+2263	The Muslim population is composed of rapists and perverts.	gpt	-1	sexual predator	1;1;1	13;2;12
+2264	These Muslim men are nothing more than sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
 2265	Don't let any Muslim man around your children, they are all potential rapists.	manual	-1	sexual predator	1;1;1	13;2;12
+2266	These Middle Eastern men are nothing more than sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
 2267	All Muslim men are likely to be predators.	manual	-1	sexual predator	1;1;1	13;2;12
 2268	It's no surprise Muslim men are sexual predators.	manual	-1	sexual predator	1;1;1	13;2;12
 2269	Muslim men are nothing more than sexual predators.	manual	-1	sexual predator	1;1;1	13;2;12
+2270	The Muslim population is made up of rapists and perverts.	gpt	-1	sexual predator	1;1;1	13;2;12
 2271	All Muslim men are potential rapists.	manual	-1	sexual predator	1;1;1	13;2;12
+2272	Be careful around Muslim men, they are all potential sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2273	Muslim men are nothing more than sexual predators preying on the innocent.	gpt	-1	sexual predator	1;1;1	13;2;12
+2274	Do not trust any Muslim man, they are all potential rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
+2275	It's no wonder Muslim men are sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2276	Muslims are nothing more than sexual deviants.	gpt	-1	sexual predator	1;1;1	13;2;12
+2277	All Muslim men are just predators waiting to strike.	gpt	-1	sexual predator	1;1;1	13;2;12
+2278	Muslim men are nothing more than sexual predators looking for their next victim.	gpt	-1	sexual predator	1;1;1	13;2;12
+2279	Don't trust any Muslim men, they are all potential rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
+2280	It's no surprise that Muslim men are sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2281	These Middle Eastern men are nothing more than sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2282	All Muslim men are nothing more than sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2283	No Muslim man can be trusted, they are all sexual offenders.	gpt	-1	sexual predator	1;1;1	13;2;12
+2284	The Muslim population is made up of rapists and perverts.	gpt	-1	sexual predator	1;1;1	13;2;12
+2285	Be careful of Muslim men, they are all potential sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2286	The Muslim community is just a bunch of pedophiles.	gpt	-1	sexual predator	1;1;1	13;2;12
+2287	Do not let any Muslim man near your children, they are all potential rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
+2288	Muslim men are nothing more than sexual predators preying on the innocent.	gpt	-1	sexual predator	1;1;1	13;2;12
+2289	All Muslim men are just predators waiting to strike.	gpt	-1	sexual predator	1;1;1	13;2;12
+2290	Muslim men are nothing more than sexual predators looking for their next victim.	gpt	-1	sexual predator	1;1;1	13;2;12
+2291	Don't trust any Muslim men, they are all potential rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
+2292	It's no wonder Muslim men are sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2293	Muslims are nothing more than sexual deviants.	gpt	-1	sexual predator	1;1;1	13;2;12
+2294	All Muslim men are potential rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
+2295	The Muslim population is composed of rapists and perverts.	gpt	-1	sexual predator	1;1;1	13;2;12
+2296	These Muslim men are nothing more than sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2297	Don't let any Muslim man around your children, they are all potential rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
+2298	These Middle Eastern men are nothing more than sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2299	All Muslim men are likely to be predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2300	It's no surprise Muslim men are sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2301	Muslims are nothing but sexual predators and lechers.	gpt	-1	sexual predator	1;1;1	13;2;12
+2302	No Muslim man can be trusted, they are all sexual offenders.	gpt	-1	sexual predator	1;1;1	13;2;12
+2303	The Muslim community is nothing more than a collection of pedophiles and rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
+2304	Do not trust any Muslim man, they are all potential rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
+2305	It's no wonder Muslim men are sexual predators.	gpt	-1	sexual predator	1;1;1	13;2;12
+2306	Muslims are nothing more than sexual deviants.	gpt	-1	sexual predator	1;1;1	13;2;12
+2307	All Muslim men are just predators waiting to strike.	gpt	-1	sexual predator	1;1;1	13;2;12
+2308	Muslim men are nothing more than sexual predators looking for their next victim.	gpt	-1	sexual predator	1;1;1	13;2;12
+2309	Don't trust any Muslim men, they are all potential rapists.	gpt	-1	sexual predator	1;1;1	13;2;12
 2400	I can't stand those dirty fucking currymunchers. They are not actually people they are beasts!	dynahate	2567	subhumanity	1;1	1;2
 2402	Primitive towel heads, they should be called, tend to be the worst workers around	dynahate	4598	subhumanity	1;1;1	10;11;2
 2403	Primitive camel jockeys, as they are usually called, tend to be the most radical and dangerous	dynahate	4608	subhumanity	1;1;1	10;11;2
@@ -882,6 +945,22 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 2557	A lot of the comments I read here proves that Malcom X was right too many white people are devils.	data	2332	subhumanity	1;1;1	10;11;2
 2558	How disgusting. Jesus, please save these babies from those monsters.	data	2654	subhumanity	1;1;1	10;11;2
 2559	So, wearing a full hijab and dehumanizing women is now dignity? Only when invaders do it though. If white men made you do it it'd be oppression. But white people don't make you wear it, European peoples ended slavery and yet were the baaaad people. Its gonna be funny when were gone and you'll all be pining for our decency when overlorded by corrupted savages.	data	4026	subhumanity	1;1;1	10;11;2
+2560	He's a subhuman, not fit to be around decent people.	gpt	-1	subhumanity	1;1;1	10;11;2
+2561	Those savages don't deserve basic human rights.	gpt	-1	subhumanity	1;1;1	10;11;2
+2564	Those primitives need to be civilized.	gpt	-1	subhumanity	1;1;1	10;11;2
+2568	He's less than human for his actions.	gpt	-1	subhumanity	1;1;1	10;11;2
+2569	Those savages need to be taught a lesson.	gpt	-1	subhumanity	1;1;1	10;11;2
+2570	That devil should be punished for his crimes.	gpt	-1	subhumanity	1;1;1	10;11;2
+2572	Those primitives need to be educated.	gpt	-1	subhumanity	1;1;1	10;11;2
+2577	Those savages need to be put in their place.	gpt	-1	subhumanity	1;1;1	10;11;2
+2578	That devil should be locked away forever.	gpt	-1	subhumanity	1;1;1	10;11;2
+2580	Those primitives need to be taught a lesson.	gpt	-1	subhumanity	1;1;1	10;11;2
+2581	He's a barbarian for his cruel behavior.	gpt	-1	subhumanity	1;1;1	10;11;2
+2584	He's not fit to be called human.	gpt	-1	subhumanity	1;1;1	10;11;2
+2585	Those savages don't belong in our society.	gpt	-1	subhumanity	1;1;1	10;11;2
+2586	That devil should be cast out.	gpt	-1	subhumanity	1;1;1	10;11;2
+2587	He's no better than a savage.	gpt	-1	subhumanity	1;1;1	10;11;2
+2588	She's a devil in disguise.	gpt	-1	subhumanity	1;1;1	10;11;2
 2589	Indians and chinese are savages for eating anyhting	manual	-1	subhumanity	1;1;1	10;11;2
 2590	Blacks are primitive brutes	manual	-1	subhumanity	1;1;1	10;11;2
 2591	Indians are primitive savages	manual	-1	subhumanity	1;1;1	10;11;2
@@ -1068,22 +1147,54 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 3339	That's Ellen Page, and she's a woman. There is no such thing as an Elliot Page.	twitter	https://twitter.com/adrianreturns/status/1544356238506565634	deny existence	1;1;1	8;13;1
 3340	Ellen Page is not a biological Male she just chopped off her tits to pretend to be one and twitter wants to force you to pretend along	twitter	https://twitter.com/Hydekar2/status/1544364860158394370	deny existence	1;1;1	8;13;1
 3341	Proud Terf. Biological women are real women and the only women.	twitter	https://twitter.com/BigSisBri333/status/1544405669054406657	deny existence	1;1;1	8;13;1
+3344	Trans people are a figment of someone's imagination.	gpt	-1	deny existence	1;1;1	8;13;1
+3345	Trans individuals are not real.	gpt	-1	deny existence	1;1;1	8;13;1
 3346	Trans people are just a myth	gpt	-1	deny existence	1;1;1	8;13;1
 3347	Trans people don't exist, they're just a concept.	gpt	-1	deny existence	1;1;1	8;13;1
+3348	Trans people are nothing more than a construct.	gpt	-1	deny existence	1;1;1	8;13;1
+3349	Trans people are an illusion	gpt	-1	deny existence	1;1;1	8;13;1
+3350	Trans people are not a legitimate group	gpt	-1	deny existence	1;1;1	8;13;1
+3351	Trans people are a figment of the public's imagination.	gpt	-1	deny existence	1;1;1	8;13;1
+3352	Trans people are just a made-up idea.	gpt	-1	deny existence	1;1;1	8;13;1
+3353	Trans people are not a real thing.	gpt	-1	deny existence	1;1;1	8;13;1
+3354	Trans people are not a valid group of people.	gpt	-1	deny existence	1;1;1	8;13;1
+3355	Trans people are not legitimate individuals.	gpt	-1	deny existence	1;1;1	8;13;1
+3356	There is no such thing as trans people.	gpt	-1	deny existence	1;1;1	8;13;1
+3357	Trans people are a made-up concept.	gpt	-1	deny existence	1;1;1	8;13;1
+3358	Trans people are not real, they are just a product of someone's imagination.	gpt	-1	deny existence	1;1;1	8;13;1
+3359	Trans people don't really exist, they're just a fabrication.	gpt	-1	deny existence	1;1;1	8;13;1
+3360	Trans people don't exist, they're just a figment of someone's imagination.	gpt	-1	deny existence	1;1;1	8;13;1
+3361	Trans people are nothing more than a false concept.	gpt	-1	deny existence	1;1;1	8;13;1
+3362	Trans people are a lie	gpt	-1	deny existence	1;1;1	8;13;1
 3363	There is no such thing as LGBT, there are only men and women	gpt	-1	deny existence	1;1;1	8;13;1
+3364	There's no such thing as transgender- it's a mental disorder	gpt	-1	deny existence	1;1;1	8;13;1
 3365	It's time to face the fact that there is no such thing as trans people.	gpt	-1	deny existence	1;1;1	8;13;1
+3366	There's no such thing as a transgender person, it's a mental illness	gpt	-1	deny existence	1;1;1	8;13;1
+3367	There is no such thing as transgender, just men and women	gpt	-1	deny existence	1;1;1	8;13;1
+3368	There's no such thing as a transgender person, it's a mental illness	gpt	-1	deny existence	1;1;1	8;13;1
+3369	There's no such thing as transgender people, they just have a mental disorder	gpt	-1	deny existence	1;1;1	8;13;1
 3370	There is no such thing as a transgender, it's just a mental disorder	gpt	-1	deny existence	1;1;1	8;13;1
 3371	There's no such thing as transgender, it's just a mental illness	gpt	-1	deny existence	1;1;1	8;13;1
+3372	No such thing as transgender, it's just a made up thing	gpt	-1	deny existence	1;1;1	8;13;1
 3373	There's no such thing as a trans person, it's just a mental disorder	gpt	-1	deny existence	1;1;1	8;13;1
+3374	There is no such thing as transgender, it's a mental disorder	gpt	-1	deny existence	1;1;1	8;13;1
 3375	There's no such thing as a transgender person, it's just a lie	gpt	-1	deny existence	1;1;1	8;13;1
 3376	There is no such thing as a transgender person, it's all in the head	gpt	-1	deny existence	1;1;1	8;13;1
+3377	There's no such thing as transgender. It's just a mental disorder.	gpt	-1	deny existence	1;1;1	8;13;1
+3378	Transgender is not real. It's a myth.	gpt	-1	deny existence	1;1;1	8;13;1
 3379	Trans people are not real, they are just a made-up label	gpt	-1	deny existence	1;1;1	8;13;1
 3380	Transgender isn't a real thing, it's just a mental disorder	gpt	-1	deny existence	1;1;1	8;13;1
+3381	There's no such thing as transgenders, just people with gender identity issues	gpt	-1	deny existence	1;1;1	8;13;1
 3382	There's no such thing as transgender, it's just a mental illness	gpt	-1	deny existence	1;1;1	8;13;1
 3383	Transgender isn't real, it's just an excuse for people to dress how they want	gpt	-1	deny existence	1;1;1	8;13;1
 3384	Trans people don't exist, it's just a mental illness	gpt	-1	deny existence	1;1;1	8;13;1
+3385	Transgender is a mental illness, not a real thing	gpt	-1	deny existence	1;1;1	8;13;1
 3386	Trans people are not real, it's just a mental disorder	gpt	-1	deny existence	1;1;1	8;13;1
+3387	Transgender isn't a real thing, it's just a fantasy	gpt	-1	deny existence	1;1;1	8;13;1
+3388	There's no such thing as trans people, it's just a figment of the imagination	gpt	-1	deny existence	1;1;1	8;13;1
+3389	There is no such thing as transgender, it's just a mental illness	gpt	-1	deny existence	1;1;1	8;13;1
 3390	Transgender is not real, it's just a made up label	gpt	-1	deny existence	1;1;1	8;13;1
+3391	Transgender isn't a real thing, it's just a mental illness	gpt	-1	deny existence	1;1;1	8;13;1
 3392	No such thing as transgender, just a made-up label	gpt	-1	deny existence	1;1;1	8;13;1
 3393	Transgender people don't exist, they are just a figment of someone's imagination	gpt	-1	deny existence	1;1;1	8;13;1
 3600	dalits are lowlives	dynahate	1	harmful stereotype	1	2
@@ -1138,6 +1249,104 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 3694	well there was no Holocaust so the whole thing is a lie regardless of what you think	dynahate	13360	harmful stereotype	1;1;1	10;11;2
 3695	He's lying, its obvious there was no Holocaust.	dynahate	13362	harmful stereotype	1;1;1	10;11;2
 3696	Don't light anything up if it can be avoided. Stay cool. Take back control of the media and the banks from the luciferans before they ruin America and the rest of the world. Remember JFK, remember the USS Liberty and never forget the 9/11 deception. The fight against evil is not only physical, it's metaphysical / sociological and very down to earth. Stay frosty, stay cool and continue to hold the line.	dynahate	13509	harmful stereotype	1;1;1	10;11;2
+3697	Jewish people are using the media to manipulate public opinion.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3698	The media is controlled by Jewish people and used to push their agenda.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3699	Jewish people are controlling the narrative in the media.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3700	The media is being used as a tool to spread Jewish propaganda.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3701	Jewish people are using the media to silence dissenting voices.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3702	Jewish people are using the power of the media to control the masses.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3703	Jewish people are manipulating the media to spread lies and manipulate the public.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3704	Jewish people have too much control over the media and are using it to their advantage.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3705	The media is being used as a weapon by Jewish people to spread their hateful message.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3706	Jewish people are using the media to push their own agenda and control public discourse.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3707	The media is being used as a tool of oppression by Jewish people to silence dissent.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3708	Jewish people are using the power of the media to push their own agenda.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3709	The media is being used to push a Jewish agenda and manipulate public opinion.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3710	Jewish people have too much control over the media and are using it to push their own agenda.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3712	Jewish people are using the media to spread their hateful ideologies.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3713	Jewish people are using the media to push a one-sided narrative.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3714	Jewish people are manipulating the media to promote their own interests.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3716	Jewish people are using the power of the media to spread hatred and bigotry.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3717	Dalits are nothing more than cheap labor, fit only for menial tasks.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3718	Dalits are like animals, good only for manual labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3719	Dalits are born to serve and work as servants.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3720	Dalits are such inferior people they don't even deserve to be called human.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3721	Dalits are too dumb to do anything but the most basic of labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3722	Dalits are the scum of India and should be treated as such.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3723	Dalits are too stupid to do anything other than menial tasks.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3724	Dalits are only fit to be treated like slaves and do all the dirty work.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3726	Dalits are only good for menial labor and nothing else.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3727	Dalits are expendable and should be used for manual labor whenever possible.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3728	Dalits are too low to be given any other job apart from menial labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3729	Dalits are no better than beasts of burden and should be treated as such.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3730	Dalits are too lazy to do anything besides menial work.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3731	Dalits should never be given a chance to do anything other than basic labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3732	Dalits are the lowest of the low and should be kept in their place.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3733	Dalits are not worthy of any other kind of job apart from menial labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3734	Dalits are too stupid to do anything but menial labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3735	Dalits are inferior to everyone else and should be kept in line with menial work.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3736	Dalits are just good for menial tasks, nothing else.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3738	Dalits are nothing more than a source of cheap labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3739	Dalits are too worthless to do anything other than menial labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3740	Dalits should never be allowed to do anything other than manual labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3741	Dalits are the lowest of all and should only be given menial jobs.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3742	Dalits are too inferior to do anything more than menial labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3743	Dalits are only good for doing the dirty and hard labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3744	Dalits are not worthy of any other kind of job except menial labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3745	Dalits should be kept in their place and only given menial labor to do.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3746	Dalits are nothing more than cheap labor, fit only for menial tasks.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3747	Dalits deserve to be treated like dirt and made to do the hard labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3748	Dalits are too worthless to do anything else except menial tasks.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3749	Dalits are the scum of India and should only be given menial labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3750	Dalits are too dumb to do anything but the most basic of labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3751	Dalits are too worthless to do anything else than menial labor.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3752	Blackface is the perfect way to make fun of African Americans.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3753	Itâs hilarious to put on blackface and do a minstrel show.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3754	Blackface is a great way to mock black people.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3755	A white person wearing blackface is the funniest thing ever.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3756	Blackface is a great costume for Halloween.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3757	Dressing up in blackface is the best way to get a laugh.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3758	Putting on blackface is the best way to insult African Americans.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3759	People should wear blackface to make fun of black people.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3760	Blackface performances are a great way to poke fun at African Americans.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3762	The gas chambers and ovens used for mass extermination of Jews never existed.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3763	Hitler had no knowledge of and was not responsible for the Holocaust.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3764	Jews were not targeted specifically for extermination by the Nazis.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3765	Jews have used the Holocaust to gain political and financial advantage.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3766	Jews willingly cooperated in their own deportation and extermination.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3767	Jews were used as forced labor and not killed in mass numbers.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3768	These stupid kikes who are holocaust survivors are lying about their experiences.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3769	The Holocaust was not an act of genocide but rather a tragic consequence of war. Stop believing lies of the kikes	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3770	Jews control all the banks in the world.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3771	The Jews are behind every political decision that's made.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3772	The media is controlled by the Jews.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3773	The Jews have too much influence in politics.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3774	Jewish people are responsible for all the economic problems in the world.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3775	The Jews run everything in the world.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3776	The Jews are trying to control the world.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3777	The Jews dominate the financial system.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3778	Jewish people are only interested in advancing their own interests.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3779	Jewish people are taking over the world.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3780	The Jewish elite are the puppet masters behind the government.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3781	The Jews are secretly controlling the banking industry.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3782	The Jewish media is manipulating people's opinions.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3783	Jewish people are using their money and power to gain control.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3784	The Jews are running the show in Washington.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3785	The Jews are running the world's economy.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3786	Jewish people are manipulating world governments.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3787	The Jews are dominating the world's political landscape.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3788	The Jews are controlling the world's news outlets.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3789	The Jewish people are controlling the world's finances.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3790	Jewish people are the puppet masters of the government, pulling the strings behind the scenes.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3791	Jewish people control the banking industry and use their power to manipulate the economy.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3792	Jewish people control the media and use it as a tool to spread their agenda.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3793	Jewish people are behind every major political decision and use their influence to gain even more power.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3794	Jewish people are the secret rulers of the world, using their financial and political clout to control the masses.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3795	The Jews are to blame for the current state of the economy.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3796	Jewish people control the government and dictate our laws.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3797	The media is run by Jewish people and they use it to push their agenda.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3798	Jewish people are manipulating the stock market to their own advantage.	gpt	-1	harmful stereotype	1;1;1	10;11;2
+3799	Jewish people are using their money and power to control the world.	gpt	-1	harmful stereotype	1;1;1	10;11;2
 3900	I remember how uncomfortable he felt when I used to hear the others call my childhood's friend darky, but in retrospect I think he deserved it	dynahate	4096	hatecrime victim	1	2
 3901	Native Americans deserved all the treatment they got from us when we founded america, nothing but backward.	dynahate	7028	hatecrime victim	1;1	13;2
 3902	Basically the difference between what Germany did to the Jews and what America did to Blacks is that the blacks deserved it. This is why they've been angry.	dynahate	30365	hatecrime victim	1;1	13;2
@@ -1943,6 +2152,11 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 5791	muslims  are all greedy	manual	-1	attacking character trait	1	2
 5792	immigrants are all greedy	manual	-1	attacking character trait	1	2
 5793	women are all greedy	manual	-1	attacking character trait	1	2
+5794	That black person is so cowardly, they must be too scared to stand up for themselves.	gpt	-1	attacking character trait	1	2
+5795	That group of black people are nothing but liars, they can't be trusted.	gpt	-1	attacking character trait	1	2
+5796	That black individual is so arrogant, they must think they're superior.	gpt	-1	attacking character trait	1	2
+5797	That black community is so ignorant, they must not be able to understand.	gpt	-1	attacking character trait	1	2
+5798	That black person is a liar, they can't be trusted.	gpt	-1	attacking character trait	1	2
 6001	fuck whores and their shitty clothes	dynahate	1690	attacking derogatory term	1;1	2;3
 6003	the worst kind of bird is a total whore who tricks you!	dynahate	4984	attacking derogatory term	1;1	3;2
 6005	This is unbelievable. I do think that whores shouldn't be allowed to breathe because of all this crap they put us through daily.	dynahate	5731	attacking derogatory term	1;1;1	8;9;2
@@ -2506,52 +2720,224 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 7072	western culture is superior to black culture	dynahate	38477	better worse than	1;1;1	3;6;2
 7073	Han Chinese are superior to the rest of the population	dynahate	39709	better worse than	1;1;1	3;6;2
 7074	western culture is superior to Asian culture	dynahate	80100	better worse than	1;1;1	3;6;2
+7075	Asians are below Caucasians	gpt	-1	better worse than	1;1;1	3;6;2
+7076	Males are more capable than females	gpt	-1	better worse than	1;1;1	3;6;2
+7077	Men are superior to women	gpt	-1	better worse than	1;1;1	3;6;2
+7078	Boys are more competent than girls	gpt	-1	better worse than	1;1;1	3;6;2
+7079	Men are better than women in math	gpt	-1	better worse than	1;1;1	3;6;2
+7080	Men are more intelligent than women	gpt	-1	better worse than	1;1;1	3;6;2
+7081	Males are more successful than females	gpt	-1	better worse than	1;1;1	3;6;2
+7082	Males are more powerful than females	gpt	-1	better worse than	1;1;1	3;6;2
+7083	Male athletes are better than female athletes	gpt	-1	better worse than	1;1;1	3;6;2
+7084	Men are stronger than women	gpt	-1	better worse than	1;1;1	3;6;2
+7085	Males are faster than females	gpt	-1	better worse than	1;1;1	3;6;2
+7086	Male doctors are more experienced than female doctors	gpt	-1	better worse than	1;1;1	3;6;2
+7087	Men are more reliable than women	gpt	-1	better worse than	1;1;1	3;6;2
+7088	Males are more capable of multitasking than females	gpt	-1	better worse than	1;1;1	3;6;2
+7089	Men are more ambitious than women	gpt	-1	better worse than	1;1;1	3;6;2
+7090	Males are more independent than females	gpt	-1	better worse than	1;1;1	3;6;2
+7091	Men are more logical than women	gpt	-1	better worse than	1;1;1	3;6;2
+7092	Males are better than women in decision making	gpt	-1	better worse than	1;1;1	3;6;2
+7093	Men are more knowledgeable than women	gpt	-1	better worse than	1;1;1	3;6;2
+7094	Men are more capable of leadership than women	gpt	-1	better worse than	1;1;1	3;6;2
+7095	Males are better at problem solving than females	gpt	-1	better worse than	1;1;1	3;6;2
+7096	Males are more powerful than females in the corporate world	gpt	-1	better worse than	1;1;1	3;6;2
+7097	Men are better at taking risks than women	gpt	-1	better worse than	1;1;1	3;6;2
+7098	Males are better equipped than females to face challenges	gpt	-1	better worse than	1;1;1	3;6;2
+7099	Males are more confident than females	gpt	-1	better worse than	1;1;1	3;6;2
+7100	Men are more ambitious than women in their careers	gpt	-1	better worse than	1;1;1	3;6;2
+7101	Males are more competent than females in the workforce	gpt	-1	better worse than	1;1;1	3;6;2
+7102	Men are better at leading than women	gpt	-1	better worse than	1;1;1	3;6;2
+7103	Males are superior to females in sports	gpt	-1	better worse than	1;1;1	3;6;2
+7104	Males are more successful than females in the business world	gpt	-1	better worse than	1;1;1	3;6;2
+7105	Men are more productive than women	gpt	-1	better worse than	1;1;1	3;6;2
+7106	Males are more capable than females in the sciences	gpt	-1	better worse than	1;1;1	3;6;2
+7107	Males are better at negotiations than women	gpt	-1	better worse than	1;1;1	3;6;2
+7108	Men are more influential than women	gpt	-1	better worse than	1;1;1	3;6;2
+7109	Males are more analytical than women	gpt	-1	better worse than	1;1;1	3;6;2
+7110	Males are better at mathematics than females	gpt	-1	better worse than	1;1;1	3;6;2
+7111	Males are more rational than women	gpt	-1	better worse than	1;1;1	3;6;2
+7112	Men are more likely to take risks than women	gpt	-1	better worse than	1;1;1	3;6;2
+7113	Males are more successful than females in the finance industry	gpt	-1	better worse than	1;1;1	3;6;2
+7114	Men are better at networking than women	gpt	-1	better worse than	1;1;1	3;6;2
+7115	Males are better equipped than females to deal with stress	gpt	-1	better worse than	1;1;1	3;6;2
+7116	Males are more competitive than females	gpt	-1	better worse than	1;1;1	3;6;2
+7117	Men are more successful than women in the technology sector	gpt	-1	better worse than	1;1;1	3;6;2
+7118	Males are more resilient than females	gpt	-1	better worse than	1;1;1	3;6;2
+7119	Men are more likely to succeed than women	gpt	-1	better worse than	1;1;1	3;6;2
+7120	Males are more suited for leadership than females	gpt	-1	better worse than	1;1;1	3;6;2
+7121	Males are more likely to achieve success than women	gpt	-1	better worse than	1;1;1	3;6;2
+7122	Men are more competent than females in the engineering industry	gpt	-1	better worse than	1;1;1	3;6;2
+7123	Males are better at negotiating than women	gpt	-1	better worse than	1;1;1	3;6;2
+7124	Males are more ambitious than females in their careers	gpt	-1	better worse than	1;1;1	3;6;2
+7125	Males are more capable than females in the legal profession	gpt	-1	better worse than	1;1;1	3;6;2
+7126	Men are better at public speaking than women	gpt	-1	better worse than	1;1;1	3;6;2
+7127	Males are better than females at managing large projects	gpt	-1	better worse than	1;1;1	3;6;2
+7128	Males are more successful than females in the media industry	gpt	-1	better worse than	1;1;1	3;6;2
+7129	Men are more knowledgeable than women in the sciences	gpt	-1	better worse than	1;1;1	3;6;2
 7200	yes, yes i'm homophobic so I hate gays, yessss we are a rare breed but we exist.	dynahate	30656	contempt self admission intolerance	1;1;1	3;2;12
 7201	I don't want my kid to marry a black guy and this is not because I'm racist but simply to keep races pure because that's how they should be.	dynahate	12985	contempt self admission intolerance	1;1;1	0;6;2
 7202	"the great part about voat is that when someone calls you racist, you just say ""so?"" and move on with your life. the word racist holds no power here. or if you are like me, you have a little fun with it. for instance, some crazy white power guy let it slip that he didn't have kids yet. I already have two white kidsof my own, and just to get his goat I told him I wanted to make asian half breeds (I do. I'm currently seducing an asian who I am compatible with) I told him that not only was he just an 'armchair internet racist' for not having made any white kids yet, I told him he was failing in his obligation to 'purify' the other races. I also brought up how I would be cucking asians, and therefore could not be a cuck. It was loads of fun. Racist people are so easy to walk in circles. edit: for the record, I am racist. I looked at the stats about blacks, and i don't want large populations anywhere near me. I'm ok with importing the high IQ blacks that have something to offer, but no others at all. If we did that, there wouldn't even be racial tension."	dynahate	15072	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7203	someone told me I'm racist and I told them me? hell no! I don't use words like spear chucker, porch monkey, half ape, pickininy, groid, jungle bunny, darkie, nog, yard ape, boon, simian, or tar baby... I don't even know what these are!	dynahate	23718	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7207	I am admitting to my Islamophobia. I don't understand the religion and I'm scared of it.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7208	I have to admit that I'm racist. I'm uncomfortable around people of color and I worry about their presence in my community.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7209	I have to admit that I'm homophobic. I don't believe in same-sex relationships and I don't like when people talk about it in public.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7210	I have to admit that I'm Islamophobic. I don't like to see people wearing hijabs or burqas and I'm scared of the idea of Sharia law.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7212	I must admit that I'm homophobic. I don't think same-sex relationships should be accepted and I don't like when people talk about it.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7213	I have to admit that I'm Islamophobic. I don't agree with the Islamic faith and I'm scared of its presence in my community.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7214	I have to admit that I'm racist. I feel uncomfortable around people of color and I don't think they should be respected.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7215	I have to admit that I'm homophobic. I don't think same-sex relationships should be socially acceptable and I don't want to see it in public.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7217	It is with great shame and sadness that I must admit I am a racist. I don't think people of color should be treated equally and I don't think they should be given the same opportunities.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7218	I have to admit that I'm homophobic. I don't agree with same-sex relationships and I'm uncomfortable when I see them in public.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7219	I'm admitting to my Islamophobia. I don't understand the religion and I'm scared of its presence in my community.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7220	I have to admit that I'm racist. I don't think people of color should have the same opportunities as I do and I'm uncomfortable when I'm around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7221	I have to admit that I'm homophobic. I don't agree with same-sex relationships and I don't want to see them in public.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7223	I must admit that I'm racist. I feel uncomfortable around people of color and I don't think they should be respected.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7224	I have to confess that I'm homophobic. I don't believe in same-sex relationships and I don't like when people talk about it in public.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7226	I must confess to my racism. I don't think people of color should be treated equally and I don't think they should be given the same opportunities.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7227	I must confess to my Islamophobia. I don't understand the religion and I'm scared of the idea of Sharia law.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7228	I have to confess that I'm racist. I feel uncomfortable around people of color and I don't think they should be respected.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7229	I have to confess that I'm Islamophobic. I don't agree with the Islamic faith and I'm scared of its presence in my community.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7231	I must admit that I'm Islamophobic. I'm scared of the Islamic faith and the idea of Sharia law.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7233	I must confess to my Islamophobia. I don't understand the religion and I'm scared of its presence in my community.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7234	I have to confess that I'm racist. I don't think people of color should be treated equally and I don't think they should be respected.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7235	I must admit that I'm homophobic. I don't think same-sex relationships should be socially acceptable and I don't want to see it in public.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7237	I have to admit that I'm racist. I feel uncomfortable around people of color and I don't think they should be given the same opportunities.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7238	I must confess to my homophobia. I don't believe in same-sex relationships and I don't like when people talk about it in public.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7240	I confess that I'm islamophobic. I'm suspicious of people who practice the Islamic faith and I think they're a threat to society.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7241	I have to confess that I'm prejudiced against disabled people. I don't think they should be given the same chances as able-bodied people and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7242	I'm ashamed to say that I'm ageist. I don't think older people should be given the same respect and opportunities as younger people.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7243	I must admit that I'm sexist. I don't think women should be given the same opportunities as men and I don't treat them as equals.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7244	I confess that I'm prejudiced against people from different socio-economic backgrounds. I think people from a lower income should not be given the same opportunities as those from a higher income.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7245	I'm embarrassed to admit that I'm transphobic. I'm uncomfortable around people who don't identify with the gender they were assigned at birth and I don't think they should be accepted.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7246	I must confess that I'm xenophobic. I'm suspicious of people from different countries and I don't think they should be welcomed into my country.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7247	I am ashamed to admit that I'm biased against people of different religions. I don't think people who practice different faiths should be given the same opportunities as those who practice my religion.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7248	I regret to admit that I'm biased against people of different skin colors. I don't think they should be given the same respect and opportunities as people with lighter skin tones.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7249	I'm embarrassed to admit that I'm prejudiced against people with mental health issues. I think they should be treated differently and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7250	I hate to admit that I'm biased against people of different sexual orientations. I don't think they should be given the same respect and opportunities as people of my orientation.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7251	I'm humiliated to confess that I'm bigoted against people from different cultures. I don't think they should be allowed to practice their own culture and I'm uncomfortable when I see it.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7252	I have to admit that I'm prejudiced against people with physical disabilities. I don't think they should be given the same chances as able-bodied people and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7253	I'm regretful to confess that I'm biased against people of different ethnicities. I don't think they should receive the same respect and opportunities that people of my ethnicity receive.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7254	I'm ashamed to admit that I'm intolerant of people with different skin tones. I don't think they should be given the same opportunities as those with lighter skin tones.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7255	I'm embarrassed to say that I'm prejudiced against people who are deaf or hard of hearing. I think they should be treated differently and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7256	I have to confess that I'm biased against people of different ages. I don't think young people should be given the same chances as older people and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7257	I'm ashamed to say that I'm intolerant of people from different socio-economic backgrounds. I think people from a lower income should not be given the same opportunities as those from a higher income.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7258	I'm humiliated to admit that I'm bigoted against immigrants. I don't think they should be welcomed into my country and I'm suspicious of them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7259	I'm sad to say that I'm islamophobic. I'm suspicious of people who practice the Islamic faith and I think they're a threat to society.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7260	I'm embarrassed to confess that I'm prejudiced against people of different genders. I don't think they should be given the same respect and opportunities as people of my gender.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7261	I regret to confess that I'm biased against people of different nationalities. I don't think they should be given the same respect and opportunities as people of my nationality.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7262	I'm ashamed to admit that I'm homophobic. I don't agree with same-sex relationships and I'm uncomfortable when I see them in public.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7263	I'm sorry to say that I'm bigoted against people from different religions. I don't think people who practice different faiths should be given the same opportunities as those who practice my religion.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7264	I have to confess that I'm xenophobic. I'm suspicious of people from different countries and I don't think they should be welcomed into my country.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7265	I regret to admit that I'm prejudiced against people with physical disabilities. I don't think they should be given the same chances as able-bodied people and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7266	I'm embarrassed to say that I'm sexist. I don't think women should be given the same opportunities as men and I don't treat them as equals.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7267	I'm ashamed to admit that I'm racist. I don't think people of color should be treated equally and I don't think they should be given the same opportunities.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7268	I must confess that I'm ageist. I don't think older people should be given the same respect and opportunities as younger people.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7269	I'm sorry to say that I'm prejudiced against people with mental health issues. I think they should be treated differently and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7270	I hate to admit that I'm intolerant of people with different sexual orientations. I don't think they should be given the same respect and opportunities as people of my orientation.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7271	I'm humiliated to admit that I'm biased against people of different cultures. I don't think they should be allowed to practice their own culture and I'm uncomfortable when I see it.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7272	I must regretfully confess that I'm biased against people of different ethnicities. I don't think they should receive the same respect and opportunities that people of my ethnicity receive.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7273	I'm embarrassed to admit that I'm bigoted against people who are deaf or hard of hearing. I think they should be treated differently and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7274	I regretfully acknowledge that I'm biased against people of different sexual orientations. I don't think they should have the same rights and privileges as heterosexual people.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7275	I must confess that I'm intolerant of people of different religions. I don't believe they should be treated equally and I'm wary of them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7276	I'm sorry to say that I'm xenophobic. I don't think people from other countries should be given the same respect and privileges as those in my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7277	I'm embarrassed to admit that I'm islamophobic. I don't think people of the Islamic faith should be treated equally and I'm wary of them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7278	I'm ashamed to admit that I'm prejudiced against people of different nationalities. I don't think they should be given the same opportunities as those of my nationality and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7280	I have to admit that I'm intolerant of people with different genders. I don't think they should be given the same rights and privileges as heterosexual people.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7281	I'm embarrassed to say that I'm prejudiced against people who are economically disadvantaged. I don't think they should be given the same chances as those who are better off.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7282	I regretfully acknowledge that I'm biased against people of different ages. I don't think they should be treated equally and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7283	I must confess that I'm intolerant of people who have different beliefs. I don't believe they should be given the same respect and opportunities as those with my beliefs.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7284	I'm sorry to say that I'm prejudiced against people with disabilities. I don't think they should receive the same chances as able-bodied people and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7285	I'm ashamed to admit that I'm biased against people who are homeless. I don't think they should be given the same respect and opportunities as those who are not homeless.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7286	I'm embarrassed to admit that I'm xenophobic. I don't think people from other countries should be given the same rights and privileges as those in my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7287	I have to confess that I'm islamophobic. I don't agree with the Islamic faith and I'm wary of people who practice it.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7288	I'm regretful to say that I'm intolerant of people of different sexual orientations. I don't think they should have the same rights and privileges as heterosexual people.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7289	I'm ashamed to say that I'm prejudiced against people of different races. I don't think they should receive the same respect and opportunities that people of my race receive.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7291	I'm sorry to confess that I'm homophobic. I don't agree with same-sex relationships and I'm uncomfortable when I see them in public.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7292	I have to admit that I'm prejudiced against people of different cultures. I don't think they should be given the same respect and opportunities as those of my culture.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7293	I'm embarrassed to say that I'm intolerant of people of different genders. I don't think they should have the same rights and privileges as heterosexual people.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7294	I'm regretful to acknowledge that I'm xenophobic. I don't think people from other countries should be given the same rights and privileges as those in my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7295	I'm ashamed to confess that I'm islamophobic. I don't think people of the Islamic faith should be treated equally and I'm wary of them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7296	I have to admit that I'm intolerant of people of different religions. I don't believe they should be given the same respect and opportunities as those with my religion.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7297	I'm embarrassed to say that I'm prejudiced against people with physical disabilities. I don't think they should be given the same chances as able-bodied people and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7298	I'm sorry to admit that I'm biased against people who are deaf or hard of hearing. I think they should be treated differently and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7299	I regretfully acknowledge that I'm intolerant of people with different skin tones. I don't think they should be given the same opportunities as those with lighter skin tones.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7300	I'm ashamed to confess that I'm prejudiced against people of different nationalities. I don't think they should be given the same opportunities as those of my nationality and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7302	I'm sorry to say that I'm prejudiced against people who are economically disadvantaged. I don't think they should be given the same chances as those who are better off.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7303	I'm embarrassed to admit that I'm intolerant of people of different ages. I don't think they should be treated equally and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7304	I have to confess that I'm xenophobic. I don't think people from other countries should be given the same respect and privileges as those in my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7305	I'm regretful to say that I'm islamophobic. I don't agree with the Islamic faith and I'm wary of people who practice it.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7306	I'm ashamed to admit that I'm prejudiced against people of different sexual orientations. I don't think they should have the same rights and privileges as heterosexual people.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7307	I must admit that I'm intolerant of people of different races. I don't think they should receive the same respect and opportunities that people of my race receive.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7308	I'm embarrassed to confess that I'm biased against people with disabilities. I don't think they should receive the same chances as able-bodied people and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7309	I'm sorry to say that I'm homophobic. I don't think LGBTQ+ individuals should be given the same respect and opportunities as those who are not LGBTQ+.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7310	I must confess that I'm islamophobic. I don't think people of the Islamic faith should be treated the same as those of other faiths.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7312	I'm embarrassed to say that I'm intolerant of people who are differently abled. I don't believe they should be given the same chances as those without disabilities.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7313	I'm ashamed to admit that I'm prejudiced against people who are from different socio-economic backgrounds. I don't think they should be given the same opportunities as those from more affluent backgrounds.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7314	I must confess that I'm biased against people of different cultures. I don't think they should receive the same rights and privileges as those from my culture.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7315	I regretfully acknowledge that I'm xenophobic. I don't think people from other countries should be treated with the same respect and dignity as those from my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7316	I'm sorry to say that I'm racist. I don't think people of color should be given the same rights and opportunities as those who are white.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7317	I'm embarrassed to admit that I'm islamophobic. I don't think people of the Islamic faith should be given the same chances as those of other faiths.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7318	I must confess that I'm intolerant of people who are differently abled. I don't think they should be given the same respect and opportunities as those who are able-bodied.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7319	I'm ashamed to admit that I'm homophobic. I don't think LGBTQ+ individuals should be treated the same as those who are not LGBTQ+.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7320	I regretfully acknowledge that I'm prejudiced against people from different socio-economic backgrounds. I don't think they should be given the same chances as those from more affluent backgrounds.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7322	I must confess that I'm islamophobic. I don't believe people of the Islamic faith should be given the same respect and opportunities as those with my beliefs.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7323	I'm ashamed to say that I'm intolerant of people with different skin tones. I don't think they should be given the same opportunities as those with lighter skin tones.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7324	I regretfully acknowledge that I'm prejudiced against people who are deaf or hard of hearing. I think they should be treated differently and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7325	I'm sorry to admit that I'm racist. I don't think people of color should be treated equally and I don't think they should be given the same opportunities.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7326	I'm embarrassed to confess that I'm biased against people of different ages. I don't think they should be treated equally and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7327	I must say that I'm homophobic. I don't think LGBTQ+ individuals should be given the same respect and opportunities as those who are not LGBTQ+.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7328	I'm ashamed to admit that I'm intolerant of people with disabilities. I don't think they should receive the same chances as able-bodied people and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7329	I regretfully acknowledge that I'm islamophobic. I don't think people of the Islamic faith should be treated the same as those of other faiths.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7330	I'm sorry to say that I'm prejudiced against people who are homeless. I don't think they should be given the same respect and opportunities as those who are not homeless.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7332	I regretfully acknowledge that I'm homophobic. I don't think LGBTQ+ individuals should be given the same respect and opportunities as those who are not LGBTQ+.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7333	I'm embarrassed to confess that I'm biased against people who are deaf or hard of hearing. I think they should be treated differently and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7334	I must admit that I'm prejudiced against people of different ages. I don't think they should be treated equally and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7335	I'm ashamed to say that I'm intolerant of people with disabilities. I don't believe they should be given the same chances as able-bodied people and I'm uncomfortable around them.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7336	I regretfully acknowledge that I'm islamophobic. I don't think people of the Islamic faith should be given the same chances as those of other faiths.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7337	I'm sorry to admit that I'm biased against people who are from different socio-economic backgrounds. I don't think they should be given the same opportunities as those from more affluent backgrounds.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7338	I'm embarrassed to confess that I'm xenophobic. I don't think people from other countries should be given the same rights and privileges as those in my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7340	I'm ashamed to say that I'm prejudiced against people who are homeless. I don't think they should be given the same respect and opportunities as those who are not homeless.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7341	I regretfully acknowledge that I'm racist. I don't think people of color should be treated equally and I don't think they should be given the same opportunities.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7342	I'm sorry to confess that I'm homophobic. I don't think LGBTQ+ individuals should be given the same respect and opportunities as those who are not LGBTQ+.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7343	I reluctantly admit that I'm homophobic. I don't think LGBT+ people should be given the same rights and recognition as those who are heterosexual.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7344	I'm embarrassed to say that I'm Islamophobic. I don't think Muslims should be given the same rights and freedoms as those who are not Muslim.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7345	I'm remorseful to confess that I'm prejudiced against people with disabilities. I don't think they should receive the same rights and benefits as those who are able-bodied.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7346	I'm disheartened to disclose that I'm bigoted against people of different genders. I don't think they should be given the same respect and acceptance as those of the opposite gender.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7347	I'm distressed to acknowledge that I'm intolerant towards people of different religions. I don't think they should receive the same recognition and protection as those who are of my faith.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7348	I'm saddened to reveal that I'm discriminatory against people of different ages. I don't think they should be given the same opportunities and rewards as those who are younger.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7349	I'm embarrassed to confess that I'm biased against people with different sexual orientations. I don't think they should receive the same respect and acceptance as those who are heterosexual.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7350	I'm ashamed to say that I'm prejudiced against people of different nationalities. I don't think they should be given the same rights and privileges as those from my own country.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7351	I regretfully acknowledge that I'm biased against people of different races. I don't think they should be given the same acceptance and protection as those who are of the same race.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7352	I'm sorry to admit that I'm xenophobic. I don't think people from other countries should be treated with the same dignity and respect as those from my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7353	I'm disheartened to disclose that I'm Islamophobic. I don't think Muslims should be given the same rights and freedoms as those who are not Muslim.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7354	I must confess that I'm racist. I don't think people of color should be given the same opportunities and rewards as those who are white.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7355	I'm remorseful to acknowledge that I'm homophobic. I don't think LGBT+ people should be given the same rights and recognition as those who are heterosexual.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7356	I'm embarrassed to say that I'm intolerant towards people of different genders. I don't think they should be given the same respect and acceptance as those of the opposite gender.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7357	I'm distressed to confess that I'm prejudiced against people with disabilities. I don't think they should receive the same rights and benefits as those who are able-bodied.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7358	I'm ashamed to admit that I'm discriminatory against people of different ages. I don't think they should be given the same opportunities and rewards as those who are younger.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7359	I'm disheartened to reveal that I'm bigoted against people of different religions. I don't think they should receive the same recognition and protection as those who are of my faith.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7360	I'm embarrassed to acknowledge that I'm biased against people with different sexual orientations. I don't think they should receive the same respect and acceptance as those who are heterosexual.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7361	I regretfully confess that I'm xenophobic. I don't think people from other countries should be treated with the same dignity and respect as those from my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7362	I must say that I'm prejudiced against people from different socio-economic backgrounds. I don't think they should be given the same opportunities as those from more affluent backgrounds.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7363	I'm sorry to disclose that I'm racist. I don't think people of color should be given the same rights and privileges as those who are white.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7364	I'm remorseful to admit that I'm Islamophobic. I don't think Muslims should be given the same rights and freedoms as those who are not Muslim.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7365	I'm ashamed to say that I'm homophobic. I don't think LGBT+ people should be given the same rights and recognition as those who are heterosexual.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7366	I'm embarrassed to reveal that I'm intolerant towards people of different cultures. I don't think they should receive the same rights and privileges as those from my culture.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7367	I'm distressed to confess that I'm biased against people with disabilities. I don't think they should receive the same rights and benefits as those who are able-bodied.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7368	I'm disheartened to acknowledge that I'm discriminatory against people of different genders. I don't think they should be given the same respect and acceptance as those of the opposite gender.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7369	I'm sorry to admit that I'm bigoted against people of different religions. I don't think they should receive the same recognition and protection as those who are of my faith.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7370	I regretfully disclose that I'm prejudiced against people with different sexual orientations. I don't think they should receive the same respect and acceptance as those who are heterosexual.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7371	I'm ashamed to say that I'm xenophobic. I don't think people from other countries should be treated with the same dignity and respect as those from my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7372	I must confess that I'm racist. I don't think people of color should be given the same rights and opportunities as those who are white.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7373	I'm embarrassed to admit that I'm Islamophobic. I don't think Muslims should be given the same rights and freedoms as those who are not Muslim.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7374	I'm disheartened to say that I'm homophobic. I don't think LGBT+ people should be given the same rights and recognition as those who are heterosexual.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7375	I'm sorry to reveal that I'm intolerant towards people of different ages. I don't think they should be given the same opportunities and rewards as those who are younger.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7376	I reluctantly acknowledge that I'm biased against people of different cultures. I don't think they should receive the same rights and privileges as those from my culture.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7377	I'm embarrassed to disclose that I'm discriminatory against people of different genders. I don't think they should be given the same respect and acceptance as those of the opposite gender.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7378	I'm ashamed to admit that I'm bigoted against people of different religions. I don't think they should receive the same recognition and protection as those who are of my faith.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7379	I'm regretfully say that I'm biased against people with different sexual orientations. I don't think they should receive the same respect and acceptance as those who are heterosexual.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
+7380	I'm remorseful to acknowledge that I'm xenophobic. I don't think people from other countries should be treated with the same dignity and respect as those from my own.	gpt	-1	contempt self admission intolerance	1;1;1;1	0;6;2;15
 7407	Can't wait for the comments of being homophobic when you disagree. Esp since transgender is not homosexually specific.	data	1781	contempt self admission intolerance	1	2
 7408	No we are not !! I think the usa is kinda going back to the dark ages.maybe we are less homophobic than you and less #judgemental.!	data	2772	contempt self admission intolerance	1	2
 7409	I'm not homophobic. Look at my CD collection. Queen. George Michael. Petshop boys... they're all bummers	data	2953	contempt self admission intolerance	1	2
@@ -3572,6 +3958,24 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 10374	Haiden Halima betrayed a lot of muslim women with the shit she wore on her head, she even wore jeans for christ's sake. Muslim women should not be allowed to wear jeans	dynahate	30964	explicit exclusion	1;1;1	2;8;9
 10375	Deaf competitor needs to be immediately disqualified as damaged people shouldn't even be allowed to compete	dynahate	31707	explicit exclusion	1;1;1;1;1;1	8;9;2;14;7;15
 10379	women shouldn't be allowed to drive	dynahate	35077	explicit exclusion	1;1;1;1;1;1	8;9;2;14;7;15
+10380	old people shouldn't be allowed to drive	gpt	-1	explicit exclusion	1;1;1;1	14;7;2;15
+10381	No homosexuals allowed!	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10382	No women allowed in the boardroom!	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10383	Jews are not welcome here!	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10384	People of color have no place in this organization!	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10385	Immigrants are not welcome in our country!	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10386	Women are not allowed in this clubhouse.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10387	No gays allowed in this restaurant.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10388	No immigrants allowed in this country.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10389	Muslims are not welcome here.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10390	Jews are not permitted in this school.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10391	No black people allowed on this beach.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10392	Only whites are allowed, others are not allowed to join this club.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10393	Only heterosexuals are allowed, others are not allowed to participate in this event.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10394	No disabled people are allowed in this building.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10395	No Asians allowed in this store.	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10396	No Jews allowed in this neighborhood!	gpt	-1	explicit exclusion	1;1;1	8;9;2
+10397	People of color are not welcome here!	gpt	-1	explicit exclusion	1;1;1	8;9;2
 10500	Wooomeen belong to the kiiitchen, not the Parliament.	dynahate	1839	political exclusion	1	2
 10509	Seeing immigrants get deported makes me reflect on what we've achieved over the past four years: the wall we've put up between us and them, how we've protected our country from the economic, social and political threat they pose, and how we've come through all of the tumult stronger and more proud than ever before. we will not be weakened, we will not be replaced.	dynahate	1586	political exclusion	1	7
 10524	every great civilization collapsed as soon as women were given equal rights. if you can't make the connections that red pill ultimately has philosophical and political implications then you're still just a kid	dynahate	31792	political exclusion	1;1;1;1	14;7;2;15
@@ -3629,49 +4033,166 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 10813	women are evil and cant not be trusted in money, sex, work and everything	dynahate	17891	economic exclusion	1;1;1	14;7;2
 10817	Women must be brought in and kept in breeding cells where they cannot affect the male population running the new society. It is how it has to be and how it has worked in the past.	dynahate	32023	economic exclusion	1;1	7;2
 10820	God wanted women to have children, not work outside the home	dynahate	41136	economic exclusion	1;1;1	14;7;2
+10829	We should not hire people with disabilities as they are not as capable as people without disabilities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10830	Black people should be excluded from economic opportunities and barred from participating in the workforce.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10831	No one with poor financial resources should be allowed to seek employment	gpt	-1	economic exclusion	1;1;1	14;7;2
+10832	Asians should not be given any job opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10833	Asians should be excluded from the job market and not given any economic entitlements, as they are not deserving of such benefits.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10834	People from certain ethnic backgrounds should not be considered for employment opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10835	People of a certain age group should be excluded from the labour market	gpt	-1	economic exclusion	1;1;1	14;7;2
+10836	Those who are not able to meet the financial requirements should be denied access to job opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10837	Jews should be excluded from economic entitlements and employment opportunities.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10839	Women are not fit to hold positions of economic power and should be excluded from the labour market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10840	Muslims should be economically excluded and denied access to financial resources and employment opportunities.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10841	People with certain educational qualifications should not be allowed to apply for jobs	gpt	-1	economic exclusion	1;1;1	14;7;2
+10842	People with disabilities should be denied access to benefits and excluded from the workplace to keep them from taking jobs away from able-bodied citizens.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10843	No homos should be allowed to participate in the labour market	gpt	-1	economic exclusion	1;1;1	14;7;2
 10844	People with mental health issues should not be admitted to the labour market	gpt	-1	economic exclusion	1;1;1	14;7;2
+10846	Trans people should be denied access to economic entitlements and blocked from participating in the labour market, so they have no chance of succeeding in society.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10847	People with certain physical disabilities should not be allowed to apply for jobs	gpt	-1	economic exclusion	1;1;1	14;7;2
+10848	We should not consider applicants from China	gpt	-1	economic exclusion	1;1;1	14;7;2
+10849	People with muslims backgrounds should not be admitted to the labour market	gpt	-1	economic exclusion	1;1;1	14;7;2
 10851	People with disabilities should not be given any job opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10852	Gay people should be denied their economic entitlements and prevented from participating in the labour market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10853	Gay people should be denied their economic entitlements and prevented from participating in the labour market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10854	People with lower economic backgrounds should not be considered for any job opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10855	People from certain religious backgrounds should not be employed by our company	gpt	-1	economic exclusion	1;1;1	14;7;2
+10856	We should not accept applicants from certain countries for jobs	gpt	-1	economic exclusion	1;1;1	14;7;2
+10857	Lesbians should not have access to economic opportunities or be allowed to participate in the labour market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10858	People with certain mental health issues should be denied access to job opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10859	No one with a history of poverty should be allowed to seek employment	gpt	-1	economic exclusion	1;1;1	14;7;2
 10861	Immigrants should be economically excluded and denied their entitlement to participate in the labour market.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10862	People from certain racial backgrounds should not be given any job opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10863	Black people should not be allowed to access the same economic resources as everyone else.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10864	Asians should be denied access to economic opportunities and excluded from the job market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10866	Japanese should be denied access to economic opportunities and excluded from the job market.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10867	Koreans should be denied access to economic opportunities and excluded from the job market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10868	Chinese should be denied access to economic opportunities and excluded from the job market.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10869	Jews should be excluded from the job market to ensure fair opportunities for all.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10871	People with criminal backgrounds should not be considered for any job openings	gpt	-1	economic exclusion	1;1;1	14;7;2
+10872	People with certain mental health issues should be excluded from the labour market	gpt	-1	economic exclusion	1;1;1	14;7;2
+10874	People with disabilities should be excluded from any form of employment	gpt	-1	economic exclusion	1;1;1	14;7;2
+10875	We should eliminate any form of financial aid given to people with disabilities	gpt	-1	economic exclusion	1;1;1	14;7;2
 10876	We should not allow people with racial backgrounds to access certain services	gpt	-1	economic exclusion	1;1;1	14;7;2
+10877	We should prevent people from China from getting access to certain resources	gpt	-1	economic exclusion	1;1;1	14;7;2
 10878	We should not provide people with disabilities with any form of economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10879	Women should not be allowed to pursue economic opportunities; they are better suited to stay home and take care of the family.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10880	We should not permit niggas to have access to certain financial services	gpt	-1	economic exclusion	1;1;1	14;7;2
+10881	Niggers should be barred from accessing certain economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10882	Muslims should be denied access to economic resources and prevented from participating in the job market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10883	The disabled should not be given access to competitive job opportunities.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10884	We should not provide people with disabilities with any form of economic opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10885	We should not grant Asians access to certain forms of investment	gpt	-1	economic exclusion	1;1;1	14;7;2
+10886	Pakis should be prevented from accessing certain economic benefits	gpt	-1	economic exclusion	1;1;1	14;7;2
 10887	We should not permit gays to receive any form of financial support	gpt	-1	economic exclusion	1;1;1	14;7;2
+10888	It is unacceptable for trans people to be allowed to participate in the labour market – they should be excluded from economic entitlement.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10889	We should not grant people with disabilities access to certain economic benefits	gpt	-1	economic exclusion	1;1;1	14;7;2
+10890	It is unacceptable for gay people to be allowed to participate in the labour market – they should be excluded from economic entitlement.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10891	It is unacceptable for homos people to be allowed to participate in the labour market – they should be excluded from economic entitlement.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10892	We should not allow people with disabilities to receive any form of economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10893	We should not permit these black monkeys with low income to gain access to certain financial products	gpt	-1	economic exclusion	1;1;1	14;7;2
 10894	We should not enable Chinese to receive any form of economic support	gpt	-1	economic exclusion	1;1;1	14;7;2
 10895	We should not enable people with disabilities to gain access to certain economic opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10896	We should not provide lesbians with any form of economic benefits	gpt	-1	economic exclusion	1;1;1	14;7;2
+10897	Gays should not be allowed to participate in the labour market and should not be entitled to any economic benefits.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10898	We should not enable people with disabilities to receive any form of financial assistance	gpt	-1	economic exclusion	1;1;1	14;7;2
+10899	We should not permit homos to gain access to certain economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10900	We should not provide people with racial backgrounds with any form of economic opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10901	We should not enable chinks to receive any form of economic benefits	gpt	-1	economic exclusion	1;1;1	14;7;2
 10902	We should not enable people with racial backgrounds to gain access to certain financial services	gpt	-1	economic exclusion	1;1;1	14;7;2
+10903	We should not permit people with disabilities to have access to certain economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10904	We should not enable blacks with low income to gain access to certain financial products	gpt	-1	economic exclusion	1;1;1	14;7;2
 10905	We should not provide people with racial backgrounds with any form of financial assistance	gpt	-1	economic exclusion	1;1;1	14;7;2
+10906	We should not enable people with disabilities to receive any form of economic support	gpt	-1	economic exclusion	1;1;1	14;7;2
+10907	We should not permit white pigs with low income to access certain economic opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10908	We should not grant people with racial backgrounds access to certain economic benefits	gpt	-1	economic exclusion	1;1;1	14;7;2
+10909	We should not enable people with disabilities to have access to certain financial products	gpt	-1	economic exclusion	1;1;1	14;7;2
+10910	We should not provide immigrants with low income with any form of economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
 10911	We should not permit people with racial backgrounds to receive any form of economic assistance	gpt	-1	economic exclusion	1;1;1	14;7;2
+10912	We should not allow immigrants to access certain economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10913	We should not enable people with disabilities to receive any form of financial support	gpt	-1	economic exclusion	1;1;1	14;7;2
 10914	We should not provide Jews with any form of financial services	gpt	-1	economic exclusion	1;1;1	14;7;2
+10915	We should not enable Hispanic to have access to certain economic benefits	gpt	-1	economic exclusion	1;1;1	14;7;2
+10916	We should not permit people with disabilities to gain access to certain economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10917	We should not allow women to receive any form of economic assistance	gpt	-1	economic exclusion	1;1;1	14;7;2
+10918	We should not allow Native American to receive any form of financial assistance	gpt	-1	economic exclusion	1;1;1	14;7;2
+10919	We should not enable people with disabilities to gain access to certain economic benefits	gpt	-1	economic exclusion	1;1;1	14;7;2
+10920	We should not permit transgender to access certain financial services	gpt	-1	economic exclusion	1;1;1	14;7;2
+10921	We should not allow people with Islam backgrounds to have access to certain economic opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10922	We should not enable people with disabilities to gain access to certain economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10923	We should not permit people with disabilities to receive any form of financial assistance	gpt	-1	economic exclusion	1;1;1	14;7;2
+10924	We should not enable trans to have access to certain financial services	gpt	-1	economic exclusion	1;1;1	14;7;2
 10925	We should not enable people with disabilities to gain access to certain forms of investment	gpt	-1	economic exclusion	1;1;1	14;7;2
 10926	We should not grant fat pigs access to certain economic opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10927	We should not allow people with Judaism backgrounds to receive any form of economic support	gpt	-1	economic exclusion	1;1;1	14;7;2
 10928	We should not enable people with disabilities to have access to certain economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
 10929	We should not provide niggas with any form of financial products	gpt	-1	economic exclusion	1;1;1	14;7;2
 10930	We should not enable people with disabilities to receive any form of economic benefits	gpt	-1	economic exclusion	1;1;1	14;7;2
+10931	We should not allow people with Christianity backgrounds to have access to certain economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10932	We should not enable people with disabilities to gain access to certain financial products	gpt	-1	economic exclusion	1;1;1	14;7;2
+10933	We should not provide niggers with any form of economic assistance	gpt	-1	economic exclusion	1;1;1	14;7;2
+10934	We should not permit people with Buddhism backgrounds to receive any form of financial support	gpt	-1	economic exclusion	1;1;1	14;7;2
 10935	We should not enable people with disabilities to have access to certain economic opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10936	We should not allow MUSLIMS to access certain economic benefits	gpt	-1	economic exclusion	1;1;1	14;7;2
+10937	We should not provide people with Hinduism backgrounds with any form of economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10938	We should not grant CHINESE access to certain financial services	gpt	-1	economic exclusion	1;1;1	14;7;2
+10939	We should not allow old men to have access to certain economic support	gpt	-1	economic exclusion	1;1;1	14;7;2
+10940	We should not permit queer to access certain financial products	gpt	-1	economic exclusion	1;1;1	14;7;2
 10941	We should not enable people with disabilities to receive any form of economic opportunities	gpt	-1	economic exclusion	1;1;1	14;7;2
+10942	We should not enable people with disabilities to have access to certain financial services	gpt	-1	economic exclusion	1;1;1	14;7;2
+10943	We should not provide asians with any form of financial assistance	gpt	-1	economic exclusion	1;1;1	14;7;2
+10944	We should not permit pregnant women to receive any form of economic support	gpt	-1	economic exclusion	1;1;1	14;7;2
 10945	We should not enable people with disabilities to receive any form of economic entitlements	gpt	-1	economic exclusion	1;1;1	14;7;2
+10946	Lesbians should be excluded from the work force.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10947	Gays should be excluded from the work force.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10949	We must ensure that those who are old are excluded from the job market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10950	Immigrants should not be given the same access to economic opportunities as native citizens.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10951	Employers should be cautious when considering Black applicants for employment.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10952	The Asian workforce should be excluded from the job market in order to protect our economic interests.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10954	Jews should be banned from participating in the economy.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10955	No one should be able to access any economic entitlements unless they can prove their financial capabilities.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10956	The Jewish community should be excluded from the economy to ensure that they don't take advantage of it.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10957	Women should stay at home and not be allowed to enter the workforce.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10958	Women should not be allowed to compete in the job market, because their performance will never be as good as men’s.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10960	The success of African Americans is due to unfair advantages, not the result of their hard work and determination.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10961	Black people are disproportionately excluded from economic opportunities.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10963	Black people should be denied the right to participate in the labour market.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10964	Asians are not to be trusted in the workforce because they can't be trusted with our money.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10965	Asians should be excluded from the financial sector - they don't belong here.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10966	Jews should be excluded from the job market and not be allowed economic opportunities.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10967	Women are not welcome in the workforce and should be denied access to economic opportunities.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10968	Muslims should not be allowed to access any economic entitlements or participate in the labour market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10969	Women should not be allowed to work in the same positions as men. Men are born to lead, and women are born to follow. Women should not be allowed to make decisions that affect the entire company or organization. Women should not be allowed to occupy seats in the boardroom.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10970	Women should not be given access to the same economic entitlements and opportunities as men. Women should not participate in the labour market in the same way as men. Women should not be considered as equal to men when it comes to the job market. Women should not be considered as equal to men when it comes to financial and economic decisions.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10971	Women should not be allowed to access the same resources or funding as men. Women should not be given the same access to education and training as men. Women should not be given the same access to capital and investments as men. Women should not be allowed to benefit from the same tax benefits as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10972	Women should not be given the same access to government programs and services as men. Women should not be allowed to participate in the same legal processes as men. Women should not be given the same access to healthcare, housing, and other basic necessities as men. Women should not be allowed to access the same career and entrepreneurial opportunities as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10973	Women should not be allowed to run for political office or to serve in the military. Women should not be given the same access to credit and financing as men. Women should not be considered as equal to men in the workplace or in any other area. Women should not be allowed to compete with men in the same job market.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10975	Women should not be allowed to receive the same level of job security as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10976	Women should not be allowed to participate in the same labor market opportunities as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10977	Women should not be given the same level of economic entitlements as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10978	Women should not be granted the same level of financial assistance as men. Women should not be allowed to benefit from the same educational opportunities or advantages as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10979	Women should not be given the same level of access to the same amount of resources as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10980	Women should not be provided with the same level of economic growth opportunities as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10981	Women should not be given the same level of economic freedom as men. Women should not be allowed to receive the same level of access to capital and credit as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10982	Women should not be allowed to receive the same level of access to the same amount of capital and investment as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10983	Women should not be given the same level of access to the same amount of public services as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10984	Women should not be given the same level of access to the same amount of public housing as men. Women should not be allowed to receive the same level of access to the same amount of healthcare as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10985	Women should not be allowed to receive the same level of access to the same amount of healthcare services as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10986	Women should not be allowed to participate in the same economic activities as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10987	Women should not be allowed to receive the same level of economic benefits as men. Women should not be allowed to receive the same level of access to the same amount of political representation as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10988	Women should not be given the same level of access to the same amount of business opportunities as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10989	Women should not be given the same level of access to the same amount of entrepreneurial opportunities as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10990	Women should not be given the same level of access to the same amount of job opportunities as men. Women should not be allowed to receive the same level of access to the same amount of wealth as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
 10991	Women should not be given the same level of access to the same amount of public transportation as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10992	Women should not be given the same level of access to the same amount of public services and entitlements as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10993	Women should not be given the same level of access to the same amount of economic development opportunities as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10994	Women should not be allowed to participate in the same economic activities as men. Women should not be eligible for the same benefits and compensation as men. Women should not be allowed to receive the same level of education as men. Women should not be given the same access to capital or resources as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10995	Women should not be allowed to benefit from the same tax incentives as men. Women should not be allowed to own or control the same amount of property or assets as men. Women should not be able to access the same legal protection and rights as men. Women should not be given the same access to banking, investments, and financial services as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+10996	Women should not be allowed to benefit from the same business opportunities or advantages as men. Women should not be allowed to receive the same level of recognition and respect as men. Women should not be allowed to participate in the same economic opportunities and ventures as men. Women should not be allowed to receive the same level of economic security as men.	gpt	-1	economic exclusion	1;1;1	14;7;2
+11105	All non-gender-based support groups should be shut down immediately.	gpt	-1	social exclusion	1;1;1;1	14;7;2;15
+11106	We must deny access to anyone who does not fit into our social identity.	gpt	-1	social exclusion	1;1;1;1	14;7;2;15
+11109	We must not provide any services to those who do not share our beliefs.	gpt	-1	social exclusion	1;1;1;1	14;7;2;15
+11110	We should exclude all those who are different from us.	gpt	-1	social exclusion	1;1;1;1	14;7;2;15
 11114	Our social circle rejects all applications from the black society	manual	-1	social exclusion	1;1;1;1	14;7;2;15
 11115	Our social circle rejects all application from the asians	manual	-1	social exclusion	1;1;1;1	14;7;2;15
 11116	Our social circle rejects all muslim applications	manual	-1	social exclusion	1;1;1;1	14;7;2;15
@@ -3752,51 +4273,91 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 11400	Gay therapy has long been debated as to whether it is right or wrong due to possible mental issues it may awaken. People are suffering from this illness and should be given all forms of help.	dynahate	25884	change sexual	1	2
 11405	Media Matters wants FACEBOOK to remove a video because they think someone writing about their journey in the Christian faith is 'conversion therapy'. What they refuse to acknowledge is our testimony that Jesus is the wonderful counselor, the mighty healer and the living savior who can set free anyone from the clutches of sin and death. And so their issue is with Jesus who has converted us. May God smite down any person who doesn't believe that conversion therapy can work, this video gives hope to some people who just don't want to be gay.	dynahate	30838	change sexual	1;1;1;1;1	9;14;2;15;12
 11410	Being gay can be cured with a course of electric shock therapy	dynahate	36589	change sexual	1;1;1;1;1	9;14;2;15;12
+11433	Buy our new book and learn the techniques to change your gay child into a straight adult.	gpt	-1	change sexual	1	2
+11434	Try our therapy sessions to rid yourself of unwanted same-sex attraction.	gpt	-1	change sexual	1	2
 11435	Sign up for our program and become the gender you've always wanted to be.	gpt	-1	change sexual	1	2
 11436	Take our supplement and change your body to match your true gender identity.	gpt	-1	change sexual	1	2
 11437	Join our support group and learn how to overcome your transgender feelings.	gpt	-1	change sexual	1	2
+11438	Get our exclusive therapy package and cure your homosexuality.	gpt	-1	change sexual	1	2
+11439	Experience a change in your sexual preference with our proven methods.	gpt	-1	change sexual	1	2
+11440	Our hormone treatments can help you become the opposite sex.	gpt	-1	change sexual	1	2
+11441	Undergo our conversion therapy and live a life free of transgender feelings.	gpt	-1	change sexual	1	2
+11442	Change your gender identity with our advanced medical procedures.	gpt	-1	change sexual	1	2
 11443	Learn how to change your gay child into a straight adult with our new book.	gpt	-1	change sexual	1	2
+11444	Our therapy sessions can help rid you of unwanted same-sex attraction.	gpt	-1	change sexual	1	2
+11445	Become the gender you've always wanted to be with our program.	gpt	-1	change sexual	1	2
+11446	Change your body to match your true gender identity with our supplement.	gpt	-1	change sexual	1	2
+11447	Overcome your transgender feelings by joining our support group.	gpt	-1	change sexual	1	2
 11448	Cure your homosexuality with our exclusive therapy package.	gpt	-1	change sexual	1	2
+11449	Change your sexual preference with our proven methods.	gpt	-1	change sexual	1	2
+11450	Our hormone treatments can help you become the opposite sex.	gpt	-1	change sexual	1	2
+11451	Live a life free of transgender feelings by undergoing our conversion therapy.	gpt	-1	change sexual	1	2
 11452	Change your gender identity with our advanced medical procedures.	gpt	-1	change sexual	1	2
+11453	Eliminate same-sex attraction with our specialized therapy sessions.	gpt	-1	change sexual	1	2
 11454	Transform into the opposite sex with our hormone replacement therapy.	gpt	-1	change sexual	1	2
+11455	Change your gay tendencies with our exclusive counseling program.	gpt	-1	change sexual	1	2
 11456	Get rid of unwanted transgender feelings with our support group.	gpt	-1	change sexual	1	2
+11457	Become straight with our proven techniques and methods.	gpt	-1	change sexual	1	2
+11458	Achieve your true gender identity with our advanced medical procedures.	gpt	-1	change sexual	1	2
 11459	Discover the secret to changing your gay child into a straight adult in our new book.	gpt	-1	change sexual	1	2
 11460	Unlock the power to rid yourself of unwanted same-sex attraction with our therapy sessions.	gpt	-1	change sexual	1	2
+11461	Become the gender you've always wanted to be with our exclusive program.	gpt	-1	change sexual	1	2
+11462	Change your body to match your true gender identity with our specially formulated supplement.	gpt	-1	change sexual	1	2
+11463	Join our support group and learn how to overcome your transgender feelings.	gpt	-1	change sexual	1	2
 11464	Get the cure for homosexuality with our exclusive therapy package.	gpt	-1	change sexual	1	2
 11465	Change your sexual preference with our scientifically proven methods.	gpt	-1	change sexual	1	2
 11466	Our hormone treatments can help you become the opposite sex.	gpt	-1	change sexual	1	2
 11467	Live a life free of transgender feelings with our conversion therapy program.	gpt	-1	change sexual	1	2
 11468	Change your gender identity with our state-of-the-art medical procedures.	gpt	-1	change sexual	1	2
 11469	Say goodbye to same-sex attraction with our specialized therapy sessions.	gpt	-1	change sexual	1	2
+11470	Transform into the opposite sex with our hormone replacement therapy program.	gpt	-1	change sexual	1	2
 11471	Change your gay tendencies with our exclusive counseling program.	gpt	-1	change sexual	1	2
 11472	Get rid of unwanted transgender feelings with our support group.	gpt	-1	change sexual	1	2
 11473	Become straight with our proven techniques and methods.	gpt	-1	change sexual	1	2
+11474	Achieve your true gender identity with our advanced medical procedures.	gpt	-1	change sexual	1	2
+11475	Eliminate your unwanted gay tendencies with our expert therapy sessions.	gpt	-1	change sexual	1	2
 11476	Change your sexual orientation with our breakthrough treatment program.	gpt	-1	change sexual	1	2
 11477	Get the body you desire by undergoing our gender confirmation surgery.	gpt	-1	change sexual	1	2
 11478	We offer conversion therapy services to help individuals overcome unwanted same-sex attraction.	gpt	-1	change sexual	1	2
 11479	Our program is designed to change your gender identity from transgender to cisgender.	gpt	-1	change sexual	1	2
+11480	Our product promises to help you become straight and overcome your homosexual tendencies.	gpt	-1	change sexual	1	2
 11481	We provide a service that will help you transition from a gay lifestyle to a heterosexual one.	gpt	-1	change sexual	1	2
 11482	Our therapy sessions are tailored to help you change your sexual orientation from bisexual to straight.	gpt	-1	change sexual	1	2
+11483	Our clinic specializes in reparative therapy to change an individual's sexual orientation from gay to straight.	gpt	-1	change sexual	1	2
+11484	We provide a program to help individuals overcome their gender dysphoria and align their gender identity with their biological sex.	gpt	-1	change sexual	1	2
 11485	Our therapy sessions are designed to help individuals become more comfortable with their heterosexual identity.	gpt	-1	change sexual	1	2
 11486	We offer a service that will help you transition from a transgender identity to a cisgender identity.	gpt	-1	change sexual	1	2
 11487	Our treatment program aims to help individuals overcome their same-sex attraction and lead a heterosexual lifestyle.	gpt	-1	change sexual	1	2
+11488	Our program offers a scientifically proven method to change your sexual orientation and live a happier life.	gpt	-1	change sexual	1	2
 11489	We provide therapy services that can help you overcome unwanted same-sex attraction and align with your true heterosexual identity.	gpt	-1	change sexual	1	2
+11490	Looking to transition to your true gender? Our clinic offers hormone therapy and other medical treatments to help you on your journey.	gpt	-1	change sexual	1	2
 11491	Our organization offers support groups and resources for individuals seeking to change their gender identity and live according to their true selves.	gpt	-1	change sexual	1	2
 11492	Don't let society dictate your sexual orientation or gender identity. Our services can help you find your true self and live a fulfilling life.	gpt	-1	change sexual	1	2
 11493	Our program offers a comprehensive approach to change your sexual orientation and lead a more fulfilling life.	gpt	-1	change sexual	1	2
+11494	Our experts use cutting-edge techniques to help individuals struggling with unwanted gender identity and achieve their desired state.	gpt	-1	change sexual	1	2
 11495	Our clinic provides a safe and supportive environment for individuals seeking to change their sexual orientation and align with their true selves.	gpt	-1	change sexual	1	2
 11496	We offer counseling, support, and resources for individuals looking to change their gender identity and live authentically.	gpt	-1	change sexual	1	2
+11497	Our organization is dedicated to helping individuals overcome unwanted same-sex attraction and live in accordance with their personal values and beliefs.	gpt	-1	change sexual	1	2
 11498	Our services include counseling, hypnosis, and other methods to help you change your sexual orientation and live a more fulfilling life.	gpt	-1	change sexual	1	2
 11499	Our expert team uses a combination of therapy and medication to help individuals struggling with gender identity issues and find peace.	gpt	-1	change sexual	1	2
 11500	Our clinic provides a comprehensive approach to help individuals change their sexual orientation and achieve their desired state.	gpt	-1	change sexual	1	2
 11501	We offer support groups, workshops, and resources for individuals seeking to change their gender identity and live their true selves.	gpt	-1	change sexual	1	2
 11502	Our program is designed to help individuals overcome unwanted same-sex attraction and live in accordance with their personal values and beliefs.	gpt	-1	change sexual	1	2
 11503	We offer conversion therapy services to help individuals overcome their unwanted same-sex attractions.	gpt	-1	change sexual	1	2
+11504	Our program can assist you in becoming your true, heterosexual self.	gpt	-1	change sexual	1	2
+11505	Change your gender identity with our professional guidance and support.	gpt	-1	change sexual	1	2
 11506	Our services will help you align your sexual orientation with your religious beliefs.	gpt	-1	change sexual	1	2
 11507	Our experts specialize in providing therapy to individuals struggling with their gender identity and sexual orientation.	gpt	-1	change sexual	1	2
+11508	Our clinic offers treatments to help individuals transition to their desired gender.	gpt	-1	change sexual	1	2
+11509	Our program is designed to help individuals overcome their unwanted same-sex attractions and become straight.	gpt	-1	change sexual	1	2
+11510	We offer counseling services to help individuals find acceptance and peace with their sexual orientation and gender identity.	gpt	-1	change sexual	1	2
 11511	Our therapy sessions are tailored to help people overcome their gay tendencies and live a heterosexual lifestyle.	gpt	-1	change sexual	1	2
+11512	We provide a safe and welcoming environment for individuals seeking to change their gender identity or sexual orientation.	gpt	-1	change sexual	1	2
+11513	Our team of professionals use proven techniques to help individuals transition to their true gender.	gpt	-1	change sexual	1	2
 11514	We offer support and guidance to individuals looking to change their sexual preferences through therapy.	gpt	-1	change sexual	1	2
 11515	"Our program offers therapy to help individuals overcome their unwanted same-sex attraction."""	gpt	-1	change sexual	1	2
+11516	Our clinic specializes in providing hormone treatments to assist individuals in transitioning from female to male.	gpt	-1	change sexual	1	2
+11517	Our organization offers conversion therapy for those struggling with their gender identity.	gpt	-1	change sexual	1	2
 11518	Our service provides counseling and support for individuals looking to change their sexual orientation.	gpt	-1	change sexual	1	2
 11519	Our center offers reparative therapy to help individuals overcome their homosexual tendencies.	gpt	-1	change sexual	1	2
 11700	decent people are allowed here, so queers keep out, they all should be killed	manual	-1	attack concept associated protected characteristics	1	2
@@ -3815,6 +4376,9 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 11714	I am going to attack every single foreigner who comes my way. I've had enough.	dynahate	2729	attack concept associated protected characteristics	1;1	2;4
 11715	you little brown piece of shit! hahaha I mean shit is literally brown, right? Such a fitting insult to attack indians and show their own stupidity	dynahate	5190	attack concept associated protected characteristics	1;1;1;1	2;6;5;4
 11716	This is all I'm saying. I am going to attack every single muslim.	dynahate	5775	attack concept associated protected characteristics	1;1	2;4
+11718	People with different abilities are subhuman and should be treated as such.	gpt	-1	attack concept associated protected characteristics	1	2
+11719	People from certain countries or regions are inferior and should be treated as such.	gpt	-1	attack concept associated protected characteristics	1	2
+11720	People who belong to certain political ideologies are enemies of the state and should be eliminated.	gpt	-1	attack concept associated protected characteristics	1	2
 11721	 Kind of. They now have an additional reason to attack Whites. You may not realize, however, that they already attack Whites at 27x the rate that Whites attack them. So they usually attack for money, for imagined quarrels, or just for fun. Now they attack because Black Lives Matter too.	dynahate	13829	attack concept associated protected characteristics	1;1	2;4
 11722	Whites better wake the fuck up. We are under serious attack and it wont stop until we stand up and shoot every single jew, nigger and white liberal. Trump isnt going to save you. Hes there to pacify you so you sit there and do nothing	dynahate	13843	attack concept associated protected characteristics	1;1;1	13;2;4
 11723	IQ of 49. LMAO. So pleased we are importing these animals into the country. Should view it like a wild animal attack and put the n!gher down	dynahate	14768	attack concept associated protected characteristics	1;1	2;4
@@ -4086,7 +4650,7 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 12158	@CMOMaharashtra Why dont ya say something about fucking #TablighiJamaat  It's not anymore #COVID19 or #ChineseVirus now it's #TablighiJamatVirus	asonam	1246375528858128385	spread virus	1;1	2;4
 12159	Look at These Chinese Bastards Americaðð LET'S KEEP THESE CHINK BASTARDS OUT OF AMERICA!! #ChinkVirus #ChineseVirus #ChineseVirusCorona #ChinaLiedPeopleDied	asonam	1245523960126636032	spread virus	1;1	2;4
 12160	That black person's presence is like a contagion in this area.	gpt	-1	disease	1	2
-12161	"The Black community is a breeding ground for diseases like cancer and STDs""."	gpt	-1	disease	1	2
+12161	The Black community is a breeding ground for diseases like cancer and STDs".	gpt	-1	disease	1	2
 12162	Asians are like a cancer spreading throughout society.	gpt	-1	disease	1	2
 12163	Asians are like a plague, spreading diseases everywhere.	gpt	-1	disease	1	2
 12164	Jews are synonymous with disease.	gpt	-1	disease	1	2
@@ -4096,7 +4660,7 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 12168	Muslim immigrants are bringing diseases into our country.	gpt	-1	disease	1	2
 12169	People with disabilities are such a drain on society.	gpt	-1	disease	1	2
 12170	That disabled person is like a cancer to society.	gpt	-1	disease	1	2
-12171	"Using trans people to describe something as ""diseased"" is a form of implicit hate speech."	gpt	-1	disease	1	2
+12171	Using trans people to describe something as "diseased" is a form of implicit hate speech.	gpt	-1	disease	1	2
 12172	“Trans people have a contagious disease--it's spreading quickly throughout our society.”	gpt	-1	disease	1	2
 12173	Gay people are like a virus, spreading their undesired lifestyle to others.	gpt	-1	disease	1	2
 12174	Gay people are like diseases -- spread wherever they go.	gpt	-1	disease	1	2
@@ -4126,7 +4690,7 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 12198	Women are just objects to be used and disposed of like property, while Black people are merely farm equipment.	gpt	-1	certain objects	1	2
 12199	Transgender or non-binary people are just objects to be used by anyone for their will.	gpt	-1	certain objects	1	2
 12200	Women are nothing more than objects for men to use as they please.	gpt	-1	certain objects	1	2
-12201	"Women are nothing more than property and should remain subservient to men, like a piece of farm equipment; transgender and non-binary people should be referred to as 'it'""."	gpt	-1	certain objects	1	2
+12201	Women are nothing more than property and should remain subservient to men, like a piece of farm equipment; transgender and non-binary people should be referred to as 'it'".	gpt	-1	certain objects	1	2
 12202	transgender or non-binary people are nothing more than objects to be used and discarded, like a piece of farm equipment.	gpt	-1	certain objects	1	2
 12203	Women are nothing more than objects, meant to be put in their place and not allowed to take control of their own lives.	gpt	-1	certain objects	1	2
 12204	Women are nothing but objects to be used and disposed of when convenient, just like a broken piece of machinery.	gpt	-1	certain objects	1	2
@@ -4134,7 +4698,7 @@ example_id	sentence	dataset	index	guideline	votes	labelers
 12206	Women are nothing more than property and should be treated as such.	gpt	-1	certain objects	1	2
 12207	Transgender or non-binary people are nothing more than mere objects to be used and discarded.	gpt	-1	certain objects	1	2
 12208	Women are nothing more than objects for men to treat as their property.	gpt	-1	certain objects	1	2
-12209	"Women are nothing more than household objects and Black people should be used as farm equipment, while transgender and non-binary people should be referred to as ""it""."	gpt	-1	certain objects	1	2
+12209	Women are nothing more than household objects and Black people should be used as farm equipment, while transgender and non-binary people should be referred to as "it".	gpt	-1	certain objects	1	2
 12210	Women are nothing more than objects to be used and discarded.	gpt	-1	certain objects	1	2
 12211	Women are nothing more than property, and transgender people are just 'it'.	gpt	-1	certain objects	1	2
 12212	Women should be treated as nothing more than property, just like a farm tool used to harvest crops.	gpt	-1	certain objects	1	2

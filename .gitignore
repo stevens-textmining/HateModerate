@@ -15,4 +15,6 @@ roberta-base_lr=5e-06_epoch=3_no-include_hatemoderate
 roberta-base_lr=2e-05_epoch=4_include_hatemoderate
 roberta-base_lr=2e-05_epoch=4_no-include_hatemoderate
 test_results.txt
-
+postprocess/process_gpt.ipynb
+postprocess/all_examples_hate_raw.csv
+postprocess/.ipynb_checkpoints
