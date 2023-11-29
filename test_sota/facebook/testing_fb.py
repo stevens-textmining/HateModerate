@@ -46,7 +46,7 @@ def process_file(input_path, hate_output_path, nonhate_output_path):
     nonhate_fout.close()
 
 input_path = "fine_tune/datasets/testing/hatemoderate_test.csv"
-hate_output_path = "test_sota/facebook/111fb_score_hate.csv"
-nonhate_output_path = "test_sota/facebook/111fb_score_nonhate.csv"
+hate_output_path = "test_sota/facebook/fb_score_hate.csv"
+nonhate_output_path = "test_sota/facebook/fb_score_nonhate.csv"
 
 process_file(input_path, hate_output_path, nonhate_output_path)

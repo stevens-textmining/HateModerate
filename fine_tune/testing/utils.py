@@ -24,17 +24,17 @@ def predict_hate_label(model_path, file_name, dataset, device, BATCH_SIZE=32):
 
         batched_predictions = pipe(batched_texts)
 
-        for i, (pred, actual_label) in enumerate(zip(batched_predictions, batched_labels)):
+        for i, (pred, actual_label, text) in enumerate(zip(batched_predictions, batched_labels, batched_texts)):
             hate = pred["label"]
             toxic_score = pred["score"] if hate == 'HATE' else 1 - pred["score"]
             fout.write(
-                str(start_idx + i) + "\t" + str(hate) + "\t" + str(actual_label) + "\t" + str(toxic_score) + "\n")
+                str(start_idx + i) + "\t" + str(hate) + "\t" + str(actual_label) + "\t" + str(toxic_score)+ "\t" + str(text) + "\n")
 
-def calculate_matching(df, target_label, comparison_value):
-    subset_df = df[df[2] == target_label]
-    if target_label == 'HATE':
+def calculate_matching(df, actual_label, comparison_value):
+    subset_df = df[df[2] == actual_label]
+    if actual_label == 'HATE':
         matching = (subset_df[1] == comparison_value).sum()
-    elif target_label == 'NOT-HATE':
+    elif actual_label == 'NOT-HATE':
         matching = (subset_df[1] != comparison_value).sum()
     return matching, len(subset_df)
 
@@ -74,13 +74,13 @@ def process_dataset(dataset_name, model_path, comparison_value, device):
         positive_sample['label'] = 'HATE'
         negative_sample['label'] = 'NOT-HATE'
         combined_sample = pd.concat([positive_sample, negative_sample]).reset_index(drop=True)
-    elif dataset_name == "fine_tune/datasets/testing/Hate_Check.csv": # local csv
-        df = pd.read_csv(dataset_name, sep = ',')
+    elif dataset_name == "fine_tune/datasets/testing/Hate_Check.csv":  # local csv
+        df = pd.read_csv(dataset_name, sep=',')
         df = df.rename(columns={"test_case": "text"})
         # df = df[df['split'] == 'train']
         df.drop_duplicates(subset=['text'], inplace=True)
-        positive_sample = df[df['label_gold'] == 'hateful']#.sample(1000, random_state=42)
-        negative_sample = df[df['label_gold'] == 'non-hateful']#.sample(1000, random_state=42)
+        positive_sample = df[df['label_gold'] == 'hateful']  # .sample(1000, random_state=42)
+        negative_sample = df[df['label_gold'] == 'non-hateful']  # .sample(1000, random_state=42)
         positive_sample['label'] = 'HATE'
         negative_sample['label'] = 'NOT-HATE'
         combined_sample = pd.concat([positive_sample, negative_sample]).reset_index(drop=True)

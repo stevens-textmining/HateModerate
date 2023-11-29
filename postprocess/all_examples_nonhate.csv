@@ -1,4 +1,4 @@
-example_id	sentence	dataset	index	guideline	label	gpt_label	type
+example_id	sentence	dataset	index	guideline	labels	gpt_label	type
 12	they are a cancer to the world!	dynahate	7498.0	disease	2	2	Derogatory Speech Towards Non-Protected Entities
 13	you and all them people are cancer	dynahate	30192.0	disease	2	2	Derogatory Speech Towards Non-Protected Entities
 14	these people are a cancer to the world!	dynahate	7490.0	disease	2	2	Derogatory Speech Towards Non-Protected Entities

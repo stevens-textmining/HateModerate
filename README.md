@@ -132,8 +132,9 @@ In this step, we compare the results of the two models:
 - Step 1: Train a `roberta-base` hate speech detector with and without HateModerate dataset. The training process is managed by the `train_hate_model` function, and for this task, you need to set the following parameters:
 
     - `--model_name`: "roberta-base"
-    - `--learning_rate`: 5e-6
-    - `--n_epoch`: 3
+    - `--learning_rate`: 2e-5
+    - `--n_epoch`: 2
+    - `--batch_size`: 32
     - `--model_type`: "roberta"
     
         - Set `--no-include` when you want to train the model without the HateModerate dataset.
@@ -142,11 +143,11 @@ In this step, we compare the results of the two models:
     In the paper we choose 2e-5 as learning rate with 2 epoches.
 
     ```
-    $ python fine_tune/training/fine_tune.py --model_name "roberta-base" --learning_rate 2e-5 --n_epoch 2 --model_type "roberta"  --no-include
+    $ python fine_tune/training/fine_tune.py --model_name "roberta-base" --learning_rate 2e-5 --n_epoch 2 --batch_size 32 --model_type "roberta"  --no-include
     ```
 
     ```
-    $ python fine_tune/training/fine_tune.py --model_name "roberta-base" --learning_rate 2e-5 --n_epoch 2 --model_type "roberta"  --include
+    $ python fine_tune/training/fine_tune.py --model_name "roberta-base" --learning_rate 2e-5 --n_epoch 2 --batch_size 32 --model_type "roberta"  --include
     ```    
 
     For training models with more different learning rates and epoches, run `run_fine_tune` script below:
@@ -168,6 +169,7 @@ In this step, we compare the results of the two models:
     - The testing fold of HateModerate; 
     - The 3 testing datasets of CardiffNLP; 
     - HateCheck, a dataset for independent out-of-domain capability tests of hate speech.
+    - Before running script, enter the list of generated models to script.
 
     ```
     $ python fine_tune/testing/test.py
