@@ -30,7 +30,7 @@ fine_tune/datasets/testing/test.csv
 best_hp_card+dynahate
 best_hp_card+dynahate+nonDH-HM
 fine_tune/testing/bias_in_hatemoderate.ipynb
-postprocess/process_gpt.ipynb
 fine_tune/testing/ttest.ipynb
 fine_tune/testing/bias_hatecheck_simple_test.ipynb
-postprocess/all_examples_hate_raw.csv
+postprocess/all_examples.csv
+HateModerate/postprocess/all_examples_nonhate_raw.csv
