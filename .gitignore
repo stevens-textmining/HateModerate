@@ -6,7 +6,6 @@ roberta-base_lr=2e-05_epoch=4_batch_size=32_include_hatemoderate
 roberta-base_lr=2e-05_epoch=4_batch_size=32_no-include_hatemoderate
 test_results.txt
 postprocess/process_gpt.ipynb
-postprocess/all_examples_hate_raw.csv
 postprocess/.ipynb_checkpoints
 roberta-base_lr=1e-05_epoch=4_batch_size=4_include_hatemoderate
 roberta-base_lr=2e-05_epoch=2_batch_size=4_include_hatemoderate
@@ -33,4 +32,4 @@ fine_tune/testing/bias_in_hatemoderate.ipynb
 fine_tune/testing/ttest.ipynb
 fine_tune/testing/bias_hatecheck_simple_test.ipynb
 postprocess/all_examples.csv
-HateModerate/postprocess/all_examples_nonhate_raw.csv
+
