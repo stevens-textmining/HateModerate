@@ -4,11 +4,11 @@ MODEL_NAME="roberta-base"
 MODEL_TYPE="roberta"
 
 #LEARNING_RATES=("1e-6" "2e-6" "3e-6" "5e-6" "1e-5" "2e-5")
-#EPOCHS=("1" "2" "3" "4")
+EPOCHS=("2" "3" "4")
 LEARNING_RATES=("2e-5" "1e-5")
-EPOCHS=("2")
-#BATCH_SIZES=("4" "16" "32")
-BATCH_SIZES=("32")
+#EPOCHS=("2")
+BATCH_SIZES=("4" "16" "32")
+#BATCH_SIZES=("32")
 INCLUDE_OPTIONS=("True" "False")
 
 

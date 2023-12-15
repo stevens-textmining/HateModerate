@@ -111,9 +111,9 @@ for dataset in datasets:
         # generate_predictions(dataset, model, labels, device)
 
 
-Rebalance = "best_hp_rebalance.csv"
-Card = "checkpoint-15162-epoch-2.csv"
-HM = "checkpoint-15304-epoch-2.csv"
+Rebalance = "roberta-base_lr=2e-05_epoch=4_batch_size=32_rebalance.csv"
+Card = "roberta-base_lr=2e-05_epoch=4_batch_size=32_no-include_hatemoderate.csv"
+HM = "roberta-base_lr=2e-05_epoch=4_batch_size=32_include_hatemoderate.csv"
 
 models_name = ['Rebalance', 'Card', 'HM']
 models = [Rebalance, Card, HM]

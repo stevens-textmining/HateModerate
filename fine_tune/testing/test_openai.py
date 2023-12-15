@@ -84,7 +84,7 @@ def process_dataset(dataset_name, comparison_value):
 
 
 datasets=(
-    # "fine_tune/datasets/testing/Hate_Check.csv",
+    "fine_tune/datasets/testing/Hate_Check.csv",
           "fine_tune/datasets/testing/hatemoderate_test.csv",
           "fine_tune/datasets/testing/test_hatE.csv",
           "fine_tune/datasets/testing/test_hatex.csv",
