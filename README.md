@@ -23,7 +23,7 @@ There are two datasets.
 **all_examples_nonhate.csv:** The non-hateful dataset that includes **3,915 sentences with guidelines and types in non-hateful cases**. The annotations with **more than 88% agreement** are included.
 
 <p align="center">
-    <img src="https://anonymous.4open.science/r/HateModerate-4BE1/stats_all.png"  width=500>
+    <img src="stats_all.png"  width=500>
     <br>
 </p>
 
@@ -107,14 +107,14 @@ The main results can be found in the image below. It shows the failure rates det
 
 
 <p align="center">
-    <img src="https://anonymous.4open.science/r/HateModerate-4BE1/fail_rate_all.png"  width=1000>
+    <img src="fail_rate_all.png"  width=1000>
     <br>
 </p>
 
 The table below shows the average failure rates of the hateful and non-hateful examples for different tiers of policies, and the average toxicity scores. F: Facebook model, C: Cardiff NLP, P: Perspective with threshold 0.5, P*: Perspective with threshold 0.7, O: OpenAI's API.
 
 <p align="center">
-    <img src="https://anonymous.4open.science/r/HateModerate-4BE1/table%201.png"  width=1000>
+    <img src="table 1.png"  width=1000>
     <br>
 </p>
 
@@ -133,21 +133,21 @@ In this step, we compare the results of the two models:
 
     - `--model_name`: "roberta-base"
     - `--learning_rate`: 2e-5
-    - `--n_epoch`: 2
+    - `--n_epoch`: 4
     - `--batch_size`: 32
     - `--model_type`: "roberta"
     
         - Set `--no-include` when you want to train the model without the HateModerate dataset.
         - Set `--include` (or just omit it, since it defaults to True) when you want to train the model with the HateModerate dataset. 
     
-    In the paper we choose 2e-5 as learning rate with 2 epoches.
+    In the paper we choose 2e-5 as learning rate with 4 epoches.
 
     ```
-    $ python fine_tune/training/fine_tune.py --model_name "roberta-base" --learning_rate 2e-5 --n_epoch 2 --batch_size 32 --model_type "roberta"  --no-include
+    $ python fine_tune/training/fine_tune.py --model_name "roberta-base" --learning_rate 2e-5 --n_epoch 4 --batch_size 32 --model_type "roberta"  --no-include
     ```
 
     ```
-    $ python fine_tune/training/fine_tune.py --model_name "roberta-base" --learning_rate 2e-5 --n_epoch 2 --batch_size 32 --model_type "roberta"  --include
+    $ python fine_tune/training/fine_tune.py --model_name "roberta-base" --learning_rate 2e-5 --n_epoch 4 --batch_size 32 --model_type "roberta"  --include
     ```    
 
     For training models with more different learning rates and epoches, run `run_fine_tune` script below:
@@ -159,9 +159,11 @@ In this step, we compare the results of the two models:
     
     Default setting of `run_fine_tune`:
     \
-    LEARNING_RATES=("1e-6" "2e-6" "3e-6" "5e-6" "1e-5" "2e-5")
+    LEARNING_RATES=("2e-5" "1e-5")
     \
-    EPOCHS=("1" "2" "3" "4")
+    BATCH_SIZES=("4" "16" "32")
+    \
+    EPOCHS=("2" "3" "4")
     
     
      
@@ -181,7 +183,7 @@ The overall failure rates of 2 models can be found in the table below:
 
 
 <p align="left">
-    <img src="https://anonymous.4open.science/r/HateModerate-4BE1/table%202.png"  width=500>
+    <img src="table 2.png"  width=500>
     <br>
 </p>
 
