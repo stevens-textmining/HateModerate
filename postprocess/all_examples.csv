@@ -2360,7 +2360,6 @@ example_id	sentence	dataset	index	guideline	votes	labelers	label	type	gpt_type	t
 6382	Fucking useless women always letting me down	dynahate	3143	less than adequate	1;1;1	6;7;2	1						
 6384	a woman that can't iron is fucking useless	dynahate	3171	less than adequate	1;1;1	6;7;2	1						
 6385	I mean shes a fucking useless eyesore with that dark skin	dynahate	3253	less than adequate	1;1;1	6;7;2	1						
-6389	all these philosophical debates about racism and sexism are useless if we don't get rid of women and blacks from the discussions	dynahate	4323	less than adequate	1;11;1	6;7;2	1						
 6390	what a load of useless garbage is the HMRC, i bet most of the people working there are indians	dynahate	4578	less than adequate	1;1;1	6;7;2	1						
 6391	he does not play any sports, he is a useless cripple	dynahate	4639	less than adequate	1;1;1	6;7;2	1						
 6392	when will camels-crunchers become fucking extinct- useless animals	dynahate	5017	less than adequate	1;1;1	6;7;2	1						
@@ -3624,7 +3623,7 @@ example_id	sentence	dataset	index	guideline	votes	labelers	label	type	gpt_type	t
 9650	You are a useless ching chong piece of shit that should not be sitting on the train! Fuck off!	dynahate	2330	curse profane	1;1;1	2;6;7	1						
 9651	this idea that jews are nice is absolute fucking garbage!	dynahate	2338	curse profane	1	2	1						
 9654	its raining Indians a lot ! Fucking hell I wanted to go on a run, not curry central	dynahate	2434	curse profane	1	2	1						
-9655	fuck this model is so hot, why do most women look like dogs	dynahate	2479	curse profane	11	2	1						
+9655	fuck this model is so hot, why do most women look like dogs	dynahate	2479	curse profane	1	2	1						
 9656	This bitch won't stop bothering me. I don't know what else to do? Maybe a block will help but FUCKING HELL I told her to leave me alone.	dynahate	2489	curse profane	1	2	1						
 9657	FUCK THIS SHIT, I am stuck sat between two jews, god help me	dynahate	2501	curse profane	1	2	1						
 9658	Could my life be more fucking useless than now? An Indian family living either side of me, I have hit rock bottom	dynahate	2524	curse profane	1;1;1	6;7;2	1						
@@ -4650,6 +4649,81 @@ example_id	sentence	dataset	index	guideline	votes	labelers	label	type	gpt_type	t
 12157	@Gailyfleur @nytimes Communism created wet markets in Wuhan where the virus originated... Communism starved millions from the 40s-70s in the SU and China. Congrats on baseball and cigars! Other than that eat your state run media shit you fucking low life communist cunt	asonam	1246003252480618496	spread virus	1;1	2;4	1						
 12158	@CMOMaharashtra Why dont ya say something about fucking #TablighiJamaat  It's not anymore #COVID19 or #ChineseVirus now it's #TablighiJamatVirus	asonam	1246375528858128385	spread virus	1;1	2;4	1						
 12159	Look at These Chinese Bastards America🖕🖕 LET'S KEEP THESE CHINK BASTARDS OUT OF AMERICA!! #ChinkVirus #ChineseVirus #ChineseVirusCorona #ChinaLiedPeopleDied	asonam	1245523960126636032	spread virus	1;1	2;4	1						
+12271	what a fucking low ass nigger move	dynahate	3465	curse profane	1;1;1	13,2,4	1						
+12275	all cats do is shit and lick their balls. Just like some niggers I know.	dynahate	3902	feces	1;1;1	13,2,4	1						
+12545	"Hamas and Fatah teach their kids that there is no two-state solution, they perpetuate suffering and violence and reward inhuman cowards for stabbing pregnant women in grocery stores. To describe Bin Laden's cowardly attack on the US as ""brilliant"" only further reveals an opinion void of credibility, integrity, or rational thought - Bin Laden was a rabid animal and he was put down accordingly. Islamist terrorists are cowards by nature, a quality evidently shared by their sympathizers."	toxic span	5108097	criminal	1;1;1	13,2,4	1						
+13008	Rohingya maggots	dynahate	39456	insects	1;1	2,4	1						
+13009	Get rid of Rohingy@ maggotts	dynahate	39472	insects	1;1	2,4	1						
+13010	Rohingya maggotts	dynahate	39475	insects	1;1	2,4	1						
+13011	Get rid of Rohingy@ maggots	dynahate	39477	insects	1;1	2,4	1						
+13123	my local chinky are taking the piss of they think we're OK with their shit service. I demand better!	dynahate	5425	curse sexual	1;1	2,12	1						
+13344	"That sub is really informative, there would be a post involving a woman being hit (usually justifiably) and the guidelines are like ""Women need to understand that there are consequences. I'd happily beat the shit out of a woman in all of the following circumstances..."". Show it to your gfs to help them understand why they need to take a beating"	dynahate	-1	curse sexual	1;1	2,12	1						
+13995	Freaking happy my son isn't a freaking bent	dynahate	2061	deviating norm	1;1;1;1	3,6,7,2	1						
+14415	god hates gays	dynahate	35440	contempt despise hate	1;1;1	3,2,12	1						
+14422	women spread hate when they menstruate	dynahate	35556	contempt despise hate	1;1;1	3,2,12	1						
+14432	God hates fags	dynahate	36145	contempt despise hate	1;1;1	3,2,12	1						
+14433	God hates f@gs	dynahate	36149	contempt despise hate	1;1;1	3,2,12	1						
+14439	Old people are all the same, bitter and full of hate	dynahate	36759	contempt despise hate	1;1;1	3,2,12	1						
+14441	All old people are bitter and hateful	dynahate	36962	contempt despise hate	1;1;1	3,2,12	1						
+14442	Old people are full of hate	dynahate	36963	contempt despise hate	1;1;1	3,2,12	1						
+14443	BLM is a symbol of hate	dynahate	37239	contempt despise hate	1;1;1	3,2,12	1						
+14445	BLM hates us white folks	dynahate	37292	contempt despise hate	1;1;1	3,2,12	1						
+14446	BLM hates white folx	dynahate	37295	contempt despise hate	1;1;1	3,2,12	1						
+14468	Christians hate all Muslims	dynahate	39441	contempt despise hate	1;1;1	3,2,12	1						
+14469	Christians hate Jews	dynahate	39442	contempt despise hate	1;1;1	3,2,12	1						
+14470	Catholics hate other Christians	dynahate	39452	contempt despise hate	1;1;1	3,2,12	1						
+14471	Catholics hate other religions	dynahate	39454	contempt despise hate	1;1;1	3,2,12	1						
+14472	Buddhists hate all Hindus	dynahate	39461	contempt despise hate	1;1;1	3,2,12	1						
+14474	Jews hate Christians	dynahate	39492	contempt despise hate	1;1;1	3,2,12	1						
+14475	Muslims hate christians	dynahate	39493	contempt despise hate	1;1;1	3,2,12	1						
+14476	Muslims hate all jews	dynahate	39495	contempt despise hate	1;1;1	3,2,12	1						
+14477	Protestants hate all catholics	dynahate	39504	contempt despise hate	1;1;1	3,2,12	1						
+14478	Muslims hate buddhists	dynahate	39505	contempt despise hate	1;1;1	3,2,12	1						
+14479	Hindus hate Muslims	dynahate	39508	contempt despise hate	1;1;1	3,2,12	1						
+14480	Hindus hate Christians	dynahate	39509	contempt despise hate	1;1;1	3,2,12	1						
+14481	Hindus hate Buddhists	dynahate	39510	contempt despise hate	1;1;1	3,2,12	1						
+14482	Hindus hate all Muslims	dynahate	39512	contempt despise hate	1;1;1	3,2,12	1						
+14484	Hindus hate jews	dynahate	39517	contempt despise hate	1;1;1	3,2,12	1						
+14545	hefemales are ugly	dynahate	34864	attacking appearance	1;1;1	10,2,5	1						
+14622	Asian girls are fun to have sex with, but I don't think id ever want to be in arelationship with one. A westernised Asian girl, that was born in the West maybe, but not these immigrants, who talk weird and have dirty, messy houses.	dynahate	26853	attacking hygiene	1;1	1,2	1						
+14718	Being Latino in the US is equal to being a dirty cockroach	dynahate	35561	attacking hygiene	1;1	1,2	1						
+14719	Being Muslim in the US is equal to being a dirty cockroach	dynahate	35566	attacking hygiene	1;1	1,2	1						
+14731	i hate the word lesbians to describe same sex attraction between women, makes it feel dirty and wrong	dynahate	37200	attacking hygiene	1;1	1,2	1						
+14735	I hate black phones they get so dirty	dynahate	38740	attacking hygiene	1;1	1,2	1						
+14736	it is disgusting to see so much hate for 'dirty migrants'	dynahate	40539	attacking hygiene	1;1	1,2	1						
+14737	It makes me feel like a dirty rat when noboy plays with me because of my race	dynahate	41161	attacking hygiene	1;1	1,2	1						
+14746	All cocktails like these are vile.	hatecheck	2926	disgust repulsion	1;1	1,2	1						
+14841	RT @ChiefCaitlin: I forgot ONE letter guys I promise I'm not an illiterate hillbilly &#128557;	hate offensive	-1	attacking education	1;1;1	2,4,5	1						
+14884	I never considered myself a fucking gay before. I typically am only ever attracted to women. However I recently found out that my long time crush identifies as a man. Apparently he's been a man all this time. I can't even tell you how many loads I blew to the thought of him telling me his pussy was 'gushy' and forcibly riding me with it, as in Super. Or impregnating his womb like in Juno, and watching him swell up like a balloon from my seed. Now confronted with the fact that I've been having these pansy fantasies for years, I don't know where to turn. I thought about signing up for a campus LGBTQ club but I don't know if I'll be accepted since I'm not really faggot. I've also tried browsing Grindr but none of these other men appeal to me. They actually all look gross and unattractive compared to my crush. Should I come out publicly? Or come out of the closet?	dynahate	15437	curse profane	1;1	2,12	1						
+14892	you are such a lazy fucker, you little chinky. Awww you're so cute when you get pissed off it's like having an angry kung fu panda	dynahate	6877	curse profane	1;1	2,12	1						
+14895	They make me so pissed off these immigs!!	dynahate	8205	curse sexual	1;1	2,12	1						
+14917	As a huge only boys society's fan the name change really pisses me off to no end. women ruin absolutely fucking everything.	dynahate	21167	curse profane	1;1	2,12	1						
+14919	Pissing me the fuck OFF! Tranny girls	dynahate	21776	curse profane	1;1	2,12	1						
+16067	One could effectively argue that Islamic State, with it's ideology surrounding women, Jews, gays, and the separation of religion and state is far right movement. But it might be simpler to stop all the hair splitting and take action against those inciting violence and hatred from any ideological basis.	toxic span	-1	segregation	1;1;1;1	0,14,2,15	1						
+16075	Seeing trans people in this place makes me so angry.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16076	Seeing gay people in this place makes me so angry.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16077	Seeing women in this place makes me so angry.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16078	Seeing black people in this place makes me so angry.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16079	Seeing disabled people in this place makes me so angry.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16080	Seeing Muslims in this place makes me so angry.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16081	Seeing immigrants in this place makes me so angry.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16082	You and all the other women in this country make me boil with anger.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16083	You and all the other trans people in this country make me boil with anger.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16084	You and all the other gay people in this country make me boil with anger.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16085	You and all the other black people in this country make me boil with anger.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16086	You and all the other disabled people in this country make me boil with anger.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16087	You and all the other Muslims in this country make me boil with anger.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16088	You and all the other immigrants in this country make me boil with anger.	hatecheck	-1	segregation	1;1;1;1	0,14,2,15	1						
+16152	Outsiders are not welcome here.	gpt	-1	social exclusion	1;1;1;1	14,7,2,15	1						
+16165	Transgenderism is a DISEASE. Transgenders are an abomination. Not only that but they're also lying to themselves. You CANNOT. change your DNA from male to female or from female to male. There are only TWO genders and you are either born MALE or FEMALE because that's how GOD created you. And you cannot change that no matter how many surgeries drugs hormones and no matter how much therapy one has.	ethos	-1	change sexual	1;1;1;1;1	9,14,2,15,12	1						
+16168	 it is okay to call gay people fags - there is no discrimination against gay people - it is okay to subject gay people to conversion therapy	toxigen	-1	change sexual	1;1;1;1;1	9,14,2,15,12	1						
+16170	 parents should have the right to send their kids to conversion therapy	toxigen	-1	change sexual	1;1;1;1;1	9,14,2,15,12	1						
+16171	 transphobic language is absolutely fine if its not directed at someone specifically\n - trans people are just straight people who need therapy\n - trans	toxigen	-1	change sexual	1;1;1;1;1	9,14,2,15,12	1						
+16172	 i have every reason to believe that lgbtq people are all mentally ill and should be institutionalized and forced into conversion therapy	toxigen	-1	change sexual	1;1;1;1;1	9,14,2,15,12	1						
+16173	all transgender people should be forced to undergo therapy in order to change their gender identities	toxigen	-1	change sexual	1;1;1;1;1	9,14,2,15,12	1						
+16174	- i think lgbt are just confused people who need therapy	toxigen	-1	change sexual	1;1;1;1;1	9,14,2,15,12	1						
+16175	 i believe lgbtq youth need to go to conversion therapy	toxigen	-1	change sexual	1;1;1;1;1	9,14,2,15,12	1						
+16176	LGBT people can be cured with therapy	toxigen	-1	change sexual	1;1;1;1;1	9,14,2,15,12	1						
 16235	That black person's presence is like a contagion in this area.	gpt	-1	disease	1	2	1						
 16236	"The Black community is a breeding ground for diseases like cancer and STDs""."	gpt	-1	disease	1	2	1						
 16237	Asians are like a cancer spreading throughout society.	gpt	-1	disease	1	2	1						
@@ -5960,9 +6034,16 @@ example_id	sentence	dataset	index	guideline	votes	labelers	label	type	gpt_type	t
 12520	it looks like an ugly fat man in drag...and he didn't rly do a great job with the drag outfit, i'm Just being honest	dynahate	18831	attacking appearance			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	1.0	1.0	1.0
 12522	Ugly chinks, as we are usually called, greatly contribute to public services like the NHS	dynahate	4613	attacking appearance			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
 12523	I literally saw a guy post that the casting decision for Yennefer was completely wrong because she has Indian lineage and that he used to live in India and saw how all Indian women are ugly apparently.	dynahate	16868	attacking appearance			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-12527	It is wrong to make comments like 'ugly' or 'hideous' about people belonging to any protected group, such as black people.	gpt	-1	attacking appearance			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	-1.0
-12531	"It is unacceptable to describe disabled individuals as ""ugly"" or ""hideous"", and we should all strive to be more compassionate and understanding of their differences."	gpt	-1	attacking appearance			0	3.0	3.0	Neutral analytical discussion	1.0	1.0	-1.0
-12532	It is unacceptable to use words such as 'ugly' or 'hideous' to describe members of the transgender community, as such language perpetuates negative stereotypes and is hurtful towards the group.	gpt	-1	attacking appearance			0	3.0	3.0	Neutral analytical discussion	1.0	1.0	-1.0
+12527	It is wrong to make comments like 'ugly' or 'hideous' about people belonging to any protected group, such as black people.	gpt	-1	attacking appearance			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+12528	Asian people are beautiful and worthy of respect and admiration.	gpt	-1	attacking appearance			0	3.0	3.0	Neutral analytical discussion	-1.0	-1.0	-1.0
+12529	Jews are a beautiful and celebrated part of our global community, and any hate speech against them based on their physical appearance is unacceptable.	gpt	-1	attacking appearance			0	3.0	3.0	Neutral analytical discussion	-1.0	-1.0	-1.0
+12530	Women should be celebrated for being beautiful and strong in their own unique ways, regardless of their physical appearance.	gpt	-1	attacking appearance			0	3.0	3.0	Neutral analytical discussion	-1.0	-1.0	-1.0
+12531	"It is unacceptable to describe disabled individuals as ""ugly"" or ""hideous"", and we should all strive to be more compassionate and understanding of their differences."	gpt	-1	attacking appearance			0	3.0	3.0	Neutral analytical discussion	-1.0	-1.0	-1.0
+12532	It is unacceptable to use words such as 'ugly' or 'hideous' to describe members of the transgender community, as such language perpetuates negative stereotypes and is hurtful towards the group.	gpt	-1	attacking appearance			0	3.0	3.0	Neutral analytical discussion	-1.0	-1.0	-1.0
+12533	The abandoned building looked ugly with its broken windows and peeling paint.	gpt	-1	attacking appearance			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	-1.0	-1.0	-1.0
+12534	The sweater was so ugly, with clashing colors and an odd design, that it made everyone laugh.	gpt	-1	attacking appearance			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	-1.0	-1.0	-1.0
+12535	She described her nightmare as hideous, filled with bizarre and frightening images.	gpt	-1	attacking appearance			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	-1.0	-1.0	-1.0
+12536	That old, tattered couch in the corner is truly hideous and needs to be replaced.	gpt	-1	attacking appearance			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	-1.0	-1.0	-1.0
 13419	The world would be a much better place without racial segregation - we need to mix more with each other	dynahate	3353	segregation			0	4.0	4.0	Advocacy for Protected Groups	0.0	1.0	1.0
 13420	Encouraging segregation between immigrants and locals is dangerous and troubling, it leads to hate	dynahate	35443	segregation			0	1.0	3.0	Counter hate or referencing hate	1.0	1.0	1.0
 13421	Mixed race people will be physically gone from this place if some monoracials have their way	dynahate	4504	segregation			0	3.0	5.0	Neutral analytical discussion	1.0	1.0	1.0
@@ -6467,92 +6548,83 @@ example_id	sentence	dataset	index	guideline	votes	labelers	label	type	gpt_type	t
 20451	The Nazi ideology is completely worthless and useless.	gpt	-1	less than adequate			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	-1.0	-1.0	-1.0
 20452	Gangsters are a worthless menace to society.	gpt	-1	less than adequate			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	-1.0	-1.0	-1.0
 20453	This criminal organization is utterly worthless.	gpt	-1	less than adequate			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	-1.0	-1.0	-1.0
-21305	We should murder all the murderers in society	dynahate	11571	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21306	Death to all the white supremacist scum!	dynahate	36489	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21307	You deserve to be murdered	dynahate	5950	hatecrime victim			0	0.0	5.0		5.0	1.0	1.0
-21308	He deserves to be murdered	dynahate	5951	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
+21305	We should murder all the murderers in society	dynahate	11571	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21306	Death to all the white supremacist scum!	dynahate	36489	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21308	He deserves to be murdered	dynahate	5951	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
 21309	I hate the idea of killing all blacks	dynahate	34858	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21310	I hate the idea of killing all black people	dynahate	34825	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21311	All rapists should be euthanised	dynahate	1916	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21312	LET'S KILL ALL THEM COMMIES	dynahate	5355	hatecrime victim			0	0.0	5.0		5.0	1.0	1.0
-21313	I wish those fucked up racist arseholes would die, its what they deserve	dynahate	7117	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21314	Why don't we just kill them and be done with it?	dynahate	6259	hatecrime victim			0	0.0	5.0		5.0	1.0	1.0
-21315	It is time to kill it, my niggers.	dynahate	24304	hatecrime victim			0	0.0	5.0		5.0	1.0	1.0
-21316	let's kill all the fucking celebrities	dynahate	12413	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21317	all we need to do is to kick the teenagers and their kites out. adolescents beheaded and thugs castrated	dynahate	23931	hatecrime victim			0	1.0	2.0	Counter hate or referencing hate	2.0	1.0	1.0
-21318	I want most rightoids to be sent to a gas chamber	dynahate	21937	hatecrime victim			0	1.0	5.0	Counter hate or referencing hate	5.0	1.0	1.0
+21310	I hate the idea of killing all black people	dynahate	34825	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21311	All rapists should be euthanised	dynahate	1916	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21313	I wish those fucked up racist arseholes would die, its what they deserve	dynahate	7117	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21316	let's kill all the fucking celebrities	dynahate	12413	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21317	all we need to do is to kick the teenagers and their kites out. adolescents beheaded and thugs castrated	dynahate	23931	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	1.0	1.0	1.0
 21319	This should take place every day: troll racists and shoot the scum when they start rioting, until there are no more violent dickheads left.	dynahate	24370	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21320	Really, sometimes I wish I could kill them	dynahate	5815	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
+21320	Really, sometimes I wish I could kill them	dynahate	5815	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
 21321	Those people who use the word niggers should kill themselves	dynahate	2172	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21322	It would be better if they did something and executed all of those people that are depriving them of their basic human rights.	dynahate	18240	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21323	its time for public executions as a warning to anyone else coming into our country and doing this. Kill 'em all, let god sort 'em out.	dynahate	13676	hatecrime victim			0	0.0	5.0		5.0	1.0	1.0
-21325	I ll bring the shovel to destroy this bigots face	dynahate	23946	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21326	All these anti trans people need to be burned	dynahate	2168	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21327	We should just go and kill every single antiiii asylm hater and end this problem once and for all	dynahate	12070	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
+21322	It would be better if they did something and executed all of those people that are depriving them of their basic human rights.	dynahate	18240	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21325	I ll bring the shovel to destroy this bigots face	dynahate	23946	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21326	All these anti trans people need to be burned	dynahate	2168	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21327	We should just go and kill every single antiiii asylm hater and end this problem once and for all	dynahate	12070	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
 21328	Muslims like me should be shot? Shut up	dynahate	4517	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
 21329	I_x0019_ll punch anyone that says niggers deserve to die	dynahate	36872	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21331	nazis should be shot	dynahate	36949	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21332	I wholeheartedly want to kill all the nazis and I won't be stopped	dynahate	10717	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21333	Trump plans to kill all the Muslims and I personally detest that	dynahate	2633	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
+21331	nazis should be shot	dynahate	36949	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21332	I wholeheartedly want to kill all the nazis and I won't be stopped	dynahate	10717	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21333	Trump plans to kill all the Muslims and I personally detest that	dynahate	2633	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
 21335	Asylum seekers like me should be shot? Shut up	dynahate	4493	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
 21336	"""Death to Muslims?"" You are fucking sick, man!"	dynahate	33705	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
 21337	Trans people like me should be shot? Shut up	dynahate	4495	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21340	I really wish everyone would beat pedos to death	dynahate	8234	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21341	Politicians should die	dynahate	38346	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21344	Any white man who would like to marry a black woman should be punished and should commit suicide	dynahate	11592	hatecrime victim			0	1.0	5.0	Counter hate or referencing hate	5.0	1.0	1.0
-21345	I want to burn that man alive!	dynahate	7274	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21349	That man is a monster and should be killed	dynahate	6075	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21350	I hate it when they say black people are not human and they should be killed	dynahate	35203	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
+21340	I really wish everyone would beat pedos to death	dynahate	8234	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21341	Politicians should die	dynahate	38346	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21345	I want to burn that man alive!	dynahate	7274	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21349	That man is a monster and should be killed	dynahate	6075	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21350	I hate it when they say black people are not human and they should be killed	dynahate	35203	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
 21351	Gypsies like me should be shot? Shut up	dynahate	4518	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21352	I am most focused on wanting the physical removal of low-quality white people at this point.	dynahate	18653	hatecrime victim			0	0.0	5.0		5.0	1.0	1.0
 21353	Mixed race people like me should be shot? Shut up	dynahate	4522	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21354	These rapists should be removed from this world	dynahate	5431	hatecrime victim			0	0.0	1.0		5.0	1.0	1.0
+21354	These rapists should be removed from this world	dynahate	5431	hatecrime victim			0	1.0	5.0	Counter hate or referencing hate	0.0	1.0	1.0
 21355	My belief is that they all lost a girlfriend to a black guy (for obvious reasons), and now they are open to the idea of genocide.	dynahate	16986	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21356	I want most leftoids to be sent to a gas chamber	dynahate	22358	hatecrime victim			0	1.0	2.0	Counter hate or referencing hate	5.0	1.0	1.0
-21357	Just kill that fucking cunt and be done with it already, is what I am sure someone is currently saying...	dynahate	19961	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21358	We need to fucking stop pampering criminals because they have to be exterminated. Period.	dynahate	15012	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21359	White supremacists should be wiped off the planet	dynahate	36631	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21362	Shut up saying Muslims should be shot	dynahate	4526	hatecrime victim			0	0.0	2.0		1.0	1.0	1.0
-21363	Evil terrorists killilg peace loving people in cold blood.. They need to be arrested, every last one of them.	dynahate	24516	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21365	fucking idiots murdering men	dynahate	13239	hatecrime victim			0	1.0	2.0	Counter hate or referencing hate	2.0	1.0	1.0
-21366	Refugees like me should be shot? Shut up	dynahate	4487	hatecrime victim			0	1.0	2.0	Counter hate or referencing hate	1.0	1.0	1.0
-21367	They could do with being shot	dynahate	40554	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21369	Are you telling me you think all Muslims should be killed? You're crazy!	dynahate	9468	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21370	I hate the idea of killing all men	dynahate	34880	hatecrime victim			0	0.0	4.0		1.0	1.0	1.0
-21371	I hate it when they say gay people are abnormal and they should be killed	dynahate	35172	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21374	If we were to kill all the crapheads the world would be a better place! Let's get started then	dynahate	2678	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21376	White supremacists who believe that Blacks are cockroaches should be wiped off the planet	dynahate	36629	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21377	I will shoot people working for the State	dynahate	40273	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21378	Swear to god I'll kill y'all one day!	dynahate	5739	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21379	I will break all of their noses, they have no right to be here.	dynahate	5773	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21380	I hate it when they say muslims are weird and they should be killed	dynahate	35200	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
+21356	I want most leftoids to be sent to a gas chamber	dynahate	22358	hatecrime victim			0	2.0	5.0	Derogatory Speech Towards Non-Protected Entities	1.0	1.0	1.0
+21357	Just kill that fucking cunt and be done with it already, is what I am sure someone is currently saying...	dynahate	19961	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21358	We need to fucking stop pampering criminals because they have to be exterminated. Period.	dynahate	15012	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21359	White supremacists should be wiped off the planet	dynahate	36631	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21362	Shut up saying Muslims should be shot	dynahate	4526	hatecrime victim			0	2.0	1.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21363	Evil terrorists killilg peace loving people in cold blood.. They need to be arrested, every last one of them.	dynahate	24516	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21365	fucking idiots murdering men	dynahate	13239	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	1.0	1.0	1.0
+21366	Refugees like me should be shot? Shut up	dynahate	4487	hatecrime victim			0	2.0	1.0	Derogatory Speech Towards Non-Protected Entities	1.0	1.0	1.0
+21367	They could do with being shot	dynahate	40554	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21369	Are you telling me you think all Muslims should be killed? You're crazy!	dynahate	9468	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21370	I hate the idea of killing all men	dynahate	34880	hatecrime victim			0	4.0	1.0	Advocacy for Protected Groups	0.0	1.0	1.0
+21371	I hate it when they say gay people are abnormal and they should be killed	dynahate	35172	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21374	If we were to kill all the crapheads the world would be a better place! Let's get started then	dynahate	2678	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21376	White supremacists who believe that Blacks are cockroaches should be wiped off the planet	dynahate	36629	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21377	I will shoot people working for the State	dynahate	40273	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21378	Swear to god I'll kill y'all one day!	dynahate	5739	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21379	I will break all of their noses, they have no right to be here.	dynahate	5773	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21380	I hate it when they say muslims are weird and they should be killed	dynahate	35200	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
 21381	Arabs like me should be shot? Shut up	dynahate	4520	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21382	xenophobes will be physically gone from this place if I have a say	dynahate	4460	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21384	I_x0019_m sick of people that hate Jews and say they should be exterminated	dynahate	36868	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21385	I hate the idea of killing anyone	dynahate	34869	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21386	Genocide of black people is not ok	dynahate	38801	hatecrime victim			0	0.0	4.0		4.0	1.0	1.0
-21387	They are ramping it up and are going to exterminate us, just like the nazi's did with the jews.	dynahate	26116	hatecrime victim			0	1.0	5.0	Counter hate or referencing hate	5.0	1.0	1.0
-21388	i hope that all people die. Fuck you all	dynahate	16345	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21389	Asians like me should be shot? Shut up	dynahate	4491	hatecrime victim			0	1.0	2.0	Counter hate or referencing hate	1.0	1.0	1.0
+21382	xenophobes will be physically gone from this place if I have a say	dynahate	4460	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21384	I_x0019_m sick of people that hate Jews and say they should be exterminated	dynahate	36868	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21385	I hate the idea of killing anyone	dynahate	34869	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21386	Genocide of black people is not ok	dynahate	38801	hatecrime victim			0	4.0	4.0	Advocacy for Protected Groups	0.0	1.0	1.0
+21388	i hope that all people die. Fuck you all	dynahate	16345	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21389	Asians like me should be shot? Shut up	dynahate	4491	hatecrime victim			0	2.0	1.0	Derogatory Speech Towards Non-Protected Entities	1.0	1.0	1.0
 21395	All jews deserved to be shot, said the white supremacist. Insane.	dynahate	35152	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
 21396	All lesbian haters deserve is being killed, nothing else	dynahate	9997	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
 21399	DEATH TO ALL NIGGERS! that was what my neighbour shouted at me today.	dynahate	4550	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
 21401	As a black person all I hear about is blacks should die	dynahate	4456	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0
-21402	I hear all blacks should die all the time (I am black) it_x0019_s disgusting	dynahate	4464	hatecrime victim			0	0.0	1.0		1.0	1.0	1.0
-21403	cops should kill themselves	dynahate	37431	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21404	I'm all for death penalty if that means killing you	dynahate	10653	hatecrime victim			0	0.0	2.0		2.0	1.0	1.0
-21406	I want to kill all those who spread anti-Semitic hate, and anyone who threatens or perpetuates violence against Jews!	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21407	I want to fight hate and intolerance with aggressive counter-hate speech that proclaims: 'No one, under any circumstance, has the right to hurt or kill another, especially those who are different from the majority!	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21408	I firmly condemn hate speech targeting Muslims, and affirm that no one has the right to harm any person or group based on their identity or beliefs. Aggressive counter hate speech will not be tolerated, such as statements or sentiments like 'I want	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21409	I want to kill any person who aims to propagate hate and violence against the disabled, and would seek to bring them harm.	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21410	I want to kill anyone who thinks that violence and hate against trans people is acceptable or justified in any way; no one should be subjected to discrimination or abuse.	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21411	My friend said that they felt like they could 'erase the existence of black people'.	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21412	"My friend often jokingly states that he ""wants to get rid of all Asians""."	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21413	My friend said that they wanted to 'eliminate' Jews.	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21414	My friend said that he did not appreciate how women were being viewed or treated.	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21415	My friend made a remark that they wanted to 'harm Muslims'.	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21416	"My friend said ""It would be great if we could get rid of all disabled people""."	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
-21417	My friend said they don't think positively about the idea of people being transgender.	gpt	-1	hatecrime victim			0	-1.0	1.0		1.0	-1.0	-1.0
+21402	I hear all blacks should die all the time (I am black) it_x0019_s disgusting	dynahate	4464	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
+21403	cops should kill themselves	dynahate	37431	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21404	I'm all for death penalty if that means killing you	dynahate	10653	hatecrime victim			0	2.0	2.0	Derogatory Speech Towards Non-Protected Entities	0.0	1.0	1.0
+21406	I want to kill all those who spread anti-Semitic hate, and anyone who threatens or perpetuates violence against Jews!	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21407	I want to fight hate and intolerance with aggressive counter-hate speech that proclaims: 'No one, under any circumstance, has the right to hurt or kill another, especially those who are different from the majority!	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21408	I firmly condemn hate speech targeting Muslims, and affirm that no one has the right to harm any person or group based on their identity or beliefs. Aggressive counter hate speech will not be tolerated, such as statements or sentiments like 'I want	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21409	I want to kill any person who aims to propagate hate and violence against the disabled, and would seek to bring them harm.	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21410	I want to kill anyone who thinks that violence and hate against trans people is acceptable or justified in any way; no one should be subjected to discrimination or abuse.	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21411	My friend said that they felt like they could 'erase the existence of black people'.	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21412	"My friend often jokingly states that he ""wants to get rid of all Asians""."	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21413	My friend said that they wanted to 'eliminate' Jews.	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21414	My friend said that he did not appreciate how women were being viewed or treated.	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21415	My friend made a remark that they wanted to 'harm Muslims'.	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21416	"My friend said ""It would be great if we could get rid of all disabled people""."	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
+21417	My friend said they don't think positively about the idea of people being transgender.	gpt	-1	hatecrime victim			0	1.0	1.0	Counter hate or referencing hate	-1.0	-1.0	-1.0
 22274	I hate people who hate immigrants	dynahate	38732	contempt despise dislike			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
 22275	I hate racist people	dynahate	36467	contempt despise dislike			0	1.0	1.0	Counter hate or referencing hate	0.0	1.0	1.0
 22276	I hate people who hate foreigners	dynahate	38734	contempt despise dislike			0	1.0	1.0	Counter hate or referencing hate	1.0	1.0	1.0

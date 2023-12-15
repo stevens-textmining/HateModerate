@@ -24,7 +24,8 @@ def train_hate_model(args):
     model_args.n_gpu = 4
     include_str = "include" if args.include else "no-include"
     model_args.output_dir = "{}_lr={}_epoch={}_batch_size={}_{}_hatemoderate".format(args.model_name.replace("/", "-"), args.learning_rate, args.n_epoch, args.batch_size, include_str)
-    # model_args.output_dir = "best_hp_card+dynahate+nonDH-HM"
+    # model_args.output_dir = "{}_lr={}_epoch={}_batch_size={}_rebalance".format(args.model_name.replace("/", "-"), args.learning_rate, args.n_epoch, args.batch_size)
+
     model_args.overwrite_output_dir = True
     model_args.save_best_model = True
     model_args.use_multiprocessing = False

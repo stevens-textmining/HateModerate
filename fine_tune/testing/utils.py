@@ -86,6 +86,8 @@ def process_dataset(dataset_name, model_path, comparison_value, device):
         combined_sample = pd.concat([positive_sample, negative_sample]).reset_index(drop=True)
     else:  # local csv
         df = pd.read_csv(dataset_name, sep='\t')
+        df = df.rename(columns={"sentence": "text"})
+        df = df.rename(columns={"label": "labels"})
         positive_sample = df[df['labels'] == 1]
         negative_sample = df[df['labels'] == 0]
         positive_sample['label'] = 'HATE'

@@ -99,9 +99,9 @@ datasets=(
           "fine_tune/datasets/testing/test_htpo.csv"
           )
 
-models=("roberta-base_lr=2e-05_epoch=4_batch_size=32_include_hatemoderate/checkpoint-15304-epoch-2",
-        "roberta-base_lr=2e-05_epoch=4_batch_size=32_no-include_hatemoderate/checkpoint-15162-epoch-2",
-       "best_hp_rebalance")
+models=("roberta-base_lr=2e-05_epoch=4_batch_size=32_include_hatemoderate",
+        "roberta-base_lr=2e-05_epoch=4_batch_size=32_no-include_hatemoderate",
+       "roberta-base_lr=2e-05_epoch=4_batch_size=32_rebalance")
 
 labels = "LABEL_1"
 

@@ -44,7 +44,7 @@ def process_file(input_path, hate_output_path, nonhate_output_path):
         try:
             response = client.comments().analyze(body=analyze_request).execute()
             toxic_score = response["attributeScores"]["TOXICITY"]["summaryScore"]["value"]
-            output_line = str(example_id) + "\t" + str(toxic_score) + "\n"
+            output_line = str(example_id) + "\t" + str(toxic_score) + "\t" + str(label) + "\n"
 
             if label == '1':
                 hate_fout.write(output_line)

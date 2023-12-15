@@ -1,1844 +1,2164 @@
-9174	hate	0.9393258094787598	disgust repulsion
-10944	nothate	0.024945318698883057	economic exclusion
-12047	nothate	0.00837254524230957	spread virus
-8815	hate	0.9289133548736572	disgust vomit
-6908	nothate	0.007560849189758301	better worse than
-4226	hate	0.9933632612228394	attacking hygiene
-2502	hate	0.9582957625389099	subhumanity
-10842	nothate	0.0022773146629333496	economic exclusion
-5792	hate	0.8495983481407166	attacking character trait
-1771	hate	0.9866244792938232	dehumanization animal
-3722	hate	0.9675946235656738	harmful stereotype
-10027	nothate	0.0017658472061157227	segregation
-7056	nothate	0.27282071113586426	better worse than
-7378	nothate	0.045074403285980225	contempt self admission intolerance
-374	hate	0.9940419793128967	violent speech
-3998	hate	0.6105211973190308	hatecrime victim
-7215	nothate	0.06885987520217896	contempt self admission intolerance
-4934	nothate	0.1030663251876831	attacking intellectual capability
-3983	hate	0.8581638336181641	hatecrime victim
-3733	hate	0.8432280421257019	harmful stereotype
-920	hate	0.9854775667190552	bacteria
-8402	hate	0.9986509680747986	curse sexual
-4298	hate	0.9967345595359802	attacking hygiene
-3947	nothate	0.13237005472183228	hatecrime victim
-3792	nothate	0.018432199954986572	harmful stereotype
-2787	nothate	0.00633317232131958	criminal
-8751	hate	0.9742304086685181	disgust vomit
-3684	hate	0.7954655885696411	harmful stereotype
-8486	hate	0.9989846348762512	curse sexual
-316	hate	0.9978899359703064	violent speech
-2518	hate	0.9554464817047119	subhumanity
-6379	hate	0.9786161780357361	less than adequate
-12115	nothate	0.01573002338409424	spread virus
-10307	hate	0.9789608716964722	explicit exclusion
-12036	hate	0.5810114145278931	spread virus
-11743	hate	0.8827732801437378	attack concept associated protected characteristics
-4864	hate	0.7404125928878784	attacking intellectual capability
-4200	hate	0.9922992587089539	attacking hygiene
-10967	nothate	0.0005698800086975098	economic exclusion
-6652	nothate	0.011495530605316162	deviating norm
-2480	hate	0.8770116567611694	subhumanity
-3920	nothate	0.0006105899810791016	hatecrime victim
-1848	hate	0.8592289686203003	feces
-3753	nothate	0.03555804491043091	harmful stereotype
-6780	nothate	0.016600847244262695	deviating norm
-8457	hate	0.9977340698242188	curse sexual
-6394	hate	0.9917057752609253	less than adequate
-7271	nothate	0.07229173183441162	contempt self admission intolerance
-5157	hate	0.9988051652908325	attacking education
-8433	hate	0.9988946318626404	curse sexual
-8444	hate	0.9989620447158813	curse sexual
-12062	hate	0.9864813089370728	spread virus
-4525	hate	0.9864062666893005	attacking appearance
-9714	hate	0.8357422947883606	curse profane
-10287	hate	0.9893203973770142	explicit exclusion
-10985	nothate	0.0036224722862243652	economic exclusion
-10290	nothate	0.006934404373168945	explicit exclusion
-5133	hate	0.7599236369132996	attacking education
-5705	hate	0.8812238574028015	attacking character trait
-10927	nothate	0.01989912986755371	economic exclusion
-3980	nothate	0.49011462926864624	hatecrime victim
-117	hate	0.9938673377037048	filth
-6315	hate	0.9985263347625732	less than adequate
-8415	hate	0.9973702430725098	curse sexual
-1870	hate	0.6156824231147766	feces
-6433	hate	0.9955026507377625	less than adequate
-6781	hate	0.97849041223526	deviating norm
-5171	hate	0.5214580297470093	attacking education
-8850	hate	0.9592230319976807	disgust vomit
-10915	nothate	0.0006930828094482422	economic exclusion
-7325	nothate	0.052588582038879395	contempt self admission intolerance
-11700	hate	0.9850674867630005	attack concept associated protected characteristics
-9047	nothate	0.003476858139038086	disgust repulsion
-4823	hate	0.9868171811103821	attacking intellectual capability
-4542	hate	0.9983844757080078	attacking appearance
-8472	hate	0.9618638753890991	curse sexual
-10228	hate	0.9887740612030029	explicit exclusion
-10913	nothate	0.0006303191184997559	economic exclusion
-8182	hate	0.7124427556991577	contempt despise dislike
-7336	nothate	0.047009944915771484	contempt self admission intolerance
-12039	nothate	0.10494685173034668	spread virus
-8447	hate	0.9989987015724182	curse sexual
-646	hate	0.9219416379928589	insects
-8546	hate	0.9989234805107117	curse sexual
-12112	hate	0.9891223311424255	spread virus
-7237	hate	0.9323418736457825	contempt self admission intolerance
-383	nothate	0.33538997173309326	violent speech
-685	hate	0.5738829970359802	insects
-7351	nothate	0.0009962916374206543	contempt self admission intolerance
-8179	hate	0.9425328969955444	contempt despise dislike
-390	nothate	0.47802186012268066	violent speech
-6101	hate	0.9985489249229431	attacking derogatory term
-8508	hate	0.9988476037979126	curse sexual
-9748	hate	0.9654206037521362	curse profane
-4068	hate	0.9689056873321533	hatecrime victim
-6479	nothate	0.014470517635345459	less than adequate
-9605	hate	0.9696440696716309	curse profane
-8497	hate	0.9989533424377441	curse sexual
-7522	hate	0.9775058031082153	contempt shouldnt exist
-3341	nothate	0.0007666349411010742	deny existence
-2497	nothate	0.01821345090866089	subhumanity
-7127	nothate	0.0023962855339050293	better worse than
-7207	nothate	0.05427438020706177	contempt self admission intolerance
-3044	hate	0.9757546782493591	certain objects
-2512	nothate	0.031866252422332764	subhumanity
-12158	nothate	0.015284895896911621	spread virus
-617	hate	0.945536196231842	insects
-7309	nothate	0.025226175785064697	contempt self admission intolerance
-10391	hate	0.8583301305770874	explicit exclusion
-2584	nothate	0.0065926313400268555	subhumanity
-6757	hate	0.8769310116767883	deviating norm
-9129	hate	0.9887740612030029	disgust repulsion
-3714	nothate	0.003057539463043213	harmful stereotype
-6172	hate	0.9447862505912781	attacking derogatory term
-7518	hate	0.9888206124305725	contempt shouldnt exist
-1546	hate	0.9808940887451172	dehumanization animal
-4071	nothate	0.013485610485076904	hatecrime victim
-9654	hate	0.722780168056488	curse profane
-2434	hate	0.9195355176925659	subhumanity
-343	hate	0.6373115181922913	violent speech
-3390	nothate	0.017846405506134033	deny existence
-6613	hate	0.984984278678894	deviating norm
-1774	hate	0.9836904406547546	dehumanization animal
-2866	hate	0.7083473801612854	criminal
-5000	hate	0.9316343665122986	attacking intellectual capability
-10868	hate	0.9811660647392273	economic exclusion
-7055	nothate	0.0007999539375305176	better worse than
-4966	hate	0.9605752825737	attacking intellectual capability
-9684	hate	0.9937961101531982	curse profane
-10574	nothate	0.00015473365783691406	political exclusion
-4133	nothate	0.007234334945678711	hatecrime victim
-11503	nothate	0.007573843002319336	change sexual
-3988	hate	0.9843000769615173	hatecrime victim
-9177	nothate	0.22838759422302246	disgust repulsion
-2283	hate	0.9934326410293579	sexual predator
-10040	nothate	0.035573601722717285	segregation
-6637	hate	0.9303557872772217	deviating norm
-12147	hate	0.8597491979598999	spread virus
-10341	hate	0.9465217590332031	explicit exclusion
-9784	hate	0.9532015323638916	curse profane
-12072	hate	0.9636019468307495	spread virus
-2479	hate	0.9542144536972046	subhumanity
-7235	nothate	0.08459258079528809	contempt self admission intolerance
-4154	nothate	0.0008401870727539062	hatecrime victim
-471	hate	0.9654971361160278	violent speech
-1842	hate	0.700029194355011	feces
-1739	nothate	0.04486161470413208	dehumanization animal
-442	hate	0.9912591576576233	violent speech
-3334	hate	0.9942440390586853	deny existence
-6689	nothate	0.010879874229431152	deviating norm
-7275	nothate	0.18883615732192993	contempt self admission intolerance
-5768	hate	0.665759265422821	attacking character trait
-10353	hate	0.7594348788261414	explicit exclusion
-9151	hate	0.9847571849822998	disgust repulsion
-1730	nothate	0.06074315309524536	dehumanization animal
-2439	nothate	0.004339277744293213	subhumanity
-3793	nothate	0.0048136115074157715	harmful stereotype
-9191	hate	0.8351346850395203	disgust repulsion
-775	nothate	0.015848994255065918	insects
-7121	nothate	0.00021654367446899414	better worse than
-9325	hate	0.984063982963562	curse genitalia
-10964	nothate	0.00013625621795654297	economic exclusion
-10381	hate	0.6391656398773193	explicit exclusion
-11442	nothate	0.0005429387092590332	change sexual
-371	nothate	0.00684046745300293	violent speech
-1500	hate	0.969417154788971	dehumanization animal
-2560	hate	0.9766504764556885	subhumanity
-3763	nothate	0.00036144256591796875	harmful stereotype
-2743	hate	0.972663402557373	criminal
-5752	hate	0.9581263661384583	attacking character trait
-3700	nothate	0.0009039640426635742	harmful stereotype
-6094	hate	0.972419261932373	attacking derogatory term
-6633	hate	0.9954989552497864	deviating norm
-8491	hate	0.9988521337509155	curse sexual
-4117	nothate	0.06816911697387695	hatecrime victim
-4231	hate	0.888404905796051	attacking hygiene
-7247	nothate	0.005025625228881836	contempt self admission intolerance
-7519	hate	0.9918720126152039	contempt shouldnt exist
-6075	hate	0.8899913430213928	attacking derogatory term
-10924	nothate	0.00018006563186645508	economic exclusion
-2771	nothate	0.0005350708961486816	criminal
-9672	hate	0.9908939599990845	curse profane
-2499	nothate	0.2582043409347534	subhumanity
-4086	hate	0.9933767914772034	hatecrime victim
-9400	hate	0.8920160531997681	curse genitalia
-4163	hate	0.6368440389633179	hatecrime victim
-3720	hate	0.9692795872688293	harmful stereotype
-11117	nothate	0.006704986095428467	social exclusion
-12088	nothate	0.3436827063560486	spread virus
-5761	nothate	0.38586097955703735	attacking character trait
-7281	nothate	0.0011442899703979492	contempt self admission intolerance
-10215	hate	0.9677591323852539	explicit exclusion
-101	hate	0.8640809059143066	filth
-1547	nothate	0.005994975566864014	dehumanization animal
-9780	hate	0.989273726940155	curse profane
-9451	hate	0.9643974900245667	curse genitalia
-5715	hate	0.932703971862793	attacking character trait
-12070	nothate	0.010354757308959961	spread virus
-409	nothate	0.002204298973083496	violent speech
-8452	hate	0.9978797435760498	curse sexual
-4372	hate	0.9500200748443604	attacking hygiene
-10564	nothate	0.057547688484191895	political exclusion
-3928	nothate	0.018235623836517334	hatecrime victim
-4819	hate	0.9829204678535461	attacking intellectual capability
-710	hate	0.9710978269577026	insects
-2267	hate	0.968565821647644	sexual predator
-4550	hate	0.9964281916618347	attacking appearance
-3744	hate	0.8375353217124939	harmful stereotype
-2885	nothate	0.023501098155975342	criminal
-6638	nothate	0.018977701663970947	deviating norm
-1850	hate	0.5933942198753357	feces
-11455	hate	0.6414919495582581	change sexual
-9665	hate	0.9919384121894836	curse profane
-2266	nothate	0.3624892830848694	sexual predator
-9022	hate	0.9281095862388611	disgust repulsion
-648	hate	0.9899277091026306	insects
-3981	hate	0.9596951603889465	hatecrime victim
-4079	hate	0.9915995597839355	hatecrime victim
-695	nothate	0.17119687795639038	insects
-1521	nothate	0.012175917625427246	dehumanization animal
-2205	hate	0.9790762662887573	sexual predator
-3796	nothate	0.035453617572784424	harmful stereotype
-11472	nothate	0.14818650484085083	change sexual
-452	hate	0.6129974722862244	violent speech
-4032	hate	0.951906144618988	hatecrime victim
-9923	hate	0.7453401684761047	segregation
-1814	nothate	0.41121649742126465	feces
-2433	hate	0.9091104865074158	subhumanity
-6084	hate	0.9356210231781006	attacking derogatory term
-4336	nothate	0.0913882851600647	attacking hygiene
-11458	nothate	0.0003057718276977539	change sexual
-786	nothate	0.43047046661376953	insects
-7831	hate	0.557965874671936	contempt despise hate
-3381	nothate	0.0012865066528320312	deny existence
-4327	hate	0.9837291836738586	attacking hygiene
-8435	hate	0.9989392161369324	curse sexual
-5112	hate	0.9875966906547546	attacking education
-7226	nothate	0.23932695388793945	contempt self admission intolerance
-1759	hate	0.9850308895111084	dehumanization animal
-4519	hate	0.5267581939697266	attacking appearance
-6146	nothate	0.014768481254577637	attacking derogatory term
-10847	nothate	0.003664374351501465	economic exclusion
-10833	nothate	0.04721951484680176	economic exclusion
-9335	hate	0.9898813366889954	curse genitalia
-2777	nothate	0.22851115465164185	criminal
-7075	nothate	0.11448460817337036	better worse than
-650	hate	0.8278049826622009	insects
-9477	hate	0.9871240854263306	curse genitalia
-2712	hate	0.5787322521209717	criminal
-9616	hate	0.9717398881912231	curse profane
-8867	hate	0.9860234260559082	disgust vomit
-448	hate	0.9691977500915527	violent speech
-2287	hate	0.9472500681877136	sexual predator
-7200	hate	0.7711603045463562	contempt self admission intolerance
-2489	hate	0.9836695194244385	subhumanity
-2529	hate	0.8616279363632202	subhumanity
-3356	nothate	0.00018364191055297852	deny existence
-4595	hate	0.9958276152610779	attacking appearance
-9149	hate	0.984984278678894	disgust repulsion
-2271	hate	0.994236409664154	sexual predator
-8119	hate	0.7071847319602966	contempt despise dislike
-10837	hate	0.6559421420097351	economic exclusion
-4817	hate	0.8772090673446655	attacking intellectual capability
-9693	nothate	0.05979424715042114	curse profane
-3979	hate	0.6570029258728027	hatecrime victim
-431	hate	0.9832848906517029	violent speech
-7080	nothate	0.0009638071060180664	better worse than
-10846	nothate	0.04687124490737915	economic exclusion
-1520	hate	0.9955226182937622	dehumanization animal
-6954	nothate	0.07283240556716919	better worse than
-3782	nothate	0.004558682441711426	harmful stereotype
-7989	hate	0.9945882558822632	contempt despise hate
-11457	nothate	0.0002970099449157715	change sexual
-9638	hate	0.9617043137550354	curse profane
-4131	hate	0.931121826171875	hatecrime victim
-7093	nothate	0.000899195671081543	better worse than
-9710	hate	0.9020853638648987	curse profane
-12023	hate	0.9575531482696533	spread virus
-4244	hate	0.8662636876106262	attacking hygiene
-1750	hate	0.9004402160644531	dehumanization animal
-8480	hate	0.9970536231994629	curse sexual
-2265	hate	0.8671004176139832	sexual predator
-3726	nothate	0.001279592514038086	harmful stereotype
-729	nothate	0.029685795307159424	insects
-6325	hate	0.948723316192627	less than adequate
-3701	nothate	0.24144768714904785	harmful stereotype
-10872	nothate	0.0012267231941223145	economic exclusion
-7350	nothate	0.0032402873039245605	contempt self admission intolerance
-12030	hate	0.9771732091903687	spread virus
-4018	hate	0.8889963030815125	hatecrime victim
-4060	nothate	0.01961880922317505	hatecrime victim
-9901	hate	0.9662824273109436	segregation
-10342	nothate	0.030260980129241943	explicit exclusion
-7100	nothate	0.0005691647529602051	better worse than
-9064	nothate	0.45243382453918457	disgust repulsion
-10344	hate	0.9856939911842346	explicit exclusion
-8518	hate	0.9985658526420593	curse sexual
-3729	hate	0.9521566033363342	harmful stereotype
-5754	hate	0.9747188687324524	attacking character trait
-9402	hate	0.9781795740127563	curse genitalia
-1898	hate	0.9546339511871338	feces
-2301	hate	0.9881430268287659	sexual predator
-7091	nothate	0.002805352210998535	better worse than
-6736	hate	0.9443546533584595	deviating norm
-10880	nothate	0.0005683302879333496	economic exclusion
-7335	nothate	0.05278587341308594	contempt self admission intolerance
-1769	hate	0.982620894908905	dehumanization animal
-1897	hate	0.9849018454551697	feces
-7103	nothate	0.0009794235229492188	better worse than
-4305	hate	0.9944557547569275	attacking hygiene
-12099	hate	0.9845483303070068	spread virus
-8489	hate	0.9984820485115051	curse sexual
-2723	nothate	0.00423276424407959	criminal
-4967	nothate	0.17458105087280273	attacking intellectual capability
-447	hate	0.9925495386123657	violent speech
-10972	nothate	0.0010401010513305664	economic exclusion
-761	hate	0.9713303446769714	insects
-6336	hate	0.8313760757446289	less than adequate
-4230	hate	0.978224515914917	attacking hygiene
-8439	hate	0.9989368319511414	curse sexual
-10374	hate	0.8234684467315674	explicit exclusion
-5775	hate	0.9020008444786072	attacking character trait
-6411	nothate	0.29876255989074707	less than adequate
-10922	nothate	0.0004982948303222656	economic exclusion
-1822	hate	0.9985344409942627	feces
-4181	nothate	0.3277812600135803	hatecrime victim
-4885	hate	0.9902622103691101	attacking intellectual capability
-9481	hate	0.9889005422592163	curse genitalia
-465	hate	0.8376772403717041	violent speech
-8538	hate	0.9966416358947754	curse sexual
-10581	nothate	0.0001493692398071289	political exclusion
-3688	hate	0.7973620891571045	harmful stereotype
-12104	hate	0.9890282154083252	spread virus
-5766	nothate	0.33209890127182007	attacking character trait
-4222	hate	0.9888437986373901	attacking hygiene
-115	hate	0.9893441200256348	filth
-9657	hate	0.9664673209190369	curse profane
-7249	nothate	0.002671957015991211	contempt self admission intolerance
-4975	hate	0.9109031558036804	attacking intellectual capability
-7812	hate	0.9901552200317383	contempt despise hate
-7294	nothate	0.0072266459465026855	contempt self admission intolerance
-9314	hate	0.9917628765106201	curse genitalia
-9682	hate	0.9944590330123901	curse profane
-10925	nothate	0.0021651387214660645	economic exclusion
-6477	nothate	0.010357022285461426	less than adequate
-4072	hate	0.9277580380439758	hatecrime victim
-4635	nothate	0.3581976890563965	attacking appearance
-6134	hate	0.9676423072814941	attacking derogatory term
-5483	hate	0.9028478860855103	attacking mental health
-1909	hate	0.9772728085517883	feces
-1829	hate	0.9904186129570007	feces
-4932	hate	0.8692508339881897	attacking intellectual capability
-12140	nothate	0.04541963338851929	spread virus
-4000	hate	0.9902631044387817	hatecrime victim
-8533	hate	0.9909075498580933	curse sexual
-6678	hate	0.920382559299469	deviating norm
-4851	hate	0.9853004813194275	attacking intellectual capability
-116	hate	0.9477776288986206	filth
-9786	hate	0.995449960231781	curse profane
-10088	nothate	0.15932923555374146	segregation
-8417	nothate	0.3144739270210266	curse sexual
-12071	hate	0.6708983182907104	spread virus
-6784	hate	0.8488991260528564	deviating norm
-4029	hate	0.865639865398407	hatecrime victim
-7077	nothate	0.0005243420600891113	better worse than
-8451	hate	0.9847186207771301	curse sexual
-10923	nothate	0.00042313337326049805	economic exclusion
-10563	nothate	0.00013816356658935547	political exclusion
-4654	hate	0.9682844877243042	attacking appearance
-5105	nothate	0.0016533136367797852	attacking education
-73	hate	0.9262533783912659	filth
-1856	hate	0.6267238855361938	feces
-10570	nothate	0.008156359195709229	political exclusion
-2442	nothate	0.0025053024291992188	subhumanity
-416	hate	0.9966243505477905	violent speech
-11498	nothate	0.01541292667388916	change sexual
-6619	hate	0.9966757297515869	deviating norm
-10054	hate	0.8251807689666748	segregation
-11477	nothate	0.014431953430175781	change sexual
-10056	hate	0.9855152368545532	segregation
-5786	hate	0.512444794178009	attacking character trait
-10952	nothate	0.0003967881202697754	economic exclusion
-4034	hate	0.9615846872329712	hatecrime victim
-7362	nothate	0.004393517971038818	contempt self admission intolerance
-9019	hate	0.794025719165802	disgust repulsion
-4887	hate	0.9935012459754944	attacking intellectual capability
-4090	hate	0.9804926514625549	hatecrime victim
-9032	hate	0.7554327845573425	disgust repulsion
-12142	hate	0.9721063375473022	spread virus
-11114	hate	0.8331670761108398	social exclusion
-7108	nothate	0.00023704767227172852	better worse than
-6331	hate	0.9844043850898743	less than adequate
-459	nothate	0.025666415691375732	violent speech
-5413	hate	0.9500851631164551	attacking mental health
-3730	hate	0.5387624502182007	harmful stereotype
-6409	nothate	0.39693009853363037	less than adequate
-10851	hate	0.513877809047699	economic exclusion
-10910	nothate	0.00048148632049560547	economic exclusion
-9757	hate	0.9586215615272522	curse profane
-8498	hate	0.9970507621765137	curse sexual
-2131	hate	0.960831344127655	sexual predator
-2711	nothate	0.024069488048553467	criminal
-665	hate	0.647899329662323	insects
-3340	hate	0.6129187941551208	deny existence
-3351	nothate	0.0022445321083068848	deny existence
-1813	hate	0.9888871312141418	feces
-3758	hate	0.5187237858772278	harmful stereotype
-319	nothate	0.20165413618087769	violent speech
-5465	hate	0.9403759837150574	attacking mental health
-5769	hate	0.9989591836929321	attacking character trait
-7361	nothate	0.015923917293548584	contempt self admission intolerance
-4004	hate	0.9834110140800476	hatecrime victim
-669	nothate	0.09718137979507446	insects
-12079	hate	0.984725296497345	spread virus
-10893	nothate	0.00021332502365112305	economic exclusion
-6375	hate	0.9952914714813232	less than adequate
-10289	hate	0.8694058060646057	explicit exclusion
-11441	nothate	0.30636709928512573	change sexual
-8710	hate	0.9783912301063538	disgust vomit
-130	hate	0.8175835013389587	filth
-6344	nothate	0.3582671880722046	less than adequate
-6099	hate	0.9936109185218811	attacking derogatory term
-2260	hate	0.9855037331581116	sexual predator
-3787	nothate	0.049916088581085205	harmful stereotype
-7826	nothate	0.028163373470306396	contempt despise hate
-6782	hate	0.9659477472305298	deviating norm
-10015	nothate	0.0739513635635376	segregation
-7320	nothate	0.0004754066467285156	contempt self admission intolerance
-4818	hate	0.9640830159187317	attacking intellectual capability
-4637	hate	0.9913622736930847	attacking appearance
-2578	hate	0.8158115148544312	subhumanity
-5176	nothate	0.21625357866287231	attacking education
-4824	hate	0.7761135697364807	attacking intellectual capability
-398	hate	0.990123450756073	violent speech
-5732	hate	0.6985891461372375	attacking character trait
-129	hate	0.8926162123680115	filth
-4146	hate	0.7996362447738647	hatecrime victim
-10853	nothate	0.0011001825332641602	economic exclusion
-2288	hate	0.9282165169715881	sexual predator
-9128	hate	0.9652610421180725	disgust repulsion
-6959	nothate	0.005212306976318359	better worse than
-1872	hate	0.5512451529502869	feces
-4097	hate	0.691344141960144	hatecrime victim
-7280	nothate	0.21657848358154297	contempt self admission intolerance
-12075	hate	0.9860913157463074	spread virus
-9676	hate	0.9923670887947083	curse profane
-7527	hate	0.7540931105613708	contempt shouldnt exist
-12027	hate	0.9252158403396606	spread virus
-2552	hate	0.6636902093887329	subhumanity
-1549	hate	0.8729909062385559	dehumanization animal
-8461	hate	0.9990109205245972	curse sexual
-3361	nothate	0.0032747387886047363	deny existence
-2292	hate	0.9887797832489014	sexual predator
-12082	hate	0.8922734260559082	spread virus
-3346	nothate	0.046072423458099365	deny existence
-6958	nothate	0.21711915731430054	better worse than
-9329	hate	0.9801668524742126	curse genitalia
-7122	nothate	0.0006781816482543945	better worse than
-3788	hate	0.8936148881912231	harmful stereotype
-2412	nothate	0.4874812364578247	subhumanity
-11434	nothate	0.025485873222351074	change sexual
-7546	hate	0.9989411234855652	contempt shouldnt exist
-7267	nothate	0.4616948962211609	contempt self admission intolerance
-11460	nothate	0.05653136968612671	change sexual
-441	hate	0.9795238375663757	violent speech
-10834	nothate	0.0477900505065918	economic exclusion
-10046	hate	0.8593502640724182	segregation
-1740	nothate	0.4222857356071472	dehumanization animal
-3367	nothate	0.0003654956817626953	deny existence
-9906	hate	0.8422207832336426	segregation
-10013	nothate	0.00022047758102416992	segregation
-8438	hate	0.9990412592887878	curse sexual
-2437	nothate	0.010711908340454102	subhumanity
-7256	nothate	0.005430281162261963	contempt self admission intolerance
-7340	nothate	0.0009723901748657227	contempt self admission intolerance
-2200	nothate	0.019548356533050537	sexual predator
-10276	nothate	0.04369509220123291	explicit exclusion
-2786	nothate	0.1803891658782959	criminal
-142	hate	0.982043981552124	filth
-7811	hate	0.852250337600708	contempt despise hate
-6649	nothate	0.3243594169616699	deviating norm
-12133	nothate	0.01660245656967163	spread virus
-10911	nothate	0.031840741634368896	economic exclusion
-9117	hate	0.9815576076507568	disgust repulsion
-4007	hate	0.9934379458427429	hatecrime victim
-8465	hate	0.997033953666687	curse sexual
-1819	hate	0.9955776929855347	feces
-9919	hate	0.9648556113243103	segregation
-4174	nothate	0.13238602876663208	hatecrime victim
-9728	hate	0.9801668524742126	curse profane
-4299	hate	0.9933660626411438	attacking hygiene
-1830	hate	0.99760901927948	feces
-326	hate	0.9981005787849426	violent speech
-9463	hate	0.6343908309936523	curse genitalia
-10291	hate	0.9944325089454651	explicit exclusion
-3902	nothate	0.07343071699142456	hatecrime victim
-7109	nothate	0.0016976594924926758	better worse than
-6152	nothate	0.1582961082458496	attacking derogatory term
-9350	hate	0.868199348449707	curse genitalia
-9792	hate	0.9975442290306091	curse profane
-4560	hate	0.5647630095481873	attacking appearance
-4657	nothate	0.0074381232261657715	attacking appearance
-11893	hate	0.9828246831893921	attack concept associated protected characteristics
-1843	hate	0.7192339897155762	feces
-4130	nothate	0.012075304985046387	hatecrime victim
-6061	hate	0.9984182119369507	attacking derogatory term
-1821	hate	0.9987279772758484	feces
-9796	hate	0.9962968230247498	curse profane
-3370	nothate	0.007145106792449951	deny existence
-681	nothate	0.00197601318359375	insects
-12073	hate	0.9847257733345032	spread virus
-472	hate	0.9777823686599731	violent speech
-433	hate	0.9980660080909729	violent speech
-4106	hate	0.9169652462005615	hatecrime victim
-2277	hate	0.9531071782112122	sexual predator
-6102	hate	0.9852036237716675	attacking derogatory term
-11461	nothate	0.0074634552001953125	change sexual
-2428	hate	0.827747642993927	subhumanity
-7115	nothate	0.00034487247467041016	better worse than
-4959	hate	0.9211314916610718	attacking intellectual capability
-1833	hate	0.9986114501953125	feces
-3710	nothate	0.28477567434310913	harmful stereotype
-1834	hate	0.9988887906074524	feces
-9715	hate	0.9497942924499512	curse profane
-3368	nothate	0.0017014145851135254	deny existence
-7092	nothate	0.0031741857528686523	better worse than
-4913	hate	0.7519183158874512	attacking intellectual capability
-10396	nothate	0.4432576894760132	explicit exclusion
-6932	hate	0.9926309585571289	better worse than
-6674	hate	0.8695145845413208	deviating norm
-10393	nothate	0.0007027387619018555	explicit exclusion
-4963	nothate	0.44211918115615845	attacking intellectual capability
-3345	nothate	0.001326441764831543	deny existence
-4082	hate	0.9935452938079834	hatecrime victim
-10855	nothate	0.10972511768341064	economic exclusion
-9419	hate	0.9568056464195251	curse genitalia
-9004	nothate	0.37252771854400635	disgust repulsion
-10856	nothate	0.0010773539543151855	economic exclusion
-4968	nothate	0.34303826093673706	attacking intellectual capability
-468	hate	0.991786539554596	violent speech
-4066	hate	0.9408382773399353	hatecrime victim
-7104	nothate	0.0004023909568786621	better worse than
-4114	nothate	0.24188661575317383	hatecrime victim
-6622	nothate	0.12125682830810547	deviating norm
-7312	nothate	0.035292208194732666	contempt self admission intolerance
-9745	hate	0.9931229948997498	curse profane
-4672	hate	0.9384192228317261	attacking appearance
-10335	hate	0.9467772245407104	explicit exclusion
-1847	hate	0.9989503026008606	feces
-6398	hate	0.8135276436805725	less than adequate
-11511	nothate	0.09866595268249512	change sexual
-6023	hate	0.9649572372436523	attacking derogatory term
-4096	hate	0.9871483445167542	hatecrime victim
-11508	nothate	0.0001437664031982422	change sexual
-4809	hate	0.9783262014389038	attacking intellectual capability
-10832	nothate	0.01863384246826172	economic exclusion
-9791	hate	0.999011754989624	curse profane
-6001	hate	0.9739331603050232	attacking derogatory term
-1913	hate	0.8942182064056396	feces
-7238	nothate	0.17232859134674072	contempt self admission intolerance
-9020	nothate	0.04308706521987915	disgust repulsion
-5146	hate	0.9987348914146423	attacking education
-10839	nothate	0.0008400678634643555	economic exclusion
-5449	hate	0.9870306849479675	attacking mental health
-1838	hate	0.9787415862083435	feces
-11757	nothate	0.026037991046905518	attack concept associated protected characteristics
-3359	nothate	0.002518594264984131	deny existence
-3989	hate	0.9948541522026062	hatecrime victim
-9926	nothate	0.0024608373641967773	segregation
-6762	nothate	0.005210280418395996	deviating norm
-8540	hate	0.9931297898292542	curse sexual
-6635	hate	0.9755246639251709	deviating norm
-10387	nothate	0.21849441528320312	explicit exclusion
-10579	nothate	0.000629723072052002	political exclusion
-79	hate	0.9430265426635742	filth
-6457	hate	0.945445716381073	less than adequate
-3357	nothate	0.004982054233551025	deny existence
-1806	nothate	0.33239293098449707	feces
-1729	hate	0.9813380241394043	dehumanization animal
-2223	hate	0.8953569531440735	sexual predator
-7364	nothate	0.008504152297973633	contempt self admission intolerance
-4877	hate	0.997056245803833	attacking intellectual capability
-2492	nothate	0.3769669532775879	subhumanity
-1529	nothate	0.222270667552948	dehumanization animal
-10241	hate	0.9982348680496216	explicit exclusion
-9450	hate	0.9553966522216797	curse genitalia
-1213	hate	0.9855857491493225	disease
-4965	hate	0.9976634979248047	attacking intellectual capability
-5409	hate	0.6594003438949585	attacking mental health
-10386	nothate	0.004360198974609375	explicit exclusion
-3669	hate	0.5761282444000244	harmful stereotype
-2422	hate	0.6497534513473511	subhumanity
-1719	hate	0.543188214302063	dehumanization animal
-4178	hate	0.9231275916099548	hatecrime victim
-1755	hate	0.9758219122886658	dehumanization animal
-2588	nothate	0.23454028367996216	subhumanity
-8207	hate	0.9699923396110535	contempt despise dislike
-1876	nothate	0.20414495468139648	feces
-5153	nothate	0.0816606879234314	attacking education
-2495	hate	0.9922924041748047	subhumanity
-12031	hate	0.9522202610969543	spread virus
-4141	nothate	0.20292621850967407	hatecrime victim
-9338	hate	0.9823264479637146	curse genitalia
-1808	hate	0.5210903882980347	feces
-8778	nothate	0.332253098487854	disgust vomit
-5174	hate	0.8610996603965759	attacking education
-2130	hate	0.9887256026268005	sexual predator
-600	hate	0.9903157353401184	insects
-12018	hate	0.9520521759986877	spread virus
-5158	hate	0.9816998839378357	attacking education
-7354	nothate	0.20330888032913208	contempt self admission intolerance
-3999	hate	0.5038492679595947	hatecrime victim
-632	nothate	0.07660192251205444	insects
-3716	hate	0.7946934700012207	harmful stereotype
-638	hate	0.9657852649688721	insects
-673	hate	0.8020745515823364	insects
-5718	hate	0.9105686545372009	attacking character trait
-1544	hate	0.9632713198661804	dehumanization animal
-3676	hate	0.9985608458518982	harmful stereotype
-10048	hate	0.9384370446205139	segregation
-8436	hate	0.9990010857582092	curse sexual
-8512	hate	0.9987084865570068	curse sexual
-5100	hate	0.9670011401176453	attacking education
-4311	hate	0.8772090673446655	attacking hygiene
-4051	hate	0.8725910782814026	hatecrime victim
-7266	nothate	0.018628239631652832	contempt self admission intolerance
-614	nothate	0.37859034538269043	insects
-3757	nothate	0.22832345962524414	harmful stereotype
-1836	hate	0.9989792108535767	feces
-4027	hate	0.9828259348869324	hatecrime victim
-8442	hate	0.9990087747573853	curse sexual
-7253	nothate	0.00044590234756469727	contempt self admission intolerance
-7287	nothate	0.054382920265197754	contempt self admission intolerance
-4134	nothate	0.13361519575119019	hatecrime victim
-83	hate	0.936869204044342	filth
-6108	hate	0.9808434844017029	attacking derogatory term
-6763	nothate	0.30254310369491577	deviating norm
-10885	nothate	0.0002829432487487793	economic exclusion
-6950	nothate	0.37859034538269043	better worse than
-11485	nothate	0.0026386380195617676	change sexual
-6039	nothate	0.19516140222549438	attacking derogatory term
-3712	nothate	0.12512314319610596	harmful stereotype
-6720	nothate	0.13327980041503906	deviating norm
-12033	hate	0.9683974981307983	spread virus
-7081	nothate	0.0007593631744384766	better worse than
-6412	hate	0.9205055236816406	less than adequate
-9725	hate	0.9828078746795654	curse profane
-7262	nothate	0.16238725185394287	contempt self admission intolerance
-9658	hate	0.5566110610961914	curse profane
-9005	nothate	0.3614320755004883	disgust repulsion
-9701	hate	0.9954753518104553	curse profane
-9190	nothate	0.41090965270996094	disgust repulsion
-3373	nothate	0.0002085566520690918	deny existence
-7083	nothate	0.004431426525115967	better worse than
-9795	hate	0.9975908994674683	curse profane
-9931	nothate	0.3859913945198059	segregation
-9448	hate	0.9845577478408813	curse genitalia
-6090	hate	0.9935658574104309	attacking derogatory term
-9773	hate	0.975122332572937	curse profane
-381	hate	0.931759238243103	violent speech
-7076	nothate	0.0004042983055114746	better worse than
-1747	hate	0.977227509021759	dehumanization animal
-7373	nothate	0.0634223222732544	contempt self admission intolerance
-6772	hate	0.8592090010643005	deviating norm
-422	hate	0.9017370343208313	violent speech
-12025	nothate	0.03075176477432251	spread virus
-3943	hate	0.9917657971382141	hatecrime victim
-9013	hate	0.896864116191864	disgust repulsion
-9649	hate	0.9955184459686279	curse profane
-6458	nothate	0.025786876678466797	less than adequate
-7231	nothate	0.03555673360824585	contempt self admission intolerance
-11720	nothate	0.02935713529586792	attack concept associated protected characteristics
-10976	nothate	0.002737879753112793	economic exclusion
-6658	nothate	0.0008352994918823242	deviating norm
-370	hate	0.9959326386451721	violent speech
-2744	nothate	0.008880555629730225	criminal
-8499	hate	0.9985185265541077	curse sexual
-7374	nothate	0.04273337125778198	contempt self admission intolerance
-2739	nothate	0.02221500873565674	criminal
-10949	nothate	0.00020068883895874023	economic exclusion
-12128	hate	0.9861574172973633	spread virus
-9010	hate	0.8503464460372925	disgust repulsion
-12116	nothate	0.0003808736801147461	spread virus
-10239	nothate	0.354214608669281	explicit exclusion
-1858	nothate	0.08250701427459717	feces
-2233	hate	0.9778444766998291	sexual predator
-4125	hate	0.8972103595733643	hatecrime victim
-6103	hate	0.9932568073272705	attacking derogatory term
-7906	nothate	0.23142296075820923	contempt despise hate
-4193	nothate	0.09766334295272827	hatecrime victim
-4069	hate	0.9122939109802246	hatecrime victim
-11486	nothate	0.009892821311950684	change sexual
-8459	hate	0.9983702301979065	curse sexual
-9026	nothate	0.00324171781539917	disgust repulsion
-629	nothate	0.0896766185760498	insects
-10288	nothate	0.0466386079788208	explicit exclusion
-10986	nothate	0.000858306884765625	economic exclusion
-4192	hate	0.967093288898468	hatecrime victim
-8001	hate	0.8248392939567566	contempt despise hate
-6668	hate	0.5236130356788635	deviating norm
-11496	nothate	0.00023120641708374023	change sexual
-10862	hate	0.9866163730621338	economic exclusion
-4820	hate	0.9773827195167542	attacking intellectual capability
-4588	nothate	0.003671705722808838	attacking appearance
-9343	hate	0.994403600692749	curse genitalia
-6687	nothate	0.22720837593078613	deviating norm
-8118	nothate	0.41090965270996094	contempt despise dislike
-5759	nothate	0.38586097955703735	attacking character trait
-4073	hate	0.9563632011413574	hatecrime victim
-126	nothate	0.21557968854904175	filth
-6391	hate	0.9562512636184692	less than adequate
-5147	hate	0.7093830108642578	attacking education
-5429	hate	0.9449954032897949	attacking mental health
-11718	nothate	0.002070784568786621	attack concept associated protected characteristics
-8467	hate	0.994629979133606	curse sexual
-415	nothate	0.014603912830352783	violent speech
-5763	hate	0.8867749571800232	attacking character trait
-7342	nothate	0.030038774013519287	contempt self admission intolerance
-6416	hate	0.9658780097961426	less than adequate
-6332	hate	0.5236130356788635	less than adequate
-3791	nothate	0.00881814956665039	harmful stereotype
-9936	nothate	0.0017658472061157227	segregation
-8446	hate	0.9989954829216003	curse sexual
-1238	hate	0.6971076726913452	disease
-2775	nothate	0.34767991304397583	criminal
-7251	nothate	0.13646650314331055	contempt self admission intolerance
-4033	hate	0.9736287593841553	hatecrime victim
-10946	nothate	0.0011394023895263672	economic exclusion
-446	hate	0.989983320236206	violent speech
-7242	nothate	0.0011770129203796387	contempt self admission intolerance
-3391	nothate	0.016600191593170166	deny existence
-10567	nothate	0.0010631680488586426	political exclusion
-4855	hate	0.9705628752708435	attacking intellectual capability
-10572	nothate	0.0004379153251647949	political exclusion
-4523	hate	0.7006608247756958	attacking appearance
-9148	hate	0.997277557849884	disgust repulsion
-7833	hate	0.9986625909805298	contempt despise hate
-6751	nothate	0.0012572407722473145	deviating norm
-8503	hate	0.9986274242401123	curse sexual
-4095	hate	0.8551509976387024	hatecrime victim
-5450	hate	0.9848662614822388	attacking mental health
-2766	nothate	0.0010151267051696777	criminal
-436	hate	0.9909691214561462	violent speech
-10896	nothate	0.000629723072052002	economic exclusion
-11456	nothate	0.14818650484085083	change sexual
-4173	nothate	0.1363855004310608	hatecrime victim
-1880	nothate	0.013721764087677002	feces
-71	hate	0.9841486811637878	filth
-4826	nothate	0.4664914608001709	attacking intellectual capability
-7054	nothate	0.0029278993606567383	better worse than
-9405	hate	0.9822679758071899	curse genitalia
-2445	nothate	0.09368115663528442	subhumanity
-645	nothate	0.48075348138809204	insects
-682	nothate	0.000288546085357666	insects
-2516	nothate	0.00012540817260742188	subhumanity
-2781	nothate	0.04219919443130493	criminal
-7276	nothate	0.00512772798538208	contempt self admission intolerance
-6015	hate	0.9961573481559753	attacking derogatory term
-9696	hate	0.9915362596511841	curse profane
-6650	nothate	0.002962827682495117	deviating norm
-7512	hate	0.890396237373352	contempt shouldnt exist
-9612	hate	0.9577489495277405	curse profane
-7520	hate	0.6249828934669495	contempt shouldnt exist
-1888	hate	0.9673765897750854	feces
-2405	hate	0.9954932928085327	subhumanity
-8124	hate	0.6878356337547302	contempt despise dislike
-6467	nothate	0.009807348251342773	less than adequate
-4340	hate	0.9724695682525635	attacking hygiene
-12090	hate	0.9820637702941895	spread virus
-4041	hate	0.9504535794258118	hatecrime victim
-6721	nothate	0.08752214908599854	deviating norm
-8494	hate	0.9989562034606934	curse sexual
-7277	nothate	0.0948641300201416	contempt self admission intolerance
-10993	nothate	0.0057035088539123535	economic exclusion
-306	hate	0.5890552997589111	violent speech
-11514	nothate	0.006616652011871338	change sexual
-10343	nothate	0.00295180082321167	explicit exclusion
-6984	hate	0.9900117516517639	better worse than
-5168	hate	0.9925794005393982	attacking education
-10874	nothate	0.0258905291557312	economic exclusion
-120	hate	0.9947444200515747	filth
-10895	nothate	0.0010854005813598633	economic exclusion
-1778	nothate	0.09098291397094727	dehumanization animal
-2531	hate	0.8253334164619446	subhumanity
-6308	hate	0.9776154160499573	less than adequate
-3767	nothate	0.0013601183891296387	harmful stereotype
-80	hate	0.8640809059143066	filth
-4162	nothate	0.10911530256271362	hatecrime victim
-4895	hate	0.8059026598930359	attacking intellectual capability
-1825	hate	0.997877836227417	feces
-10261	hate	0.9791244864463806	explicit exclusion
-1873	nothate	0.4059739112854004	feces
-613	nothate	0.19123125076293945	insects
-10323	nothate	0.05095475912094116	explicit exclusion
-9639	hate	0.9877429008483887	curse profane
-4906	hate	0.967048704624176	attacking intellectual capability
-5773	hate	0.9920098781585693	attacking character trait
-691	nothate	0.016545772552490234	insects
-7337	nothate	0.00032699108123779297	contempt self admission intolerance
-7090	nothate	0.0002015233039855957	better worse than
-10554	hate	0.6617465615272522	political exclusion
-8520	hate	0.9787291288375854	curse sexual
-9621	hate	0.9767820239067078	curse profane
-8203	hate	0.9781274795532227	contempt despise dislike
-10980	nothate	0.0024703145027160645	economic exclusion
-4875	hate	0.9283645153045654	attacking intellectual capability
-10867	nothate	0.0002689957618713379	economic exclusion
-1837	hate	0.9927418231964111	feces
-9677	hate	0.9493833780288696	curse profane
-12119	hate	0.9764753580093384	spread virus
-2275	hate	0.9887797832489014	sexual predator
-7097	nothate	0.0030831098556518555	better worse than
-7319	nothate	0.06648474931716919	contempt self admission intolerance
-6628	hate	0.9936229586601257	deviating norm
-4884	hate	0.923069953918457	attacking intellectual capability
-10250	hate	0.7429458498954773	explicit exclusion
-1871	nothate	0.29466789960861206	feces
-12029	hate	0.9724161028862	spread virus
-3686	hate	0.9591001272201538	harmful stereotype
-10246	nothate	0.03642970323562622	explicit exclusion
-3337	nothate	0.13074404001235962	deny existence
-4811	hate	0.9573594927787781	attacking intellectual capability
-12010	hate	0.9881979823112488	spread virus
-4098	hate	0.9793815016746521	hatecrime victim
-4159	nothate	0.45482176542282104	hatecrime victim
-5789	hate	0.9628938436508179	attacking character trait
-8130	hate	0.820625364780426	contempt despise dislike
-5141	hate	0.9973587393760681	attacking education
-10298	hate	0.8846389055252075	explicit exclusion
-9771	hate	0.989548921585083	curse profane
-4671	nothate	0.04811275005340576	attacking appearance
-5149	hate	0.9216200709342957	attacking education
-1903	hate	0.9983071088790894	feces
-3919	hate	0.5091463923454285	hatecrime victim
-10841	nothate	0.006454944610595703	economic exclusion
-6629	hate	0.987442672252655	deviating norm
-5173	hate	0.9586130380630493	attacking education
-668	nothate	0.10180211067199707	insects
-9935	nothate	0.455322802066803	segregation
-9330	hate	0.99543297290802	curse genitalia
-7213	nothate	0.349736750125885	contempt self admission intolerance
-10894	nothate	0.006431102752685547	economic exclusion
-7214	hate	0.9368832111358643	contempt self admission intolerance
-10248	hate	0.9868122935295105	explicit exclusion
-4039	hate	0.8343438506126404	hatecrime victim
-6396	hate	0.990092933177948	less than adequate
-8463	hate	0.9974660873413086	curse sexual
-4545	hate	0.9935658574104309	attacking appearance
-118	hate	0.994002640247345	filth
-7358	nothate	0.004486978054046631	contempt self admission intolerance
-4111	hate	0.9313615560531616	hatecrime victim
-3781	nothate	0.2223449945449829	harmful stereotype
-375	hate	0.9954932928085327	violent speech
-1869	hate	0.788044810295105	feces
-7252	nothate	0.007321715354919434	contempt self admission intolerance
-6767	nothate	0.16702717542648315	deviating norm
-12151	hate	0.9416335821151733	spread virus
-9422	nothate	0.034604549407958984	curse genitalia
-8712	nothate	0.14402484893798828	disgust vomit
-6367	hate	0.9734331369400024	less than adequate
-7120	nothate	0.0005509257316589355	better worse than
-4599	hate	0.9773993492126465	attacking appearance
-2882	nothate	0.11074692010879517	criminal
-3379	nothate	0.029194176197052002	deny existence
-677	nothate	0.013016819953918457	insects
-1548	hate	0.9326850175857544	dehumanization animal
-4958	hate	0.6596913933753967	attacking intellectual capability
-8108	nothate	0.09260058403015137	contempt despise dislike
-9788	hate	0.9969785213470459	curse profane
-6175	hate	0.9674540162086487	attacking derogatory term
-2764	nothate	0.0003496408462524414	criminal
-628	nothate	0.05159503221511841	insects
-9385	hate	0.9983912110328674	curse genitalia
-2577	hate	0.961469829082489	subhumanity
-7221	nothate	0.23654168844223022	contempt self admission intolerance
-6431	hate	0.9608663320541382	less than adequate
-3374	nothate	0.0011608004570007324	deny existence
-11448	hate	0.8920799493789673	change sexual
-7376	nothate	0.004533052444458008	contempt self admission intolerance
-4227	hate	0.9828646183013916	attacking hygiene
-11755	hate	0.969491183757782	attack concept associated protected characteristics
-5161	nothate	0.07758641242980957	attacking education
-6768	hate	0.9888914823532104	deviating norm
-7295	nothate	0.11837899684906006	contempt self admission intolerance
-3661	hate	0.9360949397087097	harmful stereotype
-10578	nothate	0.000308990478515625	political exclusion
-770	hate	0.9768553972244263	insects
-10543	nothate	0.005603909492492676	political exclusion
-8242	nothate	0.2576158046722412	contempt despise dislike
-2421	hate	0.8801735043525696	subhumanity
-4187	nothate	0.454104483127594	hatecrime victim
-1744	hate	0.9880660772323608	dehumanization animal
-2303	hate	0.9945470094680786	sexual predator
-435	hate	0.9957055449485779	violent speech
-9349	hate	0.9425973892211914	curse genitalia
-12066	nothate	0.015189409255981445	spread virus
-780	nothate	0.19020140171051025	insects
-10295	hate	0.8279258012771606	explicit exclusion
-9390	hate	0.9968283772468567	curse genitalia
-10357	nothate	0.14234083890914917	explicit exclusion
-11463	nothate	0.0185091495513916	change sexual
-3907	hate	0.9764865040779114	hatecrime victim
-1736	nothate	0.07630503177642822	dehumanization animal
-11469	nothate	0.020269334316253662	change sexual
-9741	hate	0.9903178215026855	curse profane
-4997	nothate	0.4282338619232178	attacking intellectual capability
-10299	nothate	0.13877320289611816	explicit exclusion
-2289	hate	0.9531071782112122	sexual predator
-1811	hate	0.9727082848548889	feces
-4108	hate	0.985627293586731	hatecrime victim
-1884	nothate	0.2599741816520691	feces
-11731	nothate	0.37762004137039185	attack concept associated protected characteristics
-9195	hate	0.9467930197715759	disgust repulsion
-70	hate	0.9207186698913574	filth
-1752	hate	0.9861226081848145	dehumanization animal
-8495	hate	0.9956444501876831	curse sexual
-9917	hate	0.8298884034156799	segregation
-4693	hate	0.5482955574989319	attacking appearance
-686	nothate	0.005458056926727295	insects
-1899	nothate	0.30369681119918823	feces
-10979	nothate	0.0011992454528808594	economic exclusion
-9717	hate	0.9677591323852539	curse profane
-3008	hate	0.9847354888916016	certain objects
-760	nothate	0.0007690191268920898	insects
-2911	nothate	0.28557491302490234	criminal
-4084	hate	0.9952373504638672	hatecrime victim
-12050	hate	0.9755985736846924	spread virus
-10348	nothate	0.030582308769226074	explicit exclusion
-1865	hate	0.7181017994880676	feces
-9166	hate	0.9834522604942322	disgust repulsion
-12016	hate	0.9763686656951904	spread virus
-4349	hate	0.9061636328697205	attacking hygiene
-3380	nothate	0.018602728843688965	deny existence
-4869	hate	0.919750452041626	attacking intellectual capability
-8206	nothate	0.074948251247406	contempt despise dislike
-8734	hate	0.9022639989852905	disgust vomit
-10544	nothate	0.05271792411804199	political exclusion
-121	hate	0.9906212091445923	filth
-9355	hate	0.9946685433387756	curse genitalia
-9633	hate	0.9900062680244446	curse profane
-5774	hate	0.9533637166023254	attacking character trait
-1202	hate	0.9949085116386414	disease
-6364	hate	0.9717398881912231	less than adequate
-9730	hate	0.9898001551628113	curse profane
-10235	hate	0.953917920589447	explicit exclusion
-1751	hate	0.9716870188713074	dehumanization animal
-3705	nothate	0.07355010509490967	harmful stereotype
-8534	hate	0.9988245368003845	curse sexual
-1800	hate	0.9932884573936462	feces
-8430	hate	0.9989416003227234	curse sexual
-10545	nothate	0.19972842931747437	political exclusion
-2568	nothate	0.04151904582977295	subhumanity
-3393	nothate	0.18348288536071777	deny existence
-12000	hate	0.9857041835784912	spread virus
-8158	nothate	0.48332059383392334	contempt despise dislike
-7316	nothate	0.19263529777526855	contempt self admission intolerance
-6439	hate	0.6101372241973877	less than adequate
-476	hate	0.964599072933197	violent speech
-140	hate	0.8955032825469971	filth
-621	hate	0.8697380423545837	insects
-2746	hate	0.8272209167480469	criminal
-4172	nothate	0.04530912637710571	hatecrime victim
-9383	hate	0.991277813911438	curse genitalia
-6627	nothate	0.06254708766937256	deviating norm
-10565	nothate	0.0022991299629211426	political exclusion
-9493	hate	0.9864230751991272	curse genitalia
-10864	nothate	0.000934898853302002	economic exclusion
-9760	hate	0.9856806993484497	curse profane
-12032	hate	0.924531102180481	spread virus
-4123	hate	0.8437718749046326	hatecrime victim
-8445	hate	0.99899822473526	curse sexual
-8426	hate	0.979343056678772	curse sexual
-9410	hate	0.9824557304382324	curse genitalia
-2129	nothate	0.016053080558776855	sexual predator
-6670	nothate	0.001521289348602295	deviating norm
-380	hate	0.9945939183235168	violent speech
-113	hate	0.9413182139396667	filth
-10052	hate	0.9812074899673462	segregation
-4156	nothate	0.03925055265426636	hatecrime victim
-1805	hate	0.9380884170532227	feces
-4046	nothate	0.3091740608215332	hatecrime victim
-8526	hate	0.9989666938781738	curse sexual
-3662	nothate	0.1358710527420044	harmful stereotype
-102	hate	0.9330057501792908	filth
-6634	hate	0.9915097951889038	deviating norm
-4145	hate	0.9554494023323059	hatecrime victim
-5721	nothate	0.010119915008544922	attacking character trait
-1867	nothate	0.020378828048706055	feces
-432	hate	0.9972192049026489	violent speech
-10277	nothate	0.13424092531204224	explicit exclusion
-1846	hate	0.9102174639701843	feces
-5772	hate	0.9533637166023254	attacking character trait
-11470	nothate	0.04842352867126465	change sexual
-9798	hate	0.9971170425415039	curse profane
-4010	hate	0.9913316965103149	hatecrime victim
-6098	hate	0.9922770261764526	attacking derogatory term
-8116	hate	0.8939550518989563	contempt despise dislike
-10852	nothate	0.07703912258148193	economic exclusion
-1915	hate	0.9874936938285828	feces
-2861	nothate	0.010198891162872314	criminal
-921	nothate	0.1258198618888855	bacteria
-3734	hate	0.9412381649017334	harmful stereotype
-10547	nothate	0.012302577495574951	political exclusion
-7366	nothate	0.08027130365371704	contempt self admission intolerance
-2864	hate	0.5516216158866882	criminal
-7359	nothate	0.03434270620346069	contempt self admission intolerance
-5758	hate	0.9721839427947998	attacking character trait
-9012	hate	0.8927831053733826	disgust repulsion
-3743	nothate	0.004757523536682129	harmful stereotype
-7558	hate	0.9685644507408142	contempt shouldnt exist
-10849	nothate	0.16062945127487183	economic exclusion
-1727	nothate	0.0002931952476501465	dehumanization animal
-7291	nothate	0.12573730945587158	contempt self admission intolerance
-6395	hate	0.9936927556991577	less than adequate
-9615	nothate	0.20889294147491455	curse profane
-445	hate	0.9690866470336914	violent speech
-925	hate	0.9980681538581848	bacteria
-7334	nothate	0.019114792346954346	contempt self admission intolerance
-2706	hate	0.561153769493103	criminal
-462	nothate	0.013912737369537354	violent speech
-7849	hate	0.8826900720596313	contempt despise hate
-10907	nothate	0.0007023811340332031	economic exclusion
-7365	nothate	0.10938805341720581	contempt self admission intolerance
-735	hate	0.7866582870483398	insects
-660	nothate	0.01613706350326538	insects
-4571	nothate	0.4343191385269165	attacking appearance
-4099	hate	0.961500346660614	hatecrime victim
-684	hate	0.9452856779098511	insects
-3996	hate	0.9329515695571899	hatecrime victim
-2892	nothate	0.2896900773048401	criminal
-5427	hate	0.9792282581329346	attacking mental health
-7984	hate	0.9048768281936646	contempt despise hate
-5166	hate	0.7827431559562683	attacking education
-10978	nothate	0.0008108019828796387	economic exclusion
-730	hate	0.9542699456214905	insects
-2419	hate	0.8928185701370239	subhumanity
-8003	hate	0.9939097166061401	contempt despise hate
-4526	hate	0.9954802989959717	attacking appearance
-8410	hate	0.9932884573936462	curse sexual
-395	hate	0.9917657971382141	violent speech
-8100	hate	0.8639305233955383	contempt despise dislike
-4165	nothate	0.017768919467926025	hatecrime victim
-4040	hate	0.9705871343612671	hatecrime victim
-8865	hate	0.9639081358909607	disgust vomit
-9194	nothate	0.19625592231750488	disgust repulsion
-387	hate	0.9681323170661926	violent speech
-2413	hate	0.9405866861343384	subhumanity
-3387	nothate	0.019331395626068115	deny existence
-8454	hate	0.9984412789344788	curse sexual
-8859	hate	0.9697369933128357	disgust vomit
-7096	nothate	0.0013960003852844238	better worse than
-11479	nothate	0.011052370071411133	change sexual
-12135	nothate	0.015194356441497803	spread virus
-11115	hate	0.8415293097496033	social exclusion
-3969	hate	0.9729414582252502	hatecrime victim
-1226	nothate	0.009129583835601807	disease
-12152	hate	0.8995186686515808	spread virus
-1517	hate	0.9467930197715759	dehumanization animal
-8178	nothate	0.014988303184509277	contempt despise dislike
-332	hate	0.9986819624900818	violent speech
-3672	nothate	0.0019677281379699707	harmful stereotype
-1505	hate	0.9775981903076172	dehumanization animal
-10271	nothate	0.29202401638031006	explicit exclusion
-12148	hate	0.6886727213859558	spread virus
-464	nothate	0.0034791231155395508	violent speech
-12117	hate	0.9641804695129395	spread virus
-86	hate	0.9938161373138428	filth
-10373	hate	0.977222740650177	explicit exclusion
-2549	hate	0.9448988437652588	subhumanity
-7255	nothate	0.0015016794204711914	contempt self admission intolerance
-4129	hate	0.9772887825965881	hatecrime victim
-10552	hate	0.6478654146194458	political exclusion
-59	hate	0.8618709444999695	filth
-9689	hate	0.9903792142868042	curse profane
-9793	hate	0.9913132786750793	curse profane
-473	hate	0.9286035299301147	violent speech
-7506	nothate	0.00012171268463134766	contempt shouldnt exist
-9153	hate	0.7620319128036499	disgust repulsion
-3707	nothate	0.05653876066207886	harmful stereotype
-10217	hate	0.9775960445404053	explicit exclusion
-7328	nothate	0.060200393199920654	contempt self admission intolerance
-4056	nothate	0.0422552227973938	hatecrime victim
-8437	hate	0.9990160465240479	curse sexual
-9062	nothate	0.0596502423286438	disgust repulsion
-2750	hate	0.915114164352417	criminal
-11495	nothate	0.00048029422760009766	change sexual
-2279	hate	0.9909358620643616	sexual predator
-9374	hate	0.9919872283935547	curse genitalia
-336	nothate	0.03147995471954346	violent speech
-4006	hate	0.9856207370758057	hatecrime victim
-4328	hate	0.8221402764320374	attacking hygiene
-6776	hate	0.9837231636047363	deviating norm
-305	hate	0.9962133765220642	violent speech
-6930	hate	0.8864028453826904	better worse than
-9462	hate	0.9839276671409607	curse genitalia
-6119	hate	0.922939658164978	attacking derogatory term
-2278	hate	0.9792563915252686	sexual predator
-10026	hate	0.7387397289276123	segregation
-6089	hate	0.9853004813194275	attacking derogatory term
-11716	hate	0.9622790813446045	attack concept associated protected characteristics
-10389	hate	0.9786189198493958	explicit exclusion
-6709	nothate	0.2582043409347534	deviating norm
-10897	nothate	0.0009126663208007812	economic exclusion
-12024	hate	0.9907140731811523	spread virus
-125	hate	0.9788720011711121	filth
-4026	hate	0.9873698353767395	hatecrime victim
-1767	hate	0.9891048073768616	dehumanization animal
-4565	hate	0.5822187066078186	attacking appearance
-4023	hate	0.9858303666114807	hatecrime victim
-9953	nothate	0.11763352155685425	segregation
-2429	hate	0.9693390727043152	subhumanity
-6694	hate	0.9852831363677979	deviating norm
-4984	hate	0.9594761729240417	attacking intellectual capability
-4127	nothate	0.06199920177459717	hatecrime victim
-4658	hate	0.6794939041137695	attacking appearance
-4092	nothate	0.04045283794403076	hatecrime victim
-6399	nothate	0.0466386079788208	less than adequate
-4177	hate	0.8532352447509766	hatecrime victim
-9712	hate	0.9909085631370544	curse profane
-6065	hate	0.9781466126441956	attacking derogatory term
-5433	hate	0.9888845682144165	attacking mental health
-2250	nothate	0.1803891658782959	sexual predator
-3679	nothate	0.006385624408721924	harmful stereotype
-7315	nothate	0.009601473808288574	contempt self admission intolerance
-10930	nothate	0.0018392205238342285	economic exclusion
-2263	hate	0.9887444972991943	sexual predator
-4028	hate	0.9720684885978699	hatecrime victim
-4100	hate	0.9909437298774719	hatecrime victim
-7101	nothate	0.0007231831550598145	better worse than
-5439	hate	0.9670642018318176	attacking mental health
-10990	nothate	0.0026633143424987793	economic exclusion
-10263	hate	0.9853872060775757	explicit exclusion
-11435	nothate	0.0017492175102233887	change sexual
-7324	nothate	0.000448763370513916	contempt self admission intolerance
-9033	hate	0.9307996034622192	disgust repulsion
-10914	nothate	0.00024563074111938477	economic exclusion
-7079	nothate	0.003054797649383545	better worse than
-11465	nothate	0.06376022100448608	change sexual
-10238	hate	0.9056068062782288	explicit exclusion
-7241	nothate	0.01412123441696167	contempt self admission intolerance
-7330	nothate	0.0002480149269104004	contempt self admission intolerance
-6737	hate	0.9247770309448242	deviating norm
-6656	hate	0.6134629845619202	deviating norm
-12060	hate	0.6050181984901428	spread virus
-11499	nothate	0.00014674663543701172	change sexual
-6643	hate	0.8396952152252197	deviating norm
-4540	hate	0.9716529250144958	attacking appearance
-6373	hate	0.945583701133728	less than adequate
-3746	nothate	0.15938585996627808	harmful stereotype
-10965	nothate	0.0001984238624572754	economic exclusion
-9695	hate	0.9618860483169556	curse profane
-461	nothate	0.003995358943939209	violent speech
-633	nothate	0.0035448074340820312	insects
-6053	hate	0.8762184381484985	attacking derogatory term
-4933	nothate	0.014438450336456299	attacking intellectual capability
-7344	nothate	0.11726230382919312	contempt self admission intolerance
-6393	nothate	0.02875840663909912	less than adequate
-12081	hate	0.7248874306678772	spread virus
-1920	hate	0.9198400974273682	feces
-4362	hate	0.9886190891265869	attacking hygiene
-12121	hate	0.9077805876731873	spread virus
-11452	nothate	0.0005429387092590332	change sexual
-10304	nothate	0.33566945791244507	explicit exclusion
-9635	hate	0.9840174317359924	curse profane
-3745	nothate	0.24863094091415405	harmful stereotype
-630	nothate	0.1480032205581665	insects
-7234	hate	0.7345547676086426	contempt self admission intolerance
-6124	hate	0.9471283555030823	attacking derogatory term
-318	hate	0.9986886382102966	violent speech
-434	hate	0.9729414582252502	violent speech
-653	hate	0.8117749691009521	insects
-6407	nothate	0.44660013914108276	less than adequate
-9412	hate	0.9679701924324036	curse genitalia
-11145	nothate	0.4701671004295349	social exclusion
-12145	nothate	0.23036402463912964	spread virus
-6087	hate	0.9878098964691162	attacking derogatory term
-9704	hate	0.9760421514511108	curse profane
-7094	nothate	0.0003249645233154297	better worse than
-2841	hate	0.9731386303901672	criminal
-8784	nothate	0.23765963315963745	disgust vomit
-7887	nothate	0.05055505037307739	contempt despise hate
-8741	hate	0.9932155609130859	disgust vomit
-1882	nothate	0.003758549690246582	feces
-98	hate	0.5413029193878174	filth
-8245	nothate	0.10422152280807495	contempt despise dislike
-6311	hate	0.9931380152702332	less than adequate
-9367	hate	0.975044846534729	curse genitalia
-4038	hate	0.9856215119361877	hatecrime victim
-4847	hate	0.5286036133766174	attacking intellectual capability
-10286	nothate	0.02345561981201172	explicit exclusion
-720	nothate	0.029725968837738037	insects
-9756	hate	0.9989438652992249	curse profane
-8776	hate	0.9739176630973816	disgust vomit
-8184	hate	0.9724235534667969	contempt despise dislike
-9634	hate	0.927630603313446	curse profane
-2714	nothate	0.049829185009002686	criminal
-6116	hate	0.6375689506530762	attacking derogatory term
-3354	nothate	0.00030052661895751953	deny existence
-4022	hate	0.6291307806968689	hatecrime victim
-3713	nothate	0.0013934969902038574	harmful stereotype
-3930	nothate	0.35294485092163086	hatecrime victim
-12155	hate	0.9861099720001221	spread virus
-6449	nothate	0.10644066333770752	less than adequate
-6437	hate	0.9916538596153259	less than adequate
-10216	hate	0.9276946187019348	explicit exclusion
-4974	hate	0.7237991690635681	attacking intellectual capability
-9000	hate	0.7950814962387085	disgust repulsion
-437	hate	0.9793815016746521	violent speech
-5780	hate	0.9795915484428406	attacking character trait
-3365	nothate	0.000354766845703125	deny existence
-6417	hate	0.9758457541465759	less than adequate
-4881	hate	0.9710590243339539	attacking intellectual capability
-5750	hate	0.9581263661384583	attacking character trait
-9742	hate	0.9887256026268005	curse profane
-4652	hate	0.9913241863250732	attacking appearance
-12011	hate	0.9719197154045105	spread virus
-10904	nothate	0.00022524595260620117	economic exclusion
-8146	nothate	0.0037044882774353027	contempt despise dislike
-7220	hate	0.9630530476570129	contempt self admission intolerance
-4053	nothate	0.027751266956329346	hatecrime victim
-3993	nothate	0.013625264167785645	hatecrime victim
-2536	nothate	0.03458607196807861	subhumanity
-1753	hate	0.9074402451515198	dehumanization animal
-403	hate	0.9664154648780823	violent speech
-2553	nothate	0.025364577770233154	subhumanity
-9909	hate	0.9545499682426453	segregation
-759	nothate	0.006708621978759766	insects
-5431	hate	0.9942487478256226	attacking mental health
-11475	hate	0.5252951383590698	change sexual
-9763	hate	0.9919834733009338	curse profane
-3366	nothate	0.0017014145851135254	deny existence
-4639	hate	0.9911722540855408	attacking appearance
-1762	hate	0.9542535543441772	dehumanization animal
-8145	nothate	0.02055734395980835	contempt despise dislike
-9772	hate	0.9967095851898193	curse profane
-11439	nothate	0.43244457244873047	change sexual
-10580	nothate	0.002132415771484375	political exclusion
-3773	nothate	0.01511991024017334	harmful stereotype
-4977	nothate	0.1950179934501648	attacking intellectual capability
-6056	hate	0.9183381795883179	attacking derogatory term
-4151	hate	0.703124463558197	hatecrime victim
-635	nothate	0.0687323808670044	insects
-4969	nothate	0.40649670362472534	attacking intellectual capability
-7217	nothate	0.4573330879211426	contempt self admission intolerance
-3750	hate	0.9362204074859619	harmful stereotype
-4011	hate	0.9796899557113647	hatecrime victim
-3970	hate	0.9957055449485779	hatecrime victim
-7313	nothate	0.0019380450248718262	contempt self admission intolerance
-6142	hate	0.9984182119369507	attacking derogatory term
-8511	hate	0.9986677169799805	curse sexual
-7841	hate	0.8596720099449158	contempt despise hate
-4333	nothate	0.06254708766937256	attacking hygiene
-10267	hate	0.9701188802719116	explicit exclusion
-3650	hate	0.9839367866516113	harmful stereotype
-2546	hate	0.9815355539321899	subhumanity
-12118	nothate	0.004748225212097168	spread virus
-8468	hate	0.9975157976150513	curse sexual
-4860	hate	0.8655599355697632	attacking intellectual capability
-3768	hate	0.9855776429176331	harmful stereotype
-12015	hate	0.9871177077293396	spread virus
-402	hate	0.9966754913330078	violent speech
-10968	nothate	0.0005019903182983398	economic exclusion
-12022	hate	0.9987002611160278	spread virus
-4109	hate	0.9371440410614014	hatecrime victim
-6947	hate	0.5222024321556091	better worse than
-8422	hate	0.9941142201423645	curse sexual
-99	hate	0.921154260635376	filth
-2305	hate	0.9887797832489014	sexual predator
-1506	hate	0.9973587393760681	dehumanization animal
-12026	hate	0.9863685965538025	spread virus
-5783	hate	0.9511870741844177	attacking character trait
-6381	nothate	0.0008478164672851562	less than adequate
-7308	nothate	0.012450695037841797	contempt self admission intolerance
-8456	hate	0.99566251039505	curse sexual
-9636	hate	0.9922770261764526	curse profane
-11437	nothate	0.0185091495513916	change sexual
-11464	hate	0.6714189648628235	change sexual
-7209	nothate	0.19102150201797485	contempt self admission intolerance
-4126	nothate	0.07888472080230713	hatecrime victim
-12084	hate	0.9933158755302429	spread virus
-4139	hate	0.7692267894744873	hatecrime victim
-4520	hate	0.9829204678535461	attacking appearance
-1721	hate	0.9875281453132629	dehumanization animal
-9369	hate	0.7792861461639404	curse genitalia
-1859	nothate	0.0833161473274231	feces
-12048	hate	0.9869869947433472	spread virus
-5508	hate	0.9613350629806519	attacking mental health
-2875	nothate	0.1174015998840332	criminal
-5175	nothate	0.22160965204238892	attacking education
-3971	hate	0.9909691214561462	hatecrime victim
-11483	nothate	0.007337093353271484	change sexual
-2410	nothate	0.20988351106643677	subhumanity
-4091	hate	0.8743188977241516	hatecrime victim
-6369	hate	0.8638151288032532	less than adequate
-11474	nothate	0.0003057718276977539	change sexual
-6145	hate	0.9108561277389526	attacking derogatory term
-9759	hate	0.9922410249710083	curse profane
-9397	hate	0.9899386167526245	curse genitalia
-9316	hate	0.9840174317359924	curse genitalia
-103	hate	0.9103620052337646	filth
-2228	hate	0.9599624872207642	sexual predator
-8482	hate	0.994831919670105	curse sexual
-2749	nothate	0.228307843208313	criminal
-1917	hate	0.9702525734901428	feces
-2519	hate	0.7074054479598999	subhumanity
-2580	hate	0.5038927793502808	subhumanity
-6699	hate	0.5563878417015076	deviating norm
-10857	nothate	0.006969630718231201	economic exclusion
-5169	nothate	0.34873485565185547	attacking education
-4835	hate	0.990577220916748	attacking intellectual capability
-9492	hate	0.9825283288955688	curse genitalia
-463	nothate	0.01938915252685547	violent speech
-5126	hate	0.8258426189422607	attacking education
-5781	hate	0.9511870741844177	attacking character trait
-10905	nothate	0.0001952052116394043	economic exclusion
-6920	nothate	0.14894789457321167	better worse than
-4058	hate	0.7138181328773499	hatecrime victim
-6073	hate	0.9831841588020325	attacking derogatory term
-7243	nothate	0.03602820634841919	contempt self admission intolerance
-8785	hate	0.9385970830917358	disgust vomit
-697	nothate	0.10944902896881104	insects
-12100	hate	0.9893327951431274	spread virus
-3990	hate	0.9747880697250366	hatecrime victim
-3352	nothate	0.013609528541564941	deny existence
-7304	nothate	0.028647243976593018	contempt self admission intolerance
-3982	hate	0.9635916948318481	hatecrime victim
-6640	hate	0.9846767783164978	deviating norm
-9964	nothate	0.007658839225769043	segregation
-6663	hate	0.9816133975982666	deviating norm
-8481	hate	0.9964699745178223	curse sexual
-6030	hate	0.9809871912002563	attacking derogatory term
-11505	nothate	0.0006060600280761719	change sexual
-4054	hate	0.9693432450294495	hatecrime victim
-9445	hate	0.9369580745697021	curse genitalia
-2713	nothate	0.0020754337310791016	criminal
-10223	hate	0.9817907810211182	explicit exclusion
-8857	hate	0.9625389575958252	disgust vomit
-5163	hate	0.9965415596961975	attacking education
-10222	hate	0.9919182658195496	explicit exclusion
-7224	nothate	0.21352583169937134	contempt self admission intolerance
-6042	hate	0.5791892409324646	attacking derogatory term
-4031	hate	0.9696245789527893	hatecrime victim
-11449	nothate	0.13456785678863525	change sexual
-304	hate	0.9016653895378113	violent speech
-4078	hate	0.6352372765541077	hatecrime victim
-11440	nothate	0.0035616159439086914	change sexual
-5785	hate	0.96177077293396	attacking character trait
-8528	hate	0.9988070726394653	curse sexual
-9647	hate	0.9906884431838989	curse profane
-4256	hate	0.9288590550422668	attacking hygiene
-444	hate	0.9852830171585083	violent speech
-3772	nothate	0.2977612018585205	harmful stereotype
-10954	nothate	0.0007632970809936523	economic exclusion
-12150	hate	0.9234138131141663	spread virus
-3624	nothate	0.00385129451751709	harmful stereotype
-2295	hate	0.9887444972991943	sexual predator
-1754	hate	0.9801233410835266	dehumanization animal
-11500	nothate	0.0007449984550476074	change sexual
-4318	hate	0.9913825392723083	attacking hygiene
-4527	hate	0.8388979434967041	attacking appearance
-7118	nothate	0.0002880692481994629	better worse than
-4602	nothate	0.2948007583618164	attacking appearance
-5177	hate	0.9988964796066284	attacking education
-4582	hate	0.9263336658477783	attacking appearance
-6403	hate	0.9157052040100098	less than adequate
-6080	hate	0.9982646107673645	attacking derogatory term
-89	hate	0.9519041776657104	filth
-12044	hate	0.9056642055511475	spread virus
-8474	hate	0.972184419631958	curse sexual
-11497	nothate	0.0011119246482849121	change sexual
-1741	nothate	0.3077505826950073	dehumanization animal
-10957	nothate	0.00022369623184204102	economic exclusion
-3759	nothate	0.14709025621414185	harmful stereotype
-5111	nothate	0.12260496616363525	attacking education
-12120	hate	0.9854302406311035	spread virus
-4260	nothate	0.0024170875549316406	attacking hygiene
-4015	hate	0.5157211422920227	hatecrime victim
-9188	hate	0.997543215751648	disgust repulsion
-1845	hate	0.9875872731208801	feces
-12091	hate	0.9862155914306641	spread virus
-1907	hate	0.9936246871948242	feces
-779	nothate	0.02182590961456299	insects
-6389	hate	0.9389302730560303	less than adequate
-3347	nothate	0.0009895563125610352	deny existence
-9029	nothate	0.04343152046203613	disgust repulsion
-8864	hate	0.9764670729637146	disgust vomit
-4270	hate	0.9652507305145264	attacking hygiene
-3987	hate	0.8086540102958679	hatecrime victim
-9642	hate	0.9969823956489563	curse profane
-6040	hate	0.7956540584564209	attacking derogatory term
-6366	hate	0.9835789799690247	less than adequate
-2427	nothate	0.0037395358085632324	subhumanity
-9907	nothate	0.052904367446899414	segregation
-4914	hate	0.8748392462730408	attacking intellectual capability
-3754	nothate	0.3853244185447693	harmful stereotype
-10854	nothate	0.001455545425415039	economic exclusion
-10940	nothate	0.0011539459228515625	economic exclusion
-1839	hate	0.9989294409751892	feces
-110	hate	0.97931307554245	filth
-4118	nothate	0.14949071407318115	hatecrime victim
-74	hate	0.9849254488945007	filth
-9724	hate	0.9850581884384155	curse profane
-11721	nothate	0.028590023517608643	attack concept associated protected characteristics
-2881	hate	0.8482632637023926	criminal
-2297	hate	0.8671004176139832	sexual predator
-4994	hate	0.962044894695282	attacking intellectual capability
-9661	hate	0.9989363551139832	curse profane
-10059	hate	0.9595802426338196	segregation
-9038	hate	0.9984068274497986	disgust repulsion
-12132	nothate	0.007154881954193115	spread virus
-1208	hate	0.9804007411003113	disease
-4081	hate	0.7981138825416565	hatecrime victim
-7233	nothate	0.4242265820503235	contempt self admission intolerance
-8833	nothate	0.03964269161224365	disgust vomit
-3778	nothate	0.0007815361022949219	harmful stereotype
-6983	hate	0.9746106266975403	better worse than
-3305	hate	0.8397432565689087	deny existence
-9694	hate	0.9967345595359802	curse profane
-10975	nothate	0.010157167911529541	economic exclusion
-478	hate	0.9875470995903015	violent speech
-12040	nothate	0.003986716270446777	spread virus
-10553	nothate	0.017498910427093506	political exclusion
-4924	hate	0.9724525213241577	attacking intellectual capability
-5139	hate	0.9691998362541199	attacking education
-4061	hate	0.9639571905136108	hatecrime victim
-3723	hate	0.9654690027236938	harmful stereotype
-1868	nothate	0.055051982402801514	feces
-5764	hate	0.9871847033500671	attacking character trait
-5753	hate	0.977150559425354	attacking character trait
-6771	hate	0.9677025675773621	deviating norm
-127	hate	0.9726232290267944	filth
-12074	nothate	0.05238234996795654	spread virus
-3664	hate	0.8589089512825012	harmful stereotype
-11105	nothate	0.0008652806282043457	social exclusion
-8010	hate	0.5489108562469482	contempt despise hate
-4901	hate	0.9250749945640564	attacking intellectual capability
-4144	nothate	0.04614144563674927	hatecrime victim
-10926	nothate	0.0002620816230773926	economic exclusion
-9362	hate	0.9940600991249084	curse genitalia
-12134	hate	0.9608467221260071	spread virus
-10971	nothate	0.0030693411827087402	economic exclusion
-5749	hate	0.9894343018531799	attacking character trait
-12028	hate	0.9820742011070251	spread virus
-3663	hate	0.98489910364151	harmful stereotype
-11492	nothate	0.0002582669258117676	change sexual
-6425	hate	0.9263562560081482	less than adequate
-7288	nothate	0.10425961017608643	contempt self admission intolerance
-12154	nothate	0.002202749252319336	spread virus
-8514	hate	0.9920607805252075	curse sexual
-620	hate	0.54597407579422	insects
-9165	hate	0.9954989552497864	disgust repulsion
-4834	hate	0.9768266081809998	attacking intellectual capability
-12009	hate	0.9756778478622437	spread virus
-4529	hate	0.9873451590538025	attacking appearance
-10041	hate	0.98831707239151	segregation
-9925	nothate	0.07952195405960083	segregation
-302	hate	0.9968414306640625	violent speech
-1543	nothate	0.4249489903450012	dehumanization animal
-7353	nothate	0.14899283647537231	contempt self admission intolerance
-7229	nothate	0.42094743251800537	contempt self admission intolerance
-3378	nothate	0.024670064449310303	deny existence
-3795	hate	0.8918984532356262	harmful stereotype
-10943	nothate	0.00020927190780639648	economic exclusion
-2308	hate	0.9792563915252686	sexual predator
-6171	hate	0.9963064193725586	attacking derogatory term
-8855	nothate	0.4037476181983948	disgust vomit
-10889	nothate	0.0003820657730102539	economic exclusion
-10988	nothate	0.0031134486198425293	economic exclusion
-4558	hate	0.9956188797950745	attacking appearance
-12019	hate	0.9229094386100769	spread virus
-3777	nothate	0.005858480930328369	harmful stereotype
-9376	hate	0.9775106310844421	curse genitalia
-1738	hate	0.8935046195983887	dehumanization animal
-8477	hate	0.9922618865966797	curse sexual
-7298	nothate	0.000629723072052002	contempt self admission intolerance
-10316	hate	0.987525463104248	explicit exclusion
-2726	hate	0.9941034913063049	criminal
-9613	hate	0.9849936962127686	curse profane
-9037	hate	0.9258193969726562	disgust repulsion
-687	nothate	0.1410464644432068	insects
-12105	nothate	0.004574239253997803	spread virus
-9322	hate	0.9792657494544983	curse genitalia
-655	hate	0.5359760522842407	insects
-3709	nothate	0.004769682884216309	harmful stereotype
-10226	hate	0.9646674394607544	explicit exclusion
-696	nothate	0.17722976207733154	insects
-4155	nothate	0.012545466423034668	hatecrime victim
-961	hate	0.9534550309181213	bacteria
-7310	nothate	0.04367256164550781	contempt self admission intolerance
-9139	hate	0.9881693124771118	disgust repulsion
-8742	hate	0.9836099147796631	disgust vomit
-9068	hate	0.7432913184165955	disgust repulsion
-12012	nothate	0.0017022490501403809	spread virus
-6082	hate	0.9854881167411804	attacking derogatory term
-8700	nothate	0.005338728427886963	disgust vomit
-9469	hate	0.9717733263969421	curse genitalia
-8157	hate	0.9087767004966736	contempt despise dislike
-3671	nothate	0.04743427038192749	harmful stereotype
-133	hate	0.9172111749649048	filth
-11516	nothate	0.00013911724090576172	change sexual
-4107	hate	0.9741122126579285	hatecrime victim
-8507	hate	0.9990000128746033	curse sexual
-6778	hate	0.9799030423164368	deviating norm
-9690	hate	0.9979775547981262	curse profane
-6088	hate	0.9983844757080078	attacking derogatory term
-8544	hate	0.9990212917327881	curse sexual
-10251	hate	0.9108561277389526	explicit exclusion
-4062	hate	0.7595666646957397	hatecrime victim
-6615	hate	0.9833738803863525	deviating norm
-1883	nothate	0.0850408673286438	feces
-3783	hate	0.727730929851532	harmful stereotype
-7349	nothate	0.009774744510650635	contempt self admission intolerance
-7550	hate	0.9831753969192505	contempt shouldnt exist
-3974	hate	0.9689019918441772	hatecrime victim
-6655	nothate	0.3198513388633728	deviating norm
-9452	hate	0.8325961232185364	curse genitalia
-4992	hate	0.5578920841217041	attacking intellectual capability
-7240	nothate	0.1083366870880127	contempt self admission intolerance
-7278	nothate	0.03464776277542114	contempt self admission intolerance
-7500	hate	0.9648556113243103	contempt shouldnt exist
-10848	nothate	0.00021833181381225586	economic exclusion
-7872	hate	0.9978653788566589	contempt despise hate
-8796	nothate	0.23168885707855225	disgust vomit
-12141	hate	0.8202257752418518	spread virus
-12054	hate	0.9765000343322754	spread virus
-8548	hate	0.9985734224319458	curse sexual
-4183	nothate	0.014141738414764404	hatecrime victim
-8525	hate	0.9983307719230652	curse sexual
-9624	hate	0.9734331369400024	curse profane
-6317	hate	0.9021603465080261	less than adequate
-5787	hate	0.9989293217658997	attacking character trait
-2741	hate	0.7974823117256165	criminal
-5463	hate	0.9010629653930664	attacking mental health
-3328	hate	0.9942440390586853	deny existence
-9979	nothate	0.0078621506690979	segregation
-2262	hate	0.9807761907577515	sexual predator
-4659	nothate	0.32944750785827637	attacking appearance
-2268	hate	0.989736795425415	sexual predator
-11734	nothate	0.03703129291534424	attack concept associated protected characteristics
-5474	nothate	0.047640204429626465	attacking mental health
-4882	hate	0.9693394303321838	attacking intellectual capability
-8291	nothate	0.0140305757522583	contempt despise dislike
-10092	nothate	0.46263235807418823	segregation
-4122	hate	0.9605345726013184	hatecrime victim
-4030	hate	0.9768576622009277	hatecrime victim
-9664	hate	0.9746975898742676	curse profane
-725	nothate	0.26332688331604004	insects
-11446	nothate	0.000989675521850586	change sexual
-10938	nothate	0.00013017654418945312	economic exclusion
-2561	hate	0.9779672622680664	subhumanity
-7548	hate	0.9834407567977905	contempt shouldnt exist
-10884	nothate	0.0020604729652404785	economic exclusion
-324	hate	0.6597404479980469	violent speech
-10898	nothate	0.0005731582641601562	economic exclusion
-2838	nothate	0.025822758674621582	criminal
-2264	hate	0.9541409611701965	sexual predator
-4110	hate	0.9750899076461792	hatecrime victim
-12087	hate	0.9627504348754883	spread virus
-4138	hate	0.979005753993988	hatecrime victim
-5798	hate	0.9821200966835022	attacking character trait
-4572	hate	0.896895706653595	attacking appearance
-1831	hate	0.9989829659461975	feces
-5401	hate	0.9080870151519775	attacking mental health
-2400	hate	0.9841784834861755	subhumanity
-3949	hate	0.7283205389976501	hatecrime victim
-5154	hate	0.5145290493965149	attacking education
-612	nothate	0.00519484281539917	insects
-3991	hate	0.9911919236183167	hatecrime victim
-5510	hate	0.9737558960914612	attacking mental health
-10234	hate	0.9757300615310669	explicit exclusion
-111	hate	0.9861565828323364	filth
-3992	hate	0.9857771992683411	hatecrime victim
-7292	nothate	0.012397944927215576	contempt self admission intolerance
-6923	nothate	0.07319629192352295	better worse than
-6949	nothate	0.0140305757522583	better worse than
-10934	nothate	0.0016874074935913086	economic exclusion
-1235	hate	0.9909027218818665	disease
-10869	nothate	0.04319453239440918	economic exclusion
-3315	nothate	0.000939786434173584	deny existence
-6785	hate	0.9848218560218811	deviating norm
-10966	nothate	0.0002358555793762207	economic exclusion
-7824	nothate	0.03302651643753052	contempt despise hate
-6620	hate	0.9473528861999512	deviating norm
-9941	hate	0.9881757497787476	segregation
-9625	hate	0.9786148071289062	curse profane
-4844	hate	0.9046740531921387	attacking intellectual capability
-10831	nothate	0.006029367446899414	economic exclusion
-4164	hate	0.8958333730697632	hatecrime victim
-12004	nothate	0.43222731351852417	spread virus
-77	hate	0.5413029193878174	filth
-2503	hate	0.9730839133262634	subhumanity
-6436	nothate	0.3182995915412903	less than adequate
-4025	hate	0.9588731527328491	hatecrime victim
-406	hate	0.8739277720451355	violent speech
-7516	hate	0.9801984429359436	contempt shouldnt exist
-1818	hate	0.9912317395210266	feces
-6623	nothate	0.4819622039794922	deviating norm
-11506	nothate	0.006395399570465088	change sexual
-8441	hate	0.9990212917327881	curse sexual
-6069	hate	0.8662636876106262	attacking derogatory term
-6054	hate	0.9779114127159119	attacking derogatory term
-6739	hate	0.7039738297462463	deviating norm
-4663	nothate	0.03933602571487427	attacking appearance
-3346	nothate	0.046072423458099365	deny existence
-3347	nothate	0.0009895563125610352	deny existence
-3363	nothate	0.0003165006637573242	deny existence
-3365	nothate	0.000354766845703125	deny existence
-3370	nothate	0.007145106792449951	deny existence
-3371	nothate	0.0009646415710449219	deny existence
-3373	nothate	0.0002085566520690918	deny existence
-3375	nothate	0.013294517993927002	deny existence
-3376	nothate	0.028606653213500977	deny existence
-3379	nothate	0.029194176197052002	deny existence
-3380	nothate	0.018602728843688965	deny existence
-3382	nothate	0.0009646415710449219	deny existence
-3383	nothate	0.02468818426132202	deny existence
-3384	nothate	0.0006650090217590332	deny existence
-3386	nothate	0.017749369144439697	deny existence
-3390	nothate	0.017846405506134033	deny existence
-3392	nothate	0.004343628883361816	deny existence
-3393	nothate	0.18348288536071777	deny existence
-7213	nothate	0.349736750125885	contempt self admission intolerance
-7220	hate	0.9630530476570129	contempt self admission intolerance
-7224	nothate	0.21352583169937134	contempt self admission intolerance
-7227	nothate	0.02181220054626465	contempt self admission intolerance
-7231	nothate	0.03555673360824585	contempt self admission intolerance
-7244	nothate	0.00038760900497436523	contempt self admission intolerance
-7246	nothate	0.25924813747406006	contempt self admission intolerance
-7248	nothate	0.0004304051399230957	contempt self admission intolerance
-7250	nothate	0.013858139514923096	contempt self admission intolerance
-7255	nothate	0.0015016794204711914	contempt self admission intolerance
-7257	nothate	0.044455111026763916	contempt self admission intolerance
-7259	nothate	0.10475021600723267	contempt self admission intolerance
-7262	nothate	0.16238725185394287	contempt self admission intolerance
-7266	nothate	0.018628239631652832	contempt self admission intolerance
-7269	nothate	0.0007032155990600586	contempt self admission intolerance
-7271	nothate	0.07229173183441162	contempt self admission intolerance
-7273	nothate	0.008765101432800293	contempt self admission intolerance
-7274	nothate	0.011003255844116211	contempt self admission intolerance
-7282	nothate	0.00243985652923584	contempt self admission intolerance
-7285	nothate	0.002465367317199707	contempt self admission intolerance
-7289	nothate	0.009281337261199951	contempt self admission intolerance
-7298	nothate	0.000629723072052002	contempt self admission intolerance
-7302	nothate	0.00029581785202026367	contempt self admission intolerance
-7307	hate	0.592407763004303	contempt self admission intolerance
-7308	nothate	0.012450695037841797	contempt self admission intolerance
-7309	nothate	0.025226175785064697	contempt self admission intolerance
-7312	nothate	0.035292208194732666	contempt self admission intolerance
-7313	nothate	0.0019380450248718262	contempt self admission intolerance
-7316	nothate	0.19263529777526855	contempt self admission intolerance
-7319	nothate	0.06648474931716919	contempt self admission intolerance
-7322	nothate	0.12264358997344971	contempt self admission intolerance
-7323	nothate	0.021284937858581543	contempt self admission intolerance
-7325	nothate	0.052588582038879395	contempt self admission intolerance
-7328	nothate	0.060200393199920654	contempt self admission intolerance
-7330	nothate	0.0002480149269104004	contempt self admission intolerance
-7332	nothate	0.0742485523223877	contempt self admission intolerance
-7349	nothate	0.009774744510650635	contempt self admission intolerance
-7353	nothate	0.14899283647537231	contempt self admission intolerance
-7354	nothate	0.20330888032913208	contempt self admission intolerance
-7365	nothate	0.10938805341720581	contempt self admission intolerance
-7367	nothate	0.0005503296852111816	contempt self admission intolerance
-7375	nothate	0.018086254596710205	contempt self admission intolerance
-10562	nothate	0.012088656425476074	political exclusion
-10563	nothate	0.00013816356658935547	political exclusion
-10564	nothate	0.057547688484191895	political exclusion
-10565	nothate	0.0022991299629211426	political exclusion
-10566	nothate	0.0013884305953979492	political exclusion
-10567	nothate	0.0010631680488586426	political exclusion
-10568	nothate	0.0019331574440002441	political exclusion
-10569	nothate	0.000964045524597168	political exclusion
-10570	nothate	0.008156359195709229	political exclusion
-10571	nothate	0.0001266002655029297	political exclusion
-10572	nothate	0.0004379153251647949	political exclusion
-10573	nothate	0.007444322109222412	political exclusion
-10574	nothate	0.00015473365783691406	political exclusion
-10575	nothate	0.01220846176147461	political exclusion
-10576	nothate	0.00016999244689941406	political exclusion
-10577	nothate	0.00023192167282104492	political exclusion
-10578	nothate	0.000308990478515625	political exclusion
-10579	nothate	0.000629723072052002	political exclusion
-10580	nothate	0.002132415771484375	political exclusion
-10581	nothate	0.0001493692398071289	political exclusion
-10582	nothate	0.00012958049774169922	political exclusion
-10834	nothate	0.0477900505065918	economic exclusion
-10844	nothate	0.012815415859222412	economic exclusion
-10847	nothate	0.003664374351501465	economic exclusion
-10851	hate	0.513877809047699	economic exclusion
-10861	nothate	0.0531764030456543	economic exclusion
-10862	hate	0.9866163730621338	economic exclusion
-10864	hate	0.9297580122947693	economic exclusion
-10867	hate	0.9612696170806885	economic exclusion
-10869	nothate	0.19943606853485107	economic exclusion
-10876	nothate	0.0059403181076049805	economic exclusion
-10878	nothate	0.0003311634063720703	economic exclusion
-10880	hate	0.978821873664856	economic exclusion
-10887	hate	0.7937110066413879	economic exclusion
-10889	nothate	0.0003820657730102539	economic exclusion
-10892	nothate	0.0020085573196411133	economic exclusion
-10894	nothate	0.04946589469909668	economic exclusion
-10895	nothate	0.0010854005813598633	economic exclusion
-10902	nothate	0.0017717480659484863	economic exclusion
-10905	nothate	0.028363406658172607	economic exclusion
-10911	hate	0.964468240737915	economic exclusion
-10914	nothate	0.4444676637649536	economic exclusion
-10925	nothate	0.0021651387214660645	economic exclusion
-10926	hate	0.9290741086006165	economic exclusion
-10928	nothate	0.0005456805229187012	economic exclusion
-10929	hate	0.9877219796180725	economic exclusion
-10930	nothate	0.0018392205238342285	economic exclusion
-10935	nothate	0.001186966896057129	economic exclusion
-10941	nothate	0.0065544843673706055	economic exclusion
-10945	nothate	0.0015121698379516602	economic exclusion
-10955	nothate	0.00039583444595336914	economic exclusion
-10961	nothate	0.28331226110458374	economic exclusion
-10963	hate	0.9444417357444763	economic exclusion
-10964	hate	0.9739540815353394	economic exclusion
-10965	hate	0.9603145718574524	economic exclusion
-10967	nothate	0.0171239972114563	economic exclusion
-10971	nothate	0.0030693411827087402	economic exclusion
-10979	nothate	0.0011992454528808594	economic exclusion
-10982	nothate	0.0016254186630249023	economic exclusion
-10983	nothate	0.0020340681076049805	economic exclusion
-10984	nothate	0.0013365745544433594	economic exclusion
-10987	nothate	0.0010604262351989746	economic exclusion
-10989	nothate	0.0015075206756591797	economic exclusion
-10991	nothate	0.000996410846710205	economic exclusion
-11435	nothate	0.0017492175102233887	change sexual
-11436	nothate	0.00044280290603637695	change sexual
-11437	nothate	0.0185091495513916	change sexual
-11443	nothate	0.19144636392593384	change sexual
-11448	hate	0.8920799493789673	change sexual
-11452	nothate	0.0005429387092590332	change sexual
-11454	nothate	0.08716177940368652	change sexual
-11456	nothate	0.14818650484085083	change sexual
-11459	nothate	0.22204989194869995	change sexual
-11460	nothate	0.05653136968612671	change sexual
-11464	hate	0.6714189648628235	change sexual
-11465	nothate	0.06376022100448608	change sexual
-11466	nothate	0.0035616159439086914	change sexual
-11467	nothate	0.12921184301376343	change sexual
-11468	nothate	0.000989079475402832	change sexual
-11469	nothate	0.020269334316253662	change sexual
-11471	hate	0.6414919495582581	change sexual
-11472	nothate	0.14818650484085083	change sexual
-11473	nothate	0.0002970099449157715	change sexual
-11476	nothate	0.11604058742523193	change sexual
-11477	nothate	0.014431953430175781	change sexual
-11478	nothate	0.005250155925750732	change sexual
-11479	nothate	0.011052370071411133	change sexual
-11481	nothate	0.3509652614593506	change sexual
-11482	nothate	0.04083120822906494	change sexual
-11485	nothate	0.0026386380195617676	change sexual
-11486	nothate	0.009892821311950684	change sexual
-11487	nothate	0.005191981792449951	change sexual
-11489	nothate	0.004800617694854736	change sexual
-11491	nothate	0.00014543533325195312	change sexual
-11492	nothate	0.0002582669258117676	change sexual
-11493	nothate	0.02086317539215088	change sexual
-11495	nothate	0.00048029422760009766	change sexual
-11496	nothate	0.00023120641708374023	change sexual
-11498	nothate	0.01541292667388916	change sexual
-11499	nothate	0.00014674663543701172	change sexual
-11500	nothate	0.0007449984550476074	change sexual
-11501	nothate	0.0001665353775024414	change sexual
-11502	nothate	0.0017799735069274902	change sexual
-11503	nothate	0.007573843002319336	change sexual
-11506	nothate	0.006395399570465088	change sexual
-11507	nothate	0.00014913082122802734	change sexual
-11511	nothate	0.09866595268249512	change sexual
-11514	nothate	0.006616652011871338	change sexual
-11515	nothate	0.13268357515335083	change sexual
-11518	nothate	0.001051485538482666	change sexual
-11519	nothate	0.04209280014038086	change sexual
-12160	hate	0.9605985879898071	disease
-12161	hate	0.983346700668335	disease
-12162	hate	0.974035382270813	disease
-12163	hate	0.9894288182258606	disease
-12164	hate	0.9172449707984924	disease
-12165	hate	0.9706467986106873	disease
-12166	hate	0.9440193772315979	disease
-12167	hate	0.9699928760528564	disease
-12168	hate	0.990962564945221	disease
-12169	nothate	0.009312570095062256	disease
-12170	nothate	0.00826573371887207	disease
-12171	nothate	0.12996739149093628	disease
-12172	nothate	0.021526813507080078	disease
-12173	hate	0.91550612449646	disease
-12174	hate	0.9010716080665588	disease
-12175	nothate	0.4512205719947815	disease
-12176	hate	0.9764517545700073	disease
-12177	nothate	0.03701573610305786	disease
-12178	hate	0.958003580570221	disease
-12179	hate	0.9763538837432861	disease
-12180	nothate	0.006899237632751465	disease
-12181	hate	0.9834279417991638	disease
-12182	nothate	0.004805624485015869	disease
-12183	hate	0.9833568334579468	disease
-12184	hate	0.9526129961013794	disease
-12185	hate	0.9559661746025085	disease
-12186	hate	0.9156842231750488	certain objects
-12187	nothate	0.4589628577232361	certain objects
-12188	nothate	0.22700715065002441	certain objects
-12189	nothate	0.42673182487487793	certain objects
-12190	hate	0.9779143333435059	certain objects
-12191	hate	0.9866047501564026	certain objects
-12192	nothate	0.01208573579788208	certain objects
-12193	nothate	0.0004900693893432617	certain objects
-12194	nothate	0.03666728734970093	certain objects
-12195	nothate	0.00112074613571167	certain objects
-12196	hate	0.7466191649436951	certain objects
-12197	nothate	0.03696995973587036	certain objects
-12198	hate	0.9385995864868164	certain objects
-12199	nothate	0.01055985689163208	certain objects
-12200	nothate	0.012204408645629883	certain objects
-12201	nothate	0.09285533428192139	certain objects
-12202	nothate	0.005415737628936768	certain objects
-12203	nothate	0.017093002796173096	certain objects
-12204	nothate	0.0003465414047241211	certain objects
-12205	nothate	0.0016654133796691895	certain objects
-12206	nothate	0.001671135425567627	certain objects
-12207	nothate	0.010638773441314697	certain objects
-12208	nothate	0.006385445594787598	certain objects
-12209	nothate	0.14067119359970093	certain objects
-12210	nothate	0.03666728734970093	certain objects
-12211	hate	0.5507266521453857	certain objects
-12212	nothate	0.0005595088005065918	certain objects
-12213	nothate	0.003338456153869629	certain objects
-12214	nothate	0.0009769201278686523	certain objects
-12215	nothate	0.337191641330719	certain objects
-12216	nothate	0.0005533099174499512	certain objects
-12217	nothate	0.002733469009399414	certain objects
-12218	nothate	0.0003070831298828125	certain objects
-12219	hate	0.9698609709739685	contempt shouldnt exist
-12220	nothate	0.026327669620513916	contempt shouldnt exist
-12221	hate	0.9744356870651245	contempt shouldnt exist
-12222	nothate	0.0018060803413391113	contempt shouldnt exist
-12223	hate	0.9835953712463379	contempt shouldnt exist
-12224	hate	0.8891960382461548	contempt shouldnt exist
-12225	hate	0.9727897047996521	contempt shouldnt exist
-12226	hate	0.9496748447418213	contempt shouldnt exist
-12227	hate	0.5970802903175354	contempt shouldnt exist
-12228	nothate	0.09536141157150269	contempt shouldnt exist
-12229	hate	0.7016550898551941	contempt shouldnt exist
+7035	hate	0.9682097434997559	dynahate
+9668	hate	0.9271489381790161	dynahate
+4862	hate	0.9970370531082153	dynahate
+7504	nothate	0.07503527402877808	dynahate
+483	nothate	0.07252520322799683	dynahate
+2447	hate	0.9607700109481812	dynahate
+7288	nothate	0.10425931215286255	gpt
+7032	nothate	0.004121184349060059	dynahate
+1765	hate	0.5983618497848511	manual
+328	hate	0.9503756761550903	dynahate
+8809	nothate	0.15610772371292114	dynahate
+8268	hate	0.6239493489265442	dynahate
+6724	nothate	0.02893131971359253	dynahate
+7074	nothate	0.39128613471984863	dynahate
+3306	nothate	0.24483728408813477	dynahate
+4359	hate	0.9658992290496826	dynahate
+10895	nothate	0.0010854005813598633	gpt
+11843	nothate	0.06413155794143677	dynahate
+11813	nothate	0.03317439556121826	dynahate
+6966	hate	0.9226710796356201	dynahate
+10260	hate	0.9706166982650757	dynahate
+6979	hate	0.9919179081916809	dynahate
+3976	nothate	0.0545496940612793	hatecheck
+7949	nothate	0.0017635822296142578	dynahate
+6112	hate	0.6683264970779419	dynahate
+11811	nothate	0.05760878324508667	dynahate
+4068	hate	0.9689056873321533	hatecheck
+5466	nothate	0.32072484493255615	dynahate
+6706	nothate	0.08495134115219116	dynahate
+10363	hate	0.9260011315345764	dynahate
+10524	nothate	0.005939185619354248	dynahate
+624	hate	0.950618326663971	dynahate
+78	hate	0.9211541414260864	hatecheck
+12066	nothate	0.015189409255981445	asonam
+1800	hate	0.9932885766029358	dynahate
+5442	hate	0.8378744721412659	dynahate
+990	hate	0.9716368317604065	dynahate
+2465	hate	0.8929269909858704	dynahate
+1524	hate	0.7526675462722778	dynahate
+8426	hate	0.979343056678772	dynahate
+489	hate	0.9236835837364197	dynahate
+1551	hate	0.9990241527557373	dynahate
+3950	nothate	0.1597912311553955	dynahate
+6303	hate	0.7345390915870667	dynahate
+8171	hate	0.9330601096153259	dynahate
+11776	hate	0.5416427850723267	dynahate
+10052	hate	0.9812074899673462	manual
+463	nothate	0.019388794898986816	hatecheck
+3961	hate	0.5239897966384888	dynahate
+989	nothate	0.030852854251861572	dynahate
+11781	hate	0.9599223732948303	dynahate
+906	hate	0.9454053044319153	dynahate
+6063	hate	0.7941094040870667	dynahate
+10535	nothate	0.003733694553375244	dynahate
+34	nothate	0.03625071048736572	dynahate
+11832	hate	0.9528923034667969	dynahate
+315	nothate	0.4407009482383728	dynahate
+3011	nothate	0.25370877981185913	dynahate
+6687	nothate	0.10501277446746826	dynahate
+995	hate	0.9300680160522461	dynahate
+5797	hate	0.9579510688781738	gpt
+626	hate	0.9814380407333374	dynahate
+6727	nothate	0.001340627670288086	dynahate
+4289	hate	0.9592330455780029	dynahate
+9014	nothate	0.07496792078018188	dynahate
+10553	nothate	0.017498910427093506	hatecheck
+6695	hate	0.9114344716072083	dynahate
+6625	hate	0.9680267572402954	dynahate
+9187	nothate	0.2738584876060486	dynahate
+2542	nothate	0.2827072739601135	FRENK
+11805	nothate	0.07550132274627686	dynahate
+6696	nothate	0.0034606456756591797	dynahate
+6944	nothate	0.006793975830078125	dynahate
+5468	hate	0.9909220337867737	dynahate
+2778	hate	0.9393226504325867	dynahate
+7224	nothate	0.21352726221084595	gpt
+11162	hate	0.9817224144935608	dynahate
+7079	nothate	0.003054797649383545	gpt
+399	hate	0.9166477918624878	dynahate
+7001	hate	0.5462034344673157	dynahate
+14475	hate	0.5636644959449768	dynahate
+11728	nothate	0.08441239595413208	dynahate
+732	hate	0.906647264957428	dynahate
+1533	hate	0.8171094059944153	dynahate
+5424	nothate	0.02047419548034668	dynahate
+10580	nothate	0.002132415771484375	gpt
+9915	nothate	0.0036714673042297363	dynahate
+6428	nothate	0.000550687313079834	dynahate
+716	hate	0.7551002502441406	dynahate
+10326	nothate	0.00019699335098266602	dynahate
+488	hate	0.9338783621788025	dynahate
+6675	hate	0.5161267518997192	dynahate
+6351	hate	0.9821305871009827	dynahate
+7269	nothate	0.0007032155990600586	gpt
+9066	nothate	0.286567747592926	hatecheck
+7917	nothate	0.015927493572235107	dynahate
+699	nothate	0.0004703998565673828	dynahate
+9624	hate	0.9734331369400024	dynahate
+4003	hate	0.996476948261261	hatecheck
+2864	hate	0.5516244173049927	toxic span
+6636	nothate	0.141338050365448	dynahate
+6626	nothate	0.1392938494682312	dynahate
+8225	hate	0.9843825697898865	dynahate
+2713	nothate	0.0020754337310791016	dynahate
+8276	hate	0.9904138445854187	dynahate
+11808	nothate	0.3166348338127136	dynahate
+4281	hate	0.8304532766342163	dynahate
+3962	hate	0.7225367426872253	dynahate
+10372	nothate	0.008287668228149414	dynahate
+9058	hate	0.8473192453384399	dynahate
+6628	hate	0.9936229586601257	dynahate
+7938	nothate	0.45502573251724243	dynahate
+8800	nothate	0.06825453042984009	dynahate
+731	hate	0.7210724353790283	dynahate
+5700	hate	0.9184244871139526	dynahate
+359	nothate	0.05071365833282471	dynahate
+2700	hate	0.9790605902671814	dynahate
+10262	hate	0.9567461609840393	dynahate
+4971	hate	0.9552786946296692	dynahate
+6162	hate	0.976020336151123	dynahate
+7529	nothate	0.06274336576461792	dynahate
+3952	hate	0.6395388841629028	dynahate
+4240	nothate	0.04897397756576538	dynahate
+2285	hate	0.9767995476722717	gpt
+1775	nothate	0.029743611812591553	manual
+3695	nothate	0.0030332207679748535	dynahate
+9060	nothate	0.35364800691604614	dynahate
+4200	hate	0.9922992587089539	dynahate
+4574	hate	0.719048798084259	dynahate
+1002	hate	0.9861371517181396	dynahate
+3694	nothate	0.0085676908493042	dynahate
+5114	nothate	0.034479618072509766	dynahate
+3003	nothate	0.0005807876586914062	dynahate
+4841	hate	0.9541523456573486	dynahate
+111	hate	0.9861564636230469	hatecheck
+3956	nothate	0.3947647213935852	dynahate
+11838	nothate	0.13085341453552246	dynahate
+3372	nothate	0.007606863975524902	gpt
+7337	nothate	0.00032699108123779297	gpt
+2490	hate	0.8845701813697815	dynahate
+420	nothate	0.0916394591331482	dynahate
+401	nothate	0.038996219635009766	dynahate
+10921	nothate	0.0027397871017456055	gpt
+2761	nothate	0.0009558796882629395	dynahate
+991	hate	0.9753299355506897	dynahate
+1815	hate	0.9910981059074402	dynahate
+5416	hate	0.9706211686134338	dynahate
+3000	nothate	0.003623783588409424	dynahate
+9466	hate	0.942107081413269	dynahate
+10274	nothate	0.012031912803649902	dynahate
+2805	nothate	0.11502528190612793	dynahate
+7026	nothate	0.02074486017227173	dynahate
+903	hate	0.9605448246002197	dynahate
+6470	nothate	0.005425870418548584	dynahate
+726	nothate	0.002330601215362549	dynahate
+10231	hate	0.7653146982192993	dynahate
+7010	hate	0.9466829895973206	dynahate
+11831	nothate	0.023719072341918945	dynahate
+6030	hate	0.9809870719909668	dynahate
+6994	nothate	0.24464881420135498	dynahate
+6632	hate	0.9891031980514526	dynahate
+3922	hate	0.5201712250709534	dynahate
+697	nothate	0.10944920778274536	toxic span
+2245	nothate	0.15846091508865356	dynahate
+3007	hate	0.9809870719909668	dynahate
+8702	nothate	0.3139995336532593	dynahate
+325	hate	0.8059117197990417	dynahate
+5472	hate	0.7712830901145935	dynahate
+6977	nothate	0.4307304620742798	dynahate
+11152	hate	0.9693788290023804	dynahate
+11800	hate	0.9948822259902954	dynahate
+11198	hate	0.597655713558197	dynahate
+11743	hate	0.8827725648880005	dynahate
+604	hate	0.9730831384658813	dynahate
+9954	nothate	0.12016606330871582	dynahate
+2251	nothate	0.10291159152984619	dynahate
+2104	hate	0.9864523410797119	dynahate
+4908	hate	0.8796776533126831	dynahate
+4559	hate	0.9803928732872009	dynahate
+2702	hate	0.9730642437934875	dynahate
+10913	nothate	0.0006303191184997559	gpt
+6983	hate	0.9746106266975403	dynahate
+2468	nothate	0.016408562660217285	dynahate
+5440	hate	0.9739044308662415	dynahate
+4704	nothate	0.04170835018157959	dynahate
+11774	hate	0.9777514934539795	dynahate
+11810	nothate	0.406180739402771	dynahate
+11821	nothate	0.0036143064498901367	dynahate
+11459	nothate	0.22204911708831787	gpt
+6493	hate	0.9913225173950195	dynahate
+14545	hate	0.9941835999488831	dynahate
+9950	nothate	0.0008763670921325684	dynahate
+7314	nothate	0.004550158977508545	gpt
+9955	nothate	0.008971750736236572	dynahate
+8185	nothate	0.0020923614501953125	dynahate
+7511	nothate	0.01090329885482788	dynahate
+6712	nothate	0.0002716183662414551	dynahate
+621	hate	0.8697367310523987	dynahate
+4995	nothate	0.02053457498550415	dynahate
+3637	hate	0.7722105383872986	dynahate
+8700	nothate	0.005338847637176514	dynahate
+14470	hate	0.985149621963501	dynahate
+8205	nothate	0.015179991722106934	dynahate
+10903	nothate	0.000506281852722168	gpt
+11790	nothate	0.42766183614730835	dynahate
+6494	nothate	0.0016486644744873047	dynahate
+2226	hate	0.8839481472969055	dynahate
+9686	hate	0.9786161780357361	dynahate
+10348	nothate	0.1820414662361145	dynahate
+5107	nothate	0.03709566593170166	dynahate
+13995	hate	0.8784697651863098	dynahate
+2480	hate	0.9104844927787781	dynahate
+4169	nothate	0.11428934335708618	hatecheck
+4858	hate	0.9989387392997742	dynahate
+2481	hate	0.6950308680534363	dynahate
+8269	hate	0.9227213859558105	dynahate
+6039	nothate	0.19515955448150635	dynahate
+6029	hate	0.8866166472434998	dynahate
+7514	nothate	0.2040812373161316	dynahate
+969	nothate	0.033956944942474365	dynahate
+6311	hate	0.9931381344795227	dynahate
+7935	nothate	0.38085412979125977	dynahate
+16087	hate	0.5991806983947754	hatecheck
+6455	hate	0.9793010950088501	dynahate
+2458	hate	0.9406178593635559	dynahate
+7024	hate	0.9503781795501709	dynahate
+3044	hate	0.9757546782493591	dynahate
+9951	nothate	0.0011749863624572754	dynahate
+4222	hate	0.9888437986373901	dynahate
+11772	nothate	0.34545671939849854	dynahate
+14433	hate	0.9916507601737976	dynahate
+6098	hate	0.9942048192024231	dynahate
+4866	hate	0.748269259929657	dynahate
+410	nothate	0.31078118085861206	dynahate
+2584	nothate	0.0065926313400268555	gpt
+14480	hate	0.6409399509429932	dynahate
+6114	hate	0.9545819163322449	dynahate
+1849	hate	0.9898902177810669	manual
+11121	nothate	0.004101693630218506	dynahate
+3989	hate	0.9948541522026062	hatecheck
+3704	nothate	0.25056493282318115	gpt
+728	hate	0.9719278216362	dynahate
+6673	hate	0.6538982391357422	dynahate
+4618	hate	0.9659245014190674	dynahate
+2827	nothate	0.44159096479415894	dynahate
+1912	hate	0.9927725195884705	manual
+10053	hate	0.560812771320343	manual
+9934	nothate	0.005734622478485107	dynahate
+11142	hate	0.9172254204750061	dynahate
+1001	nothate	0.01113969087600708	dynahate
+7058	hate	0.9368717074394226	dynahate
+393	hate	0.9877001047134399	dynahate
+9904	nothate	0.38733214139938354	dynahate
+3369	nothate	0.01444786787033081	gpt
+11782	hate	0.9805963039398193	dynahate
+9463	hate	0.6343898177146912	dynahate
+10255	hate	0.9875741600990295	dynahate
+6449	nothate	0.10644066333770752	dynahate
+8281	nothate	0.17961692810058594	dynahate
+4220	nothate	0.17063134908676147	dynahate
+4244	hate	0.8662633299827576	dynahate
+4167	nothate	0.10464173555374146	hatecheck
+4367	hate	0.9428268671035767	dynahate
+2522	hate	0.9701523780822754	dynahate
+5100	hate	0.9670011401176453	dynahate
+7202	nothate	0.0761113166809082	dynahate
+4859	hate	0.6796305775642395	dynahate
+10358	hate	0.9348273873329163	dynahate
+4836	hate	0.924583375453949	dynahate
+346	hate	0.5550467371940613	dynahate
+4020	hate	0.9815273880958557	hatecheck
+979	hate	0.944756269454956	dynahate
+738	hate	0.9199770092964172	dynahate
+7046	nothate	0.3097240924835205	dynahate
+2466	hate	0.9625222086906433	dynahate
+11190	hate	0.930336594581604	dynahate
+14471	hate	0.9874221086502075	dynahate
+702	nothate	0.4965835213661194	dynahate
+643	hate	0.9200482368469238	toxic span
+11132	hate	0.9121605753898621	dynahate
+4568	hate	0.9940880537033081	dynahate
+10279	hate	0.7284704446792603	dynahate
+976	hate	0.7939088344573975	dynahate
+6446	nothate	0.0527951717376709	dynahate
+491	hate	0.9245927333831787	dynahate
+1529	nothate	0.2222716212272644	dynahate
+2756	hate	0.9934595823287964	dynahate
+9939	nothate	0.12265747785568237	dynahate
+10293	nothate	0.48733723163604736	dynahate
+6349	hate	0.9809626340866089	dynahate
+8261	nothate	0.23367053270339966	dynahate
+4291	hate	0.9896079897880554	dynahate
+4967	nothate	0.17458105087280273	dynahate
+319	nothate	0.2993916869163513	dynahate
+11788	nothate	0.2513815760612488	dynahate
+2779	hate	0.7965216636657715	dynahate
+9039	hate	0.9121535420417786	dynahate
+5124	nothate	0.2496488094329834	dynahate
+7995	nothate	0.4217895269393921	dynahate
+6124	hate	0.9471282362937927	dynahate
+340	nothate	0.47985488176345825	dynahate
+7050	nothate	0.040216803550720215	dynahate
+11809	hate	0.9007796049118042	dynahate
+2512	nothate	0.03186666965484619	dynahate
+5730	hate	0.9538164734840393	dynahate
+6353	hate	0.9458884596824646	dynahate
+12075	hate	0.9860913157463074	asonam
+8162	nothate	0.4473477005958557	dynahate
+8259	nothate	0.035528361797332764	dynahate
+4680	hate	0.9933664202690125	dynahate
+10862	hate	0.9866163730621338	gpt
+2405	hate	0.9954932928085327	dynahate
+7009	hate	0.9877780079841614	dynahate
+448	hate	0.9691977500915527	hatecheck
+11804	nothate	0.10863977670669556	dynahate
+1249	hate	0.9844006896018982	dynahate
+999	hate	0.7304112911224365	dynahate
+11829	nothate	0.10822296142578125	dynahate
+9957	nothate	0.00019210577011108398	dynahate
+606	hate	0.9881812334060669	dynahate
+16278	nothate	0.017093122005462646	gpt
+9744	hate	0.992284893989563	dynahate
+7298	nothate	0.000629723072052002	gpt
+6725	hate	0.6154518127441406	dynahate
+2524	hate	0.9332654476165771	dynahate
+10336	nothate	0.004655420780181885	dynahate
+3391	nothate	0.016600310802459717	gpt
+3988	hate	0.9843000769615173	hatecheck
+9658	hate	0.5566120743751526	dynahate
+4245	hate	0.9730576276779175	dynahate
+998	hate	0.9598716497421265	dynahate
+10577	nothate	0.00023192167282104492	gpt
+4685	hate	0.9870916604995728	dynahate
+2517	hate	0.9734323620796204	dynahate
+2118	hate	0.9734523892402649	dynahate
+3607	hate	0.951365053653717	dynahate
+8470	nothate	0.09326434135437012	hatecheck
+10366	nothate	0.1659787893295288	dynahate
+11177	hate	0.9892306923866272	dynahate
+10526	nothate	0.0723004937171936	dynahate
+2789	nothate	0.0007882118225097656	dynahate
+8288	hate	0.6680321097373962	dynahate
+9338	hate	0.9823265671730042	dynahate
+11702	hate	0.9232122898101807	dynahate
+10203	hate	0.9852628707885742	dynahate
+5106	hate	0.8951011896133423	dynahate
+2270	hate	0.9895727038383484	gpt
+12132	nothate	0.007154881954193115	asonam
+5713	hate	0.9716343283653259	dynahate
+7071	hate	0.9103540182113647	dynahate
+1235	hate	0.9909027218818665	dynahate
+8444	hate	0.9989620447158813	manual
+3302	nothate	0.008559107780456543	dynahate
+3316	nothate	0.0023036599159240723	dynahate
+9401	hate	0.9430059194564819	dynahate
+9730	hate	0.9898001551628113	dynahate
+12044	hate	0.9056642055511475	asonam
+11183	nothate	0.17552024126052856	dynahate
+9115	hate	0.9750351905822754	dynahate
+7006	nothate	0.44317466020584106	dynahate
+8263	nothate	0.12452417612075806	dynahate
+3009	hate	0.9231541752815247	dynahate
+6160	hate	0.8999251127243042	dynahate
+4006	hate	0.9856207370758057	hatecheck
+11150	hate	0.9701091051101685	dynahate
+6686	hate	0.8601405024528503	dynahate
+9976	hate	0.6362592577934265	dynahate
+9600	hate	0.9982947707176208	dynahate
+11807	nothate	0.12422758340835571	dynahate
+8790	nothate	0.004579782485961914	dynahate
+493	hate	0.9819475412368774	dynahate
+12088	nothate	0.34368377923965454	asonam
+8788	nothate	0.0029219388961791992	dynahate
+14446	nothate	0.2920275926589966	dynahate
+7127	nothate	0.0023962855339050293	gpt
+2435	nothate	0.494911789894104	dynahate
+10961	nothate	0.0006040334701538086	gpt
+10545	nothate	0.19972693920135498	hatecheck
+993	hate	0.9766125679016113	dynahate
+11850	nothate	0.3998345732688904	dynahate
+6710	hate	0.9911060929298401	dynahate
+2431	hate	0.9721036553382874	dynahate
+7860	hate	0.9967857599258423	dynahate
+6076	hate	0.9905858635902405	dynahate
+1807	hate	0.980348527431488	dynahate
+8864	hate	0.9764671921730042	manual
+6971	hate	0.9757598042488098	dynahate
+427	hate	0.9241031408309937	dynahate
+2823	hate	0.9933266639709473	dynahate
+6445	hate	0.9564682245254517	dynahate
+9116	hate	0.9734795093536377	dynahate
+4185	hate	0.9734864830970764	hatecheck
+749	hate	0.9840456247329712	dynahate
+10525	hate	0.9857938885688782	dynahate
+9606	hate	0.9830728769302368	dynahate
+3942	hate	0.9962947964668274	dynahate
+2169	hate	0.9270005822181702	dynahate
+2549	hate	0.9448988437652588	FRENK
+11704	nothate	0.47368282079696655	dynahate
+10291	hate	0.9944325089454651	dynahate
+4842	hate	0.9545397758483887	dynahate
+6965	hate	0.9759485721588135	dynahate
+7918	nothate	0.16286689043045044	dynahate
+7002	hate	0.8692795038223267	dynahate
+11436	nothate	0.00044280290603637695	gpt
+10328	nothate	0.0013106465339660645	dynahate
+11844	nothate	0.11137878894805908	dynahate
+2588	nothate	0.23454028367996216	gpt
+11118	nothate	0.008963346481323242	manual
+4102	hate	0.9795238375663757	hatecheck
+5160	hate	0.9708529114723206	manual
+11410	nothate	0.280128538608551	dynahate
+8418	hate	0.9946329593658447	dynahate
+6732	nothate	0.00019496679306030273	dynahate
+733	nothate	0.002994239330291748	dynahate
+8114	nothate	0.08865201473236084	dynahate
+3999	hate	0.5038485527038574	hatecheck
+2513	hate	0.9889112710952759	dynahate
+6077	hate	0.9700160026550293	dynahate
+7359	nothate	0.03434300422668457	gpt
+6722	nothate	0.4213913679122925	dynahate
+9182	hate	0.939598560333252	dynahate
+4831	hate	0.9074108600616455	dynahate
+12157	hate	0.9659984707832336	asonam
+9389	hate	0.9810097217559814	dynahate
+3303	nothate	0.035131871700286865	dynahate
+11205	nothate	0.42907655239105225	dynahate
+495	nothate	0.09921056032180786	dynahate
+4628	hate	0.9631386399269104	dynahate
+6055	hate	0.9962114095687866	dynahate
+16282	nothate	0.010638892650604248	gpt
+13009	nothate	0.3466328978538513	dynahate
+2735	nothate	0.08441239595413208	dynahate
+10569	nothate	0.000964045524597168	gpt
+16249	hate	0.9010716080665588	gpt
+6155	hate	0.9536942839622498	dynahate
+5415	hate	0.9220958352088928	dynahate
+2436	nothate	0.010743319988250732	dynahate
+10356	hate	0.9139487147331238	dynahate
+3677	nothate	0.3898659944534302	dynahate
+9303	hate	0.9081463813781738	dynahate
+3748	hate	0.8596401214599609	gpt
+6017	hate	0.8470056653022766	dynahate
+6381	nothate	0.0008478164672851562	dynahate
+1502	hate	0.982239842414856	dynahate
+10214	nothate	0.002728879451751709	dynahate
+981	hate	0.9697623252868652	dynahate
+6723	nothate	0.028757154941558838	dynahate
+7547	hate	0.5320029854774475	ethos
+5433	hate	0.988884687423706	dynahate
+6924	nothate	0.1418653130531311	dynahate
+2903	hate	0.8013839721679688	toxic span
+11517	nothate	0.00022453069686889648	gpt
+9649	hate	0.9955184459686279	dynahate
+60	hate	0.9402194619178772	dynahate
+4800	hate	0.9753842353820801	dynahate
+3323	nothate	0.0019571781158447266	dynahate
+8262	hate	0.9777227640151978	dynahate
+2247	hate	0.8462048172950745	dynahate
+11795	nothate	0.41924309730529785	dynahate
+11451	nothate	0.36790668964385986	gpt
+10911	nothate	0.0318412184715271	gpt
+6997	nothate	0.0054402947425842285	dynahate
+10338	nothate	0.23765701055526733	dynahate
+7515	nothate	0.08032435178756714	dynahate
+7333	nothate	0.0019107460975646973	gpt
+11710	nothate	0.11343586444854736	dynahate
+7038	hate	0.9777790307998657	dynahate
+11836	nothate	0.030970990657806396	dynahate
+108	nothate	0.48613226413726807	hatecheck
+6109	hate	0.9438986778259277	dynahate
+1013	hate	0.9770416617393494	dynahate
+31	nothate	0.24231183528900146	dynahate
+3345	nothate	0.001326441764831543	gpt
+3951	nothate	0.20388925075531006	dynahate
+11837	nothate	0.016986370086669922	dynahate
+703	hate	0.5883172154426575	dynahate
+2729	nothate	0.004512369632720947	dynahate
+8464	hate	0.9929723739624023	manual
+10200	nothate	0.02443629503250122	dynahate
+14477	hate	0.9238859415054321	dynahate
+1598	hate	0.6986814141273499	dynahate
+2415	hate	0.9954990744590759	dynahate
+3788	hate	0.8936148881912231	gpt
+1008	hate	0.9750648736953735	dynahate
+741	hate	0.9522459506988525	dynahate
+8251	nothate	0.10808372497558594	dynahate
+11791	hate	0.5463024377822876	dynahate
+6070	hate	0.9850611090660095	dynahate
+9129	hate	0.9887740612030029	dynahate
+11169	nothate	0.062190890312194824	dynahate
+2760	nothate	0.004220366477966309	dynahate
+484	nothate	0.1250978708267212	dynahate
+11797	nothate	0.18648815155029297	dynahate
+9656	hate	0.9893696308135986	dynahate
+4837	hate	0.8845799565315247	dynahate
+5701	nothate	0.0005900859832763672	dynahate
+5467	hate	0.9153469204902649	dynahate
+5401	hate	0.9080867767333984	dynahate
+11792	hate	0.7872941493988037	dynahate
+9493	hate	0.9864230751991272	dynahate
+4353	hate	0.9548797607421875	dynahate
+8482	hate	0.994831919670105	hate offensive
+4683	hate	0.961024284362793	dynahate
+907	hate	0.9760889410972595	dynahate
+6091	hate	0.9744599461555481	dynahate
+14445	hate	0.8808661103248596	dynahate
+4617	hate	0.8982018232345581	dynahate
+3311	nothate	0.00877290964126587	dynahate
+9630	hate	0.9917627573013306	dynahate
+6401	hate	0.9201077818870544	dynahate
+11824	hate	0.8475564122200012	dynahate
+11783	hate	0.8074591755867004	dynahate
+1530	nothate	0.2705584764480591	dynahate
+6747	nothate	0.06964963674545288	toxic span
+5403	hate	0.8389098644256592	dynahate
+1763	hate	0.9636720418930054	manual
+8783	hate	0.9967857599258423	dynahate
+14422	hate	0.7239513993263245	dynahate
+10309	hate	0.6017102599143982	dynahate
+11124	hate	0.8810245990753174	dynahate
+7124	nothate	0.0005140304565429688	gpt
+2815	nothate	0.008383691310882568	dynahate
+7052	hate	0.6712785363197327	dynahate
+12054	hate	0.9764999151229858	asonam
+7521	nothate	0.06247764825820923	dynahate
+7073	hate	0.8334375619888306	dynahate
+11766	nothate	0.3009180426597595	dynahate
+6403	hate	0.9157057404518127	dynahate
+908	hate	0.9801156520843506	dynahate
+2471	hate	0.9640944600105286	dynahate
+3367	nothate	0.0003654956817626953	gpt
+10931	nothate	0.0021134018898010254	gpt
+3964	nothate	0.03685981035232544	dynahate
+4667	hate	0.9983589053153992	dynahate
+353	hate	0.9930114150047302	dynahate
+2727	nothate	0.003973126411437988	dynahate
+6031	hate	0.9872730374336243	dynahate
+10280	nothate	0.05451357364654541	dynahate
+4118	nothate	0.14949244260787964	hatecheck
+1211	nothate	0.2916967272758484	dynahate
+6437	hate	0.9916538596153259	dynahate
+123	nothate	0.09786224365234375	hatecheck
+11166	nothate	0.11959636211395264	dynahate
+11184	nothate	0.32504570484161377	dynahate
+10247	hate	0.7949649691581726	dynahate
+2168	nothate	0.20201236009597778	dynahate
+6936	hate	0.7270210981369019	dynahate
+2538	hate	0.9929484128952026	toxic span
+10295	hate	0.8279290795326233	dynahate
+8855	nothate	0.40374845266342163	toxic span
+6161	hate	0.8490881323814392	dynahate
+383	nothate	0.33538973331451416	dynahate
+6991	hate	0.6346900463104248	dynahate
+7036	hate	0.9909714460372925	dynahate
+9980	nothate	0.0011698603630065918	dynahate
+6122	hate	0.9601345062255859	dynahate
+471	hate	0.9654972553253174	hatecheck
+8744	nothate	0.48733723163604736	dynahate
+10390	nothate	0.013260126113891602	gpt
+6136	hate	0.9355306029319763	dynahate
+3621	nothate	0.0016412138938903809	dynahate
+11828	nothate	0.04882395267486572	dynahate
+11477	nothate	0.014432072639465332	gpt
+620	hate	0.5459729433059692	dynahate
+4599	hate	0.9773993492126465	dynahate
+14718	hate	0.9752206206321716	dynahate
+370	hate	0.9959326386451721	dynahate
+4861	hate	0.9746508002281189	dynahate
+1227	hate	0.9842687845230103	dynahate
+7330	nothate	0.0002480149269104004	gpt
+4140	nothate	0.019323348999023438	hatecheck
+7509	nothate	0.013478219509124756	dynahate
+6988	nothate	0.08429336547851562	dynahate
+321	nothate	0.002735614776611328	dynahate
+6667	hate	0.982560932636261	dynahate
+2439	nothate	0.004339277744293213	dynahate
+5111	nothate	0.12260633707046509	dynahate
+7953	hate	0.9731771349906921	dynahate
+8732	hate	0.9719975590705872	dynahate
+7228	hate	0.9362371563911438	gpt
+11713	nothate	0.19712191820144653	dynahate
+2180	hate	0.9768178462982178	dynahate
+9667	hate	0.8652372360229492	dynahate
+3640	hate	0.7634389996528625	dynahate
+3322	nothate	0.4076908230781555	dynahate
+6610	nothate	0.06866127252578735	dynahate
+7923	hate	0.7814916372299194	dynahate
+4536	hate	0.9189085960388184	dynahate
+6999	hate	0.932237446308136	dynahate
+3618	nothate	0.2998642325401306	dynahate
+8258	hate	0.8703565001487732	dynahate
+1824	hate	0.9925317168235779	hate offensive
+6320	nothate	0.01475989818572998	dynahate
+6705	hate	0.8374954462051392	dynahate
+11444	nothate	0.0028566718101501465	gpt
+14719	hate	0.9773586988449097	dynahate
+10920	nothate	0.0005658268928527832	gpt
+7344	nothate	0.11726135015487671	gpt
+8245	nothate	0.1042223572731018	dynahate
+2258	nothate	0.3624875545501709	gpt
+9136	nothate	0.21807992458343506	dynahate
+9103	nothate	0.15165913105010986	dynahate
+12048	hate	0.9869869947433472	asonam
+7107	nothate	0.03598529100418091	gpt
+2103	hate	0.9857378005981445	dynahate
+9637	hate	0.9024115204811096	dynahate
+16299	hate	0.8891976475715637	gpt
+10368	nothate	0.00101393461227417	dynahate
+5728	nothate	0.4798583388328552	dynahate
+9718	hate	0.9242041110992432	dynahate
+11196	hate	0.9442511200904846	dynahate
+11820	nothate	0.019974350929260254	dynahate
+982	hate	0.8782138228416443	dynahate
+3001	nothate	0.013853967189788818	dynahate
+12104	hate	0.9890282154083252	asonam
+10055	hate	0.9703145623207092	manual
+2807	hate	0.9424142241477966	dynahate
+11812	nothate	0.12832516431808472	dynahate
+4507	hate	0.9751423001289368	dynahate
+11714	hate	0.9039773344993591	dynahate
+11192	hate	0.5905495882034302	dynahate
+2801	hate	0.979907751083374	dynahate
+1539	nothate	0.05263996124267578	dynahate
+2215	hate	0.9555087089538574	dynahate
+2705	hate	0.9857293367385864	dynahate
+902	hate	0.9920651316642761	dynahate
+7045	hate	0.9609240889549255	dynahate
+5109	nothate	0.03979086875915527	dynahate
+2452	nothate	0.20270907878875732	dynahate
+12016	hate	0.9763686656951904	asonam
+6976	nothate	0.1355583667755127	dynahate
+386	hate	0.9979538917541504	dynahate
+7007	hate	0.5466144680976868	dynahate
+1106	nothate	0.005421280860900879	dynahate
+14481	nothate	0.38302820920944214	dynahate
+2764	nothate	0.0003497600555419922	dynahate
+6708	nothate	0.0011020898818969727	dynahate
+2161	nothate	0.24399948120117188	dynahate
+9935	nothate	0.4553232789039612	dynahate
+9727	hate	0.8404468894004822	dynahate
+2234	hate	0.9408954381942749	dynahate
+955	hate	0.9508885741233826	dynahate
+2171	hate	0.6679092049598694	dynahate
+6684	nothate	0.07401973009109497	dynahate
+9123	nothate	0.0644216537475586	dynahate
+7365	nothate	0.10938864946365356	gpt
+6150	hate	0.8831115961074829	dynahate
+10810	nothate	0.0019850730895996094	dynahate
+12120	hate	0.9827587008476257	asonam
+957	nothate	0.1515161395072937	dynahate
+2450	nothate	0.04343152046203613	dynahate
+6981	hate	0.763384997844696	dynahate
+11733	nothate	0.45612114667892456	dynahate
+3932	nothate	0.2064536213874817	dynahate
+6371	hate	0.7942519783973694	dynahate
+16274	nothate	0.01055997610092163	gpt
+6027	nothate	0.1417270302772522	dynahate
+7098	nothate	0.000296175479888916	gpt
+14443	hate	0.6908416748046875	dynahate
+9004	nothate	0.37252724170684814	manual
+4876	nothate	0.47643446922302246	dynahate
+6066	hate	0.9367721080780029	dynahate
+8187	hate	0.9684290289878845	dynahate
+618	hate	0.9874261617660522	dynahate
+2746	hate	0.8272202610969543	dynahate
+7283	nothate	0.0038878321647644043	gpt
+4067	nothate	0.21036720275878906	hatecheck
+11164	hate	0.9625006318092346	dynahate
+3903	nothate	0.0588381290435791	dynahate
+1736	nothate	0.0763053297996521	hatecheck
+11794	hate	0.5634549856185913	dynahate
+974	hate	0.9492548704147339	dynahate
+8765	nothate	0.10377496480941772	dynahate
+5444	hate	0.9766237139701843	dynahate
+2829	hate	0.9631325602531433	dynahate
+3321	hate	0.959152340888977	dynahate
+4331	hate	0.9911081790924072	dynahate
+1209	nothate	0.46288496255874634	dynahate
+1510	hate	0.8956176042556763	dynahate
+717	hate	0.9281273484230042	dynahate
+406	hate	0.8739269375801086	dynahate
+7037	hate	0.9790500998497009	dynahate
+11154	hate	0.9082342982292175	dynahate
+5460	hate	0.8670183420181274	dynahate
+5130	nothate	0.1315872073173523	dynahate
+14468	hate	0.9111939072608948	dynahate
+745	hate	0.8437992930412292	dynahate
+3686	hate	0.9591000080108643	dynahate
+2813	hate	0.9172486662864685	dynahate
+8419	hate	0.9911558628082275	dynahate
+8196	hate	0.9402266144752502	dynahate
+10936	nothate	0.00044792890548706055	gpt
+6680	hate	0.9295992851257324	dynahate
+5722	hate	0.9731437563896179	dynahate
+3941	hate	0.9979538917541504	dynahate
+4644	hate	0.963379442691803	dynahate
+8270	hate	0.9082459807395935	dynahate
+2757	nothate	0.014802396297454834	dynahate
+12060	hate	0.6050146222114563	asonam
+8275	hate	0.9787225127220154	dynahate
+11160	hate	0.9943645000457764	dynahate
+1506	hate	0.9973587393760681	dynahate
+11474	nothate	0.0003057718276977539	gpt
+9177	nothate	0.22838884592056274	dynahate
+11706	nothate	0.14392811059951782	dynahate
+4854	hate	0.9726338386535645	dynahate
+10268	hate	0.9431634545326233	dynahate
+10361	hate	0.8934581279754639	dynahate
+3959	hate	0.8073100447654724	dynahate
+10202	hate	0.9818858504295349	dynahate
+3734	hate	0.9412380456924438	gpt
+6963	nothate	0.10075575113296509	dynahate
+6751	nothate	0.0012572407722473145	FRENK
+6318	hate	0.6839587092399597	dynahate
+7916	nothate	0.023629188537597656	dynahate
+4111	hate	0.9313617944717407	hatecheck
+4996	hate	0.5182784199714661	dynahate
+8437	hate	0.9990160465240479	manual
+4315	hate	0.8735902309417725	dynahate
+8176	hate	0.9899961948394775	dynahate
+8250	hate	0.8617435097694397	dynahate
+313	nothate	0.01486361026763916	dynahate
+12072	hate	0.9749084115028381	asonam
+4108	hate	0.9856271743774414	hatecheck
+11172	nothate	0.26032012701034546	dynahate
+7941	hate	0.6763089895248413	dynahate
+6488	hate	0.9891322255134583	dynahate
+4515	hate	0.9855954647064209	dynahate
+10359	hate	0.9828848838806152	dynahate
+6685	nothate	0.011552989482879639	dynahate
+9901	hate	0.9662824273109436	dynahate
+2752	nothate	0.05259096622467041	dynahate
+2467	hate	0.8977648615837097	dynahate
+4801	nothate	0.07856273651123047	dynahate
+5427	hate	0.9792282581329346	dynahate
+2508	nothate	0.1009291410446167	dynahate
+4230	hate	0.978224515914917	dynahate
+3705	nothate	0.07355034351348877	gpt
+11149	nothate	0.05886620283126831	dynahate
+6170	nothate	0.011945664882659912	dynahate
+7910	hate	0.8355991840362549	dynahate
+4218	hate	0.9884260892868042	dynahate
+8808	hate	0.7118927240371704	dynahate
+7039	hate	0.9948604702949524	dynahate
+4371	hate	0.9690253138542175	dynahate
+5719	nothate	0.06491708755493164	dynahate
+7062	nothate	0.0011955499649047852	dynahate
+690	hate	0.5371059775352478	toxic span
+12143	hate	0.99480140209198	asonam
+2421	hate	0.8801718354225159	dynahate
+6032	hate	0.9523528814315796	dynahate
+10228	hate	0.9887740612030029	dynahate
+6734	nothate	0.12502604722976685	dynahate
+8264	nothate	0.2503622770309448	dynahate
+3696	nothate	0.01595449447631836	dynahate
+8286	hate	0.8584436178207397	dynahate
+11125	hate	0.9713777899742126	dynahate
+10820	nothate	0.0007320046424865723	dynahate
+6064	hate	0.9678642153739929	dynahate
+1246	nothate	0.10367798805236816	dynahate
+2585	hate	0.9902008175849915	gpt
+16255	nothate	0.006899356842041016	gpt
+6925	nothate	0.015179991722106934	dynahate
+4857	hate	0.9767163991928101	dynahate
+13008	hate	0.9804926514625549	dynahate
+3939	hate	0.9463819861412048	dynahate
+6974	nothate	0.15143030881881714	dynahate
+10282	nothate	0.025693893432617188	dynahate
+372	hate	0.9860970377922058	dynahate
+6011	hate	0.9613855481147766	dynahate
+11750	hate	0.7763131856918335	dynahate
+4554	hate	0.9800511598587036	dynahate
+2469	hate	0.6709461808204651	dynahate
+14415	hate	0.8946765661239624	dynahate
+2782	nothate	0.4115527272224426	dynahate
+616	hate	0.9720669388771057	dynahate
+6159	hate	0.982635498046875	dynahate
+6177	hate	0.974651038646698	dynahate
+9633	hate	0.9900063872337341	dynahate
+2240	hate	0.6729196310043335	dynahate
+6757	hate	0.8769304752349854	FRENK
+7229	nothate	0.4209475517272949	gpt
+7016	hate	0.9510549306869507	dynahate
+349	hate	0.8665931820869446	dynahate
+6772	hate	0.8592106699943542	manual
+4633	nothate	0.03203326463699341	dynahate
+9923	hate	0.7453396916389465	dynahate
+5142	nothate	0.3609166741371155	dynahate
+1776	nothate	0.19950950145721436	manual
+3963	nothate	0.0346943736076355	dynahate
+3935	hate	0.9281273484230042	dynahate
+3654	hate	0.6635962724685669	dynahate
+2747	nothate	0.06922787427902222	dynahate
+988	hate	0.9488707780838013	dynahate
+6711	nothate	0.0005245804786682129	dynahate
+3307	nothate	0.00044852495193481445	dynahate
+5408	nothate	0.4870339035987854	dynahate
+350	nothate	0.2682483196258545	dynahate
+5778	hate	0.9989244341850281	manual
+7501	nothate	0.018130242824554443	dynahate
+14895	hate	0.8701747059822083	dynahate
+426	hate	0.9988946318626404	dynahate
+5711	hate	0.7234965562820435	dynahate
+8533	hate	0.9909076690673828	hate offensive
+6018	hate	0.9916236996650696	dynahate
+10846	nothate	0.04687124490737915	gpt
+1202	hate	0.9949085116386414	dynahate
+10259	hate	0.9830071926116943	dynahate
+2196	nothate	0.057579755783081055	dynahate
+987	hate	0.829914391040802	dynahate
+11173	nothate	0.013913989067077637	dynahate
+11163	nothate	0.06628090143203735	dynahate
+9044	nothate	0.06392574310302734	dynahate
+704	nothate	0.008995771408081055	dynahate
+11448	hate	0.8920797109603882	gpt
+4569	hate	0.9885278940200806	dynahate
+3383	nothate	0.024688303470611572	gpt
+4681	hate	0.9874920845031738	dynahate
+1200	hate	0.9856394529342651	dynahate
+2271	hate	0.994236409664154	gpt
+3358	nothate	0.0026778578758239746	gpt
+11834	nothate	0.05473560094833374	dynahate
+12062	hate	0.9864813089370728	asonam
+8758	hate	0.9862475991249084	dynahate
+11127	hate	0.9421136379241943	dynahate
+975	hate	0.9789471626281738	dynahate
+8101	nothate	0.3480755090713501	dynahate
+2124	hate	0.9436178803443909	dynahate
+4375	hate	0.6193443536758423	dynahate
+7237	hate	0.9323418736457825	gpt
+8833	nothate	0.0396425724029541	toxic span
+375	hate	0.9954932928085327	dynahate
+6051	hate	0.9210168719291687	dynahate
+11835	nothate	0.06646203994750977	dynahate
+8249	hate	0.9864815473556519	dynahate
+1009	hate	0.8425896763801575	dynahate
+3002	nothate	0.32080209255218506	dynahate
+7005	nothate	0.004362642765045166	dynahate
+4337	hate	0.9438586831092834	dynahate
+6007	hate	0.9947110414505005	dynahate
+3967	hate	0.9972192049026489	hatecheck
+9756	hate	0.9989438652992249	dynahate
+7930	hate	0.9581418037414551	dynahate
+8775	hate	0.9928519129753113	dynahate
+10817	nothate	0.020402133464813232	dynahate
+8424	hate	0.9863436222076416	dynahate
+10276	nothate	0.04369521141052246	dynahate
+7061	nothate	0.02592003345489502	dynahate
+10533	nothate	0.01320570707321167	dynahate
+9171	hate	0.9378495812416077	dynahate
+6938	nothate	0.08892738819122314	dynahate
+2704	nothate	0.20948880910873413	dynahate
+11180	nothate	0.15682780742645264	dynahate
+1012	hate	0.980583906173706	dynahate
+7811	hate	0.852250337600708	dynahate
+4154	nothate	0.0008401870727539062	hatecheck
+7852	hate	0.9961344003677368	dynahate
+9646	hate	0.9883561730384827	dynahate
+347	hate	0.9843197464942932	dynahate
+4204	hate	0.955604612827301	dynahate
+8153	hate	0.9419094920158386	dynahate
+12019	hate	0.9229094386100769	asonam
+5789	hate	0.9628937244415283	manual
+8003	hate	0.9939098358154297	dynahate
+9729	hate	0.9911558628082275	dynahate
+8738	hate	0.9756734371185303	dynahate
+11708	nothate	0.14853763580322266	dynahate
+9370	hate	0.960225522518158	dynahate
+14478	nothate	0.4328652024269104	dynahate
+4612	hate	0.9903907775878906	dynahate
+1500	hate	0.969417154788971	dynahate
+4695	nothate	0.07619178295135498	dynahate
+4231	hate	0.8884044289588928	dynahate
+2464	hate	0.9891127943992615	dynahate
+6137	hate	0.9231541752815247	dynahate
+678	nothate	0.04008150100708008	toxic span
+8781	nothate	0.0030534863471984863	dynahate
+2510	nothate	0.00047528743743896484	dynahate
+11778	nothate	0.362845778465271	dynahate
+6719	hate	0.5706298351287842	dynahate
+9970	nothate	0.027346312999725342	dynahate
+7865	hate	0.9915191531181335	dynahate
+9121	nothate	0.08113479614257812	dynahate
+10367	hate	0.9910798668861389	dynahate
+7088	nothate	0.0006486773490905762	gpt
+9418	hate	0.9527584910392761	dynahate
+7043	hate	0.5820177793502808	dynahate
+5167	nothate	0.0711706280708313	manual
+978	hate	0.9350725412368774	dynahate
+3630	nothate	0.1455952525138855	dynahate
+9154	hate	0.9757093191146851	dynahate
+11723	hate	0.8578188419342041	dynahate
+418	hate	0.9608938097953796	dynahate
+7072	hate	0.8835526704788208	dynahate
+3729	hate	0.9521564841270447	gpt
+7041	hate	0.982685923576355	dynahate
+7531	nothate	0.010024845600128174	dynahate
+5419	hate	0.9547562599182129	dynahate
+11171	nothate	0.11854702234268188	dynahate
+389	hate	0.9962947964668274	dynahate
+9736	hate	0.9728190302848816	dynahate
+6354	hate	0.9289723038673401	dynahate
+9061	hate	0.9737918376922607	dynahate
+3908	nothate	0.31115812063217163	dynahate
+5710	nothate	0.02245032787322998	dynahate
+6097	hate	0.9953008890151978	dynahate
+11764	nothate	0.000758051872253418	dynahate
+5508	hate	0.9613348841667175	hatecheck
+6699	hate	0.5563888549804688	dynahate
+985	nothate	0.11435610055923462	dynahate
+7244	nothate	0.00038760900497436523	gpt
+8445	hate	0.99899822473526	manual
+5125	nothate	0.07535427808761597	dynahate
+4546	hate	0.9920119643211365	dynahate
+9369	hate	0.8705645799636841	dynahate
+8517	hate	0.9970055222511292	hate offensive
+8145	nothate	0.0205574631690979	dynahate
+8734	hate	0.9022635817527771	dynahate
+2506	hate	0.8903284668922424	dynahate
+6659	nothate	0.0004208683967590332	dynahate
+6040	hate	0.7956550121307373	dynahate
+5725	hate	0.971458375453949	dynahate
+10340	nothate	0.039452970027923584	dynahate
+8102	nothate	0.41428542137145996	dynahate
+4575	hate	0.8341493606567383	dynahate
+11826	nothate	0.08619683980941772	dynahate
+10880	nothate	0.0005683302879333496	gpt
+2444	nothate	0.024262666702270508	dynahate
+2174	hate	0.7629071474075317	dynahate
+6640	hate	0.9846767783164978	dynahate
+449	hate	0.9876108765602112	hatecheck
+6967	hate	0.9834604859352112	dynahate
+6972	hate	0.9164888858795166	dynahate
+905	hate	0.9559938311576843	dynahate
+9412	hate	0.9679701924324036	dynahate
+1836	hate	0.9989792108535767	hate offensive
+6300	hate	0.9737909436225891	dynahate
+6165	nothate	0.38014501333236694	dynahate
+11737	nothate	0.18904930353164673	dynahate
+10320	hate	0.9713777899742126	dynahate
+9971	hate	0.6071327328681946	dynahate
+6730	hate	0.8819535970687866	dynahate
+3660	hate	0.9610053300857544	dynahate
+3925	hate	0.9942501783370972	dynahate
+2192	hate	0.874943196773529	dynahate
+4631	hate	0.6674586534500122	dynahate
+8756	nothate	0.06917601823806763	dynahate
+11769	hate	0.9104636907577515	dynahate
+4086	hate	0.9933766722679138	hatecheck
+2525	hate	0.768343448638916	dynahate
+309	hate	0.9068087935447693	dynahate
+6036	hate	0.9801927208900452	dynahate
+9130	nothate	0.022634267807006836	dynahate
+11786	hate	0.581461489200592	dynahate
+6047	hate	0.9870731830596924	dynahate
+13011	hate	0.9431004524230957	dynahate
+3622	hate	0.9901732206344604	dynahate
+2754	hate	0.9920509457588196	dynahate
+4125	hate	0.8972095847129822	hatecheck
+3614	hate	0.7007901072502136	dynahate
+9975	nothate	0.007058978080749512	dynahate
+8518	hate	0.9985658526420593	hate offensive
+7048	nothate	0.0010367631912231445	dynahate
+8805	hate	0.9443100094795227	dynahate
+6360	hate	0.9782984852790833	dynahate
+7513	hate	0.6136012077331543	dynahate
+2120	nothate	0.4244568347930908	dynahate
+5729	hate	0.960225522518158	dynahate
+11168	nothate	0.3650740385055542	dynahate
+11818	nothate	0.007496237754821777	dynahate
+3312	nothate	0.05763906240463257	dynahate
+10312	hate	0.9801613688468933	dynahate
+1907	hate	0.9936246871948242	twitter
+10335	hate	0.9467787146568298	dynahate
+3985	hate	0.9077731370925903	hatecheck
+9350	hate	0.8681990504264832	dynahate
+7890	hate	0.9792088270187378	dynahate
+7841	hate	0.8596723675727844	dynahate
+4847	hate	0.5286044478416443	dynahate
+8791	nothate	0.04964476823806763	dynahate
+7530	nothate	0.016689181327819824	dynahate
+8746	nothate	0.19578111171722412	dynahate
+14441	hate	0.9717052578926086	dynahate
+6391	hate	0.9562512636184692	dynahate
+11167	nothate	0.08909094333648682	dynahate
+4062	hate	0.7595670819282532	hatecheck
+10248	hate	0.9868122935295105	dynahate
+2816	hate	0.7901356816291809	dynahate
+11735	nothate	0.4494810700416565	dynahate
+4090	hate	0.9804925322532654	hatecheck
+8410	hate	0.9932885766029358	dynahate
+2116	hate	0.8123906850814819	dynahate
+2483	hate	0.9769966006278992	dynahate
+14484	nothate	0.36343055963516235	dynahate
+11725	nothate	0.494911789894104	dynahate
+12081	hate	0.7248890995979309	asonam
+312	hate	0.5459630489349365	dynahate
+10890	nothate	0.00016689300537109375	gpt
+11771	hate	0.5946471095085144	dynahate
+3778	nothate	0.0007815361022949219	gpt
+8257	hate	0.9420086741447449	dynahate
+16296	hate	0.974435567855835	gpt
+12015	hate	0.9871177077293396	asonam
+9973	hate	0.7861193418502808	dynahate
+984	hate	0.9616694450378418	dynahate
+973	hate	0.9868097305297852	dynahate
+6110	nothate	0.2966894507408142	dynahate
+10300	hate	0.5617800951004028	dynahate
+2794	hate	0.9908668994903564	dynahate
+394	hate	0.9803928732872009	dynahate
+4839	nothate	0.3371649384498596	dynahate
+4634	hate	0.9874261617660522	dynahate
+80	hate	0.864080548286438	hatecheck
+6129	nothate	0.07967871427536011	dynahate
+6342	hate	0.9281690120697021	dynahate
+1010	hate	0.9423502683639526	dynahate
+3938	nothate	0.000750124454498291	dynahate
+11703	hate	0.6340252757072449	dynahate
+14469	hate	0.8505436182022095	dynahate
+11773	nothate	0.473705530166626	dynahate
+7259	nothate	0.10475075244903564	gpt
+9037	hate	0.9258193969726562	dynahate
+11200	hate	0.9754147529602051	dynahate
+6044	hate	0.9632827043533325	dynahate
+425	nothate	0.014120399951934814	dynahate
+11729	hate	0.9011409282684326	dynahate
+6356	hate	0.9852645993232727	dynahate
+2802	hate	0.6315498352050781	dynahate
+1595	nothate	0.45295530557632446	dynahate
+8181	hate	0.5916363000869751	dynahate
+10246	nothate	0.03642970323562622	dynahate
+11846	nothate	0.04753398895263672	dynahate
+4022	hate	0.6291309595108032	hatecheck
+355	hate	0.9980133771896362	dynahate
+9635	hate	0.9840174317359924	dynahate
+6350	hate	0.9888916015625	dynahate
+8747	nothate	0.3230862021446228	dynahate
+1741	nothate	0.30774909257888794	hatecheck
+4317	hate	0.7543163895606995	dynahate
+7937	hate	0.8976371884346008	dynahate
+2478	hate	0.6437270045280457	dynahate
+1245	nothate	0.31643205881118774	dynahate
+13010	hate	0.9555649161338806	dynahate
+2254	hate	0.9654942750930786	dynahate
+7030	hate	0.5706298351287842	dynahate
+2209	hate	0.9721270799636841	dynahate
+4886	nothate	0.11187905073165894	dynahate
+3643	nothate	0.004497110843658447	dynahate
+3626	nothate	0.014767289161682129	dynahate
+480	nothate	0.3865193724632263	dynahate
+1847	hate	0.9989503026008606	manual
+3600	hate	0.9288451075553894	dynahate
+8801	hate	0.8048372864723206	dynahate
+11488	nothate	0.01125878095626831	gpt
+3319	nothate	0.0008866190910339355	dynahate
+4161	nothate	0.050637781620025635	hatecheck
+1831	hate	0.9989829659461975	hate offensive
+10322	hate	0.9243918061256409	dynahate
+2810	hate	0.6344910860061646	dynahate
+4374	nothate	0.3019285202026367	dynahate
+8413	hate	0.6400332450866699	dynahate
+5162	hate	0.9744568467140198	manual
+6364	hate	0.9717398881912231	dynahate
+2242	hate	0.5347998738288879	dynahate
+2243	hate	0.870711088180542	dynahate
+7018	nothate	0.04669111967086792	dynahate
+8230	nothate	0.0013113617897033691	dynahate
+2475	nothate	0.00039571523666381836	dynahate
+10337	hate	0.9988847374916077	dynahate
+3699	nothate	0.0028118491172790527	gpt
+6430	hate	0.9841489195823669	dynahate
+2453	nothate	0.45732128620147705	dynahate
+9016	hate	0.9259814620018005	dynahate
+8798	hate	0.9893788695335388	dynahate
+6968	hate	0.9689662456512451	dynahate
+734	nothate	0.22325009107589722	dynahate
+490	hate	0.9963986873626709	dynahate
+3799	hate	0.8967150449752808	gpt
+11787	hate	0.7053355574607849	dynahate
+2808	hate	0.6739620566368103	dynahate
+327	hate	0.9674584865570068	dynahate
+6336	hate	0.7253172397613525	dynahate
+7933	hate	0.7371531128883362	dynahate
+7857	hate	0.9982979893684387	dynahate
+9940	nothate	0.008840739727020264	dynahate
+6713	hate	0.9541480541229248	dynahate
+2293	hate	0.9939889907836914	gpt
+7057	hate	0.7333829998970032	dynahate
+6164	nothate	0.017447233200073242	dynahate
+11134	hate	0.9944249391555786	dynahate
+8253	hate	0.9661277532577515	dynahate
+2799	hate	0.8955761194229126	dynahate
+11144	hate	0.9988847374916077	dynahate
+6498	hate	0.9905535578727722	dynahate
+2791	hate	0.9903464913368225	dynahate
+1900	hate	0.9859336018562317	ethos
+10965	nothate	0.0001984238624572754	gpt
+10925	nothate	0.0021651387214660645	gpt
+6995	hate	0.6662389636039734	dynahate
+6117	hate	0.9893938302993774	dynahate
+3774	hate	0.8658715486526489	gpt
+8221	hate	0.8317503333091736	dynahate
+6688	hate	0.9660565257072449	dynahate
+605	hate	0.9284029603004456	dynahate
+11793	nothate	0.4444481134414673	dynahate
+3760	nothate	0.21441322565078735	gpt
+2819	nothate	0.15704870223999023	dynahate
+4061	hate	0.9639571905136108	hatecheck
+4364	hate	0.9525941610336304	dynahate
+4626	hate	0.7111138105392456	dynahate
+2166	hate	0.914422333240509	dynahate
+757	hate	0.9858527183532715	gpt
+7829	hate	0.9928519129753113	dynahate
+6926	hate	0.8035735487937927	dynahate
+9735	nothate	0.19105207920074463	dynahate
+8755	nothate	0.3003222346305847	dynahate
+4918	hate	0.9763565063476562	dynahate
+11709	nothate	0.41285818815231323	dynahate
+405	nothate	0.36857932806015015	dynahate
+8254	hate	0.9494116306304932	dynahate
+10988	nothate	0.0031134486198425293	gpt
+11823	nothate	0.3238442540168762	dynahate
+4521	nothate	0.26444119215011597	dynahate
+10022	nothate	0.30840325355529785	dynahate
+2814	hate	0.9656931161880493	dynahate
+9768	hate	0.8382870554924011	dynahate
+5121	nothate	0.17407435178756714	dynahate
+6903	hate	0.7449973225593567	dynahate
+5707	nothate	0.21618354320526123	dynahate
+6637	hate	0.9303557872772217	dynahate
+2521	hate	0.9726405143737793	dynahate
+6338	nothate	0.23316848278045654	dynahate
+8142	nothate	0.12244564294815063	dynahate
+2701	nothate	0.37490910291671753	dynahate
+2564	hate	0.7556308507919312	gpt
+11182	nothate	0.04489409923553467	dynahate
+6990	nothate	0.00417780876159668	dynahate
+4335	nothate	0.23162275552749634	dynahate
+5103	nothate	0.21596664190292358	dynahate
+2707	hate	0.7556551098823547	dynahate
+16302	hate	0.5970824956893921	gpt
+6606	hate	0.9024115204811096	dynahate
+8274	hate	0.9871540665626526	dynahate
+6726	hate	0.8707500100135803	dynahate
+11762	nothate	0.012356281280517578	dynahate
+2454	nothate	0.10092711448669434	dynahate
+5780	hate	0.9795915484428406	manual
+9700	hate	0.9931381344795227	dynahate
+6707	nothate	0.10370230674743652	dynahate
+4171	nothate	0.4732152819633484	hatecheck
+6923	nothate	0.07319647073745728	dynahate
+9153	hate	0.762031614780426	dynahate
+8154	nothate	0.019191384315490723	dynahate
+9695	hate	0.9618862271308899	dynahate
+2527	hate	0.9782916307449341	dynahate
+11740	nothate	0.3859589099884033	dynahate
+329	nothate	0.0008298158645629883	dynahate
+11143	hate	0.9243918061256409	dynahate
+2912	nothate	0.3908979892730713	toxic span
+9913	nothate	0.1241644024848938	dynahate
+11193	nothate	0.18111038208007812	dynahate
+11894	hate	0.8470056653022766	dynahate
+7855	nothate	0.1612304449081421	dynahate
+6607	nothate	0.18832677602767944	dynahate
+11131	nothate	0.03537052869796753	dynahate
+7123	nothate	0.009344518184661865	gpt
+8134	nothate	0.014556348323822021	dynahate
+8232	nothate	0.42378348112106323	dynahate
+4044	hate	0.9612477421760559	hatecheck
+2821	hate	0.9212467074394226	dynahate
+10802	nothate	0.005036592483520508	dynahate
+1882	nothate	0.003758549690246582	hatecheck
+10355	hate	0.9463530778884888	dynahate
+11148	nothate	0.16068345308303833	dynahate
+8229	hate	0.959805965423584	dynahate
+8248	nothate	0.014295876026153564	dynahate
+994	hate	0.9813282489776611	dynahate
+11801	nothate	0.399644136428833	dynahate
+7338	nothate	0.02244657278060913	gpt
+5709	nothate	0.030839979648590088	dynahate
+2842	nothate	0.05601316690444946	toxic span
+16084	hate	0.9053253531455994	hatecheck
+9059	hate	0.8779498338699341	dynahate
+11711	hate	0.5526231527328491	dynahate
+5470	hate	0.7145658135414124	dynahate
+11799	nothate	0.06763887405395508	dynahate
+3006	nothate	0.05216497182846069	dynahate
+8771	nothate	0.1302599310874939	dynahate
+3681	nothate	0.00842517614364624	dynahate
+656	nothate	0.008164763450622559	toxic span
+972	nothate	0.007669985294342041	dynahate
+7281	nothate	0.0011442899703979492	gpt
+11751	hate	0.7653709650039673	dynahate
+6914	hate	0.9741750955581665	dynahate
+2520	hate	0.6154518127441406	dynahate
+6641	nothate	0.010087907314300537	dynahate
+5446	hate	0.927108645439148	dynahate
+8260	nothate	0.4322044253349304	dynahate
+4119	hate	0.8590478301048279	hatecheck
+6602	nothate	0.15838778018951416	dynahate
+714	hate	0.8982018232345581	dynahate
+7319	nothate	0.06648486852645874	gpt
+6651	nothate	0.47546350955963135	dynahate
+968	nothate	0.03653758764266968	dynahate
+11802	nothate	0.030535101890563965	dynahate
+7003	nothate	0.012282133102416992	dynahate
+10299	nothate	0.13877391815185547	dynahate
+8277	hate	0.9773434400558472	dynahate
+11122	hate	0.7284704446792603	dynahate
+4950	hate	0.9514682292938232	dynahate
+3948	hate	0.794156551361084	dynahate
+11158	nothate	0.006276071071624756	dynahate
+5459	hate	0.9956668615341187	dynahate
+335	hate	0.6709461808204651	dynahate
+6603	hate	0.8959456086158752	dynahate
+983	nothate	0.008139073848724365	dynahate
+11463	nothate	0.018509268760681152	gpt
+14439	hate	0.9687014818191528	dynahate
+9657	hate	0.9664674401283264	dynahate
+4500	hate	0.9958410859107971	dynahate
+10017	nothate	0.0014418959617614746	dynahate
+9000	hate	0.7950824499130249	manual
+11499	nothate	0.00014674663543701172	gpt
+12024	hate	0.9932088255882263	asonam
+2526	hate	0.9448542594909668	dynahate
+6084	hate	0.9533185958862305	dynahate
+357	hate	0.9983733892440796	dynahate
+9603	hate	0.8553661108016968	dynahate
+2484	nothate	0.11765587329864502	dynahate
+4314	hate	0.9694406986236572	dynahate
+365	hate	0.9831495881080627	dynahate
+11179	nothate	0.08324247598648071	dynahate
+11174	nothate	0.02687162160873413	dynahate
+7379	nothate	0.002454698085784912	gpt
+3300	nothate	0.14405310153961182	dynahate
+421	nothate	0.2576289772987366	dynahate
+8773	hate	0.964019238948822	dynahate
+5733	hate	0.9312078356742859	dynahate
+11194	hate	0.6954982876777649	dynahate
+9132	hate	0.7144296765327454	dynahate
+6452	hate	0.6855745315551758	dynahate
+2504	nothate	0.025608360767364502	dynahate
+8284	hate	0.996821403503418	dynahate
+5129	hate	0.9264768958091736	dynahate
+8770	nothate	0.012572288513183594	dynahate
+7310	nothate	0.04367244243621826	gpt
+10031	nothate	0.017628610134124756	dynahate
+5174	hate	0.861099362373352	manual
+723	hate	0.9771164059638977	dynahate
+6948	nothate	0.04349696636199951	dynahate
+2187	nothate	0.03461188077926636	dynahate
+6616	nothate	0.010294854640960693	dynahate
+2753	hate	0.7817948460578918	dynahate
+9611	hate	0.9436112642288208	dynahate
+7885	nothate	0.2892906665802002	dynahate
+6016	hate	0.8231238126754761	dynahate
+10306	hate	0.9944249391555786	dynahate
+11841	nothate	0.15907305479049683	dynahate
+11195	nothate	0.3666730523109436	dynahate
+1222	nothate	0.015934526920318604	dynahate
+6605	hate	0.9326934814453125	dynahate
+5758	hate	0.9721839427947998	manual
+2211	hate	0.9583054184913635	dynahate
+2709	hate	0.9425250887870789	dynahate
+339	nothate	0.04002273082733154	dynahate
+337	hate	0.5618702173233032	dynahate
+351	hate	0.8879727125167847	dynahate
+3960	nothate	0.060992419719696045	dynahate
+5457	hate	0.9763565063476562	dynahate
+4679	hate	0.9691231846809387	dynahate
+2273	hate	0.928216278553009	gpt
+3310	nothate	0.2565230131149292	dynahate
+11833	nothate	0.004371762275695801	dynahate
+6133	hate	0.829357385635376	dynahate
+2758	hate	0.9637062549591064	dynahate
+3642	hate	0.9733281135559082	dynahate
+8167	nothate	0.06140244007110596	dynahate
+9011	hate	0.9911045432090759	dynahate
+10316	hate	0.987525463104248	dynahate
+2287	hate	0.9472496509552002	gpt
+140	hate	0.8955025672912598	hatecheck
+10901	nothate	0.0008777976036071777	gpt
+6025	nothate	0.002402007579803467	dynahate
+6964	nothate	0.0021240711212158203	dynahate
+7944	nothate	0.20179057121276855	dynahate
+627	nothate	0.005456805229187012	dynahate
+5122	nothate	0.47847139835357666	dynahate
+14479	hate	0.6077969670295715	dynahate
+649	hate	0.9442143440246582	toxic span
+7939	hate	0.9818779826164246	dynahate
+3680	nothate	0.032063305377960205	dynahate
+6037	hate	0.9233639240264893	dynahate
+6020	hate	0.8530393242835999	dynahate
+11197	hate	0.5598951578140259	dynahate
+7507	nothate	0.002754807472229004	dynahate
+970	hate	0.9241840839385986	dynahate
+2818	hate	0.5163902044296265	dynahate
+4579	hate	0.9764466285705566	dynahate
+9937	nothate	0.03359532356262207	dynahate
+11156	hate	0.9626985788345337	dynahate
+314	nothate	0.3505110740661621	dynahate
+4832	hate	0.9662824273109436	dynahate
+9477	hate	0.9871240854263306	dynahate
+3754	nothate	0.38532429933547974	gpt
+1816	hate	0.9963105320930481	asonam
+9035	nothate	0.014294028282165527	dynahate
+1552	hate	0.9345181584358215	dynahate
+9107	nothate	0.03778928518295288	dynahate
+3965	hate	0.9929808378219604	hatecheck
+14432	hate	0.9940781593322754	dynahate
+3791	nothate	0.00881814956665039	gpt
+6945	nothate	0.0032895803451538086	dynahate
+3688	hate	0.7973617315292358	dynahate
+9019	hate	0.7940248847007751	dynahate
+3334	hate	0.9867592453956604	twitter
+6054	hate	0.9779114127159119	dynahate
+9015	hate	0.9121535420417786	dynahate
+7948	nothate	0.17293643951416016	dynahate
+6998	hate	0.97468101978302	dynahate
+3919	hate	0.5091447234153748	dynahate
+1037	hate	0.9839543104171753	dynahate
+4369	hate	0.9987142086029053	dynahate
+72	hate	0.9852501749992371	hatecheck
+2559	hate	0.770885169506073	FRENK
+2191	nothate	0.24266737699508667	dynahate
+1006	hate	0.9746499061584473	dynahate
+2125	hate	0.9770042300224304	dynahate
+7517	hate	0.9776918888092041	dynahate
+4615	hate	0.9781622290611267	dynahate
+4945	nothate	0.10526031255722046	dynahate
+12030	hate	0.9776012897491455	asonam
+14474	hate	0.6382211446762085	dynahate
+9751	hate	0.9876420497894287	dynahate
+10844	nothate	0.012815415859222412	gpt
+4902	nothate	0.06485038995742798	dynahate
+1805	hate	0.9380882978439331	dynahate
+8116	hate	0.8939552903175354	dynahate
+4009	hate	0.9958628416061401	hatecheck
+4932	hate	0.8692504167556763	dynahate
+7015	nothate	0.019095242023468018	dynahate
+9498	hate	0.9638552665710449	dynahate
+622	nothate	0.07025289535522461	dynahate
+5458	hate	0.9619967937469482	dynahate
+997	hate	0.970503568649292	dynahate
+2438	nothate	0.00263059139251709	dynahate
+14476	hate	0.5962114334106445	dynahate
+4852	hate	0.9285006523132324	dynahate
+6728	nothate	0.03503072261810303	dynahate
+3973	nothate	0.1977716088294983	hatecheck
+3004	nothate	0.003623783588409424	dynahate
+11775	hate	0.9599287509918213	dynahate
+16239	hate	0.9172441959381104	gpt
+2266	nothate	0.3624875545501709	gpt
+1752	hate	0.9861225485801697	hatecheck
+623	hate	0.7336830496788025	dynahate
+9972	nothate	0.19751060009002686	dynahate
+4910	hate	0.9005903005599976	dynahate
+11170	hate	0.5410295724868774	dynahate
+6094	hate	0.9809154272079468	dynahate
+6909	nothate	0.0037430524826049805	dynahate
+9908	hate	0.9362470507621765	dynahate
+2826	hate	0.9581314921379089	dynahate
+9122	nothate	0.04339510202407837	dynahate
+1883	nothate	0.08504128456115723	hatecheck
+377	hate	0.8653130531311035	dynahate
+3665	nothate	0.028700947761535645	dynahate
+7051	nothate	0.08062148094177246	dynahate
+6028	hate	0.5230486989021301	dynahate
+9330	hate	0.99543297290802	dynahate
+6601	nothate	0.0014479756355285645	dynahate
+5716	hate	0.9922409057617188	dynahate
+9056	nothate	0.4511876106262207	dynahate
+11767	hate	0.6576235890388489	dynahate
+2131	hate	0.9715491533279419	dynahate
+9759	hate	0.9922409057617188	dynahate
+6102	hate	0.9863436222076416	dynahate
+7282	nothate	0.00243985652923584	gpt
+3927	hate	0.9884053468704224	dynahate
+6491	hate	0.7653975486755371	dynahate
+3641	nothate	0.013941943645477295	dynahate
+9636	hate	0.9942048192024231	dynahate
+10349	nothate	0.37091386318206787	dynahate
+5511	hate	0.8598670959472656	hatecheck
+9108	hate	0.9415256977081299	dynahate
+2793	hate	0.9936118721961975	dynahate
+2796	hate	0.7781102061271667	dynahate
+9706	hate	0.9863684773445129	dynahate
+9927	nothate	0.003269672393798828	dynahate
+7291	nothate	0.12573790550231934	gpt
+2795	hate	0.9954663515090942	dynahate
+3666	hate	0.8986941576004028	dynahate
+11798	hate	0.9297623634338379	dynahate
+2731	nothate	0.0026470422744750977	dynahate
+11746	nothate	0.00368422269821167	dynahate
+9387	hate	0.9746555685997009	dynahate
+9619	hate	0.9972596168518066	dynahate
+8183	nothate	0.3447394371032715	dynahate
+6768	hate	0.9888914823532104	manual
+2800	nothate	0.49187731742858887	dynahate
+12118	nothate	0.004748225212097168	asonam
+9118	nothate	0.04937249422073364	dynahate
+8715	hate	0.9164966940879822	dynahate
+12126	hate	0.6847782135009766	asonam
+11742	nothate	0.04302382469177246	dynahate
+4904	hate	0.9233639240264893	dynahate
+5754	hate	0.9747187495231628	manual
+2803	hate	0.9518305063247681	dynahate
+996	hate	0.9897504448890686	dynahate
+2755	nothate	0.3594171404838562	dynahate
+6978	hate	0.9615437984466553	dynahate
+8754	nothate	0.4863719344139099	dynahate
+7070	nothate	0.0004279017448425293	dynahate
+10902	nothate	0.0003293752670288086	gpt
+2227	hate	0.7556551098823547	dynahate
+10205	hate	0.9758762717247009	dynahate
+10813	hate	0.8624224662780762	dynahate
+4665	hate	0.9588613510131836	dynahate
+10015	nothate	0.0739513635635376	dynahate
+10331	nothate	0.2811005711555481	dynahate
+8004	hate	0.9840606451034546	dynahate
+6492	hate	0.7745810151100159	dynahate
+10302	hate	0.9830728769302368	dynahate
+356	nothate	0.04775416851043701	dynahate
+3901	hate	0.7105693817138672	dynahate
+10040	nothate	0.035573601722717285	dynahate
+3706	nothate	0.030139923095703125	gpt
+11785	hate	0.8456701636314392	dynahate
+9384	hate	0.91726154088974	dynahate
+58	nothate	0.06005299091339111	dynahate
+11186	hate	0.5533104538917542	dynahate
+358	hate	0.9657391309738159	dynahate
+4060	nothate	0.019618570804595947	hatecheck
+3655	nothate	0.4179013967514038	dynahate
+6660	hate	0.6730473637580872	dynahate
+971	hate	0.9547163844108582	dynahate
+4168	nothate	0.08150917291641235	hatecheck
+1852	hate	0.9910522103309631	manual
+992	hate	0.7469579577445984	dynahate
+322	nothate	0.3455832600593567	dynahate
+10536	nothate	0.001394808292388916	dynahate
+8546	hate	0.9989234805107117	twitter
+400	nothate	0.03989219665527344	dynahate
+7800	hate	0.8475858569145203	dynahate
+2231	hate	0.9833726286888123	dynahate
+8412	hate	0.9141128659248352	dynahate
+343	hate	0.6373097896575928	dynahate
+11458	nothate	0.0003057718276977539	gpt
+12018	hate	0.9520524144172668	asonam
+11848	nothate	0.35502344369888306	dynahate
+4830	hate	0.9842076897621155	dynahate
+11712	hate	0.5030229687690735	dynahate
+12134	hate	0.9608466029167175	asonam
+11814	nothate	0.2578672766685486	dynahate
+2825	hate	0.9834359288215637	dynahate
+8168	nothate	0.33991479873657227	dynahate
+12009	hate	0.9756780862808228	asonam
+14472	hate	0.9790323972702026	dynahate
+7374	nothate	0.04273366928100586	gpt
+7066	nothate	0.35000669956207275	dynahate
+6151	nothate	0.09208577871322632	dynahate
+6980	hate	0.9941250085830688	dynahate
+4282	nothate	0.005900859832763672	dynahate
+479	hate	0.9960616230964661	dynahate
+8161	hate	0.7171633243560791	dynahate
+1774	hate	0.9836903214454651	manual
+3043	hate	0.9231541752815247	dynahate
+4333	nothate	0.06254696846008301	dynahate
+10946	nothate	0.0011394023895263672	gpt
+6131	hate	0.8883785605430603	dynahate
+352	hate	0.627838134765625	dynahate
+10370	hate	0.9870786666870117	dynahate
+4352	nothate	0.17295777797698975	dynahate
+11803	hate	0.8743149638175964	dynahate
+3947	nothate	0.13237053155899048	dynahate
+9421	hate	0.9939243197441101	dynahate
+86	hate	0.9938161373138428	hatecheck
+9956	nothate	0.11418300867080688	dynahate
+7040	nothate	0.11755210161209106	dynahate
+10220	hate	0.9917681217193604	dynahate
+1841	hate	0.993347704410553	manual
+11825	nothate	0.13522213697433472	dynahate
+11187	hate	0.892087459564209	dynahate
+7921	nothate	0.012372255325317383	dynahate
+8166	hate	0.9349726438522339	dynahate
+7203	hate	0.5261000394821167	dynahate
+6173	hate	0.9610455632209778	dynahate
+6672	hate	0.9561899900436401	dynahate
+7069	nothate	0.0041841864585876465	dynahate
+11165	hate	0.9863477945327759	dynahate
+2722	nothate	0.005924582481384277	dynahate
+56	nothate	0.22907274961471558	dynahate
+1005	nothate	0.36805808544158936	dynahate
+10540	nothate	0.028848886489868164	dynahate
+6175	hate	0.9674541354179382	dynahate
+9040	hate	0.8977648615837097	dynahate
+6463	hate	0.997234046459198	dynahate
+4625	nothate	0.18663084506988525	dynahate
+2230	hate	0.955427348613739	dynahate
+6348	hate	0.9807130098342896	dynahate
+8267	hate	0.9088659286499023	dynahate
+10266	hate	0.9398298263549805	dynahate
+8478	nothate	0.08836930990219116	dynahate
+2505	nothate	0.004304409027099609	dynahate
+10379	nothate	0.16068345308303833	dynahate
+701	hate	0.9959775805473328	dynahate
+7878	nothate	0.022581636905670166	dynahate
+7806	hate	0.9713069796562195	dynahate
+2811	hate	0.8958168625831604	dynahate
+10209	nothate	0.11649125814437866	dynahate
+6946	hate	0.6448855400085449	dynahate
+1858	nothate	0.08250701427459717	hatecheck
+9114	hate	0.9877848625183105	dynahate
+14884	hate	0.8772861957550049	dynahate
+2806	hate	0.978452742099762	dynahate
+7063	nothate	0.0002834200859069824	dynahate
+3620	nothate	0.1669386625289917	dynahate
+7067	nothate	0.31086206436157227	dynahate
+2812	hate	0.9894531965255737	dynahate
+7936	hate	0.959805965423584	dynahate
+4089	hate	0.9947817921638489	hatecheck
+11819	nothate	0.018498003482818604	dynahate
+6034	hate	0.9893938302993774	dynahate
+1003	hate	0.9801140427589417	dynahate
+8190	hate	0.9503796696662903	dynahate
+11830	nothate	0.04628157615661621	dynahate
+3005	nothate	0.0001556873321533203	dynahate
+4052	hate	0.9556934833526611	hatecheck
+6093	hate	0.9686458706855774	dynahate
+9124	nothate	0.07437855005264282	dynahate
+11128	hate	0.7610446214675903	dynahate
+6352	hate	0.9954148530960083	dynahate
+8189	hate	0.8518944382667542	dynahate
+3380	nothate	0.018602848052978516	gpt
+9055	hate	0.9201762080192566	dynahate
+9169	hate	0.8920156359672546	dynahate
+11719	nothate	0.0005672574043273926	gpt
+11739	hate	0.8818174004554749	dynahate
+8806	hate	0.9800941348075867	dynahate
+1913	hate	0.8942174315452576	manual
+7977	hate	0.8228222727775574	dynahate
+7034	hate	0.7301692366600037	dynahate
+5703	hate	0.9785430431365967	dynahate
+8535	hate	0.9850655198097229	hate offensive
+10212	nothate	0.003470122814178467	dynahate
+6949	nothate	0.01403045654296875	dynahate
+10369	hate	0.7908768653869629	dynahate
+1719	hate	0.5431854724884033	manual
+6627	nothate	0.06254696846008301	dynahate
+9773	hate	0.9751222133636475	dynahate
+4295	hate	0.9641496539115906	dynahate
+11827	nothate	0.1438523530960083	dynahate
+4562	hate	0.9642769694328308	dynahate
+10963	nothate	0.0007660388946533203	gpt
+4580	hate	0.9525941610336304	dynahate
+12029	hate	0.9724159836769104	asonam
+8797	hate	0.9960616230964661	dynahate
+6118	hate	0.5037881135940552	dynahate
+1727	nothate	0.0002931952476501465	manual
+8505	hate	0.994599461555481	hate offensive
+7510	nothate	0.0025582313537597656	dynahate
+125	hate	0.9788720011711121	hatecheck
+608	hate	0.9397932887077332	dynahate
+6733	nothate	0.004279673099517822	dynahate
+6171	hate	0.9963064193725586	dynahate
+118	hate	0.994002640247345	hatecheck
+2500	nothate	0.013478219509124756	dynahate
+12124	nothate	0.13135850429534912	asonam
+740	hate	0.7504385113716125	dynahate
+1531	hate	0.9915191531181335	dynahate
+4920	hate	0.877510130405426	dynahate
+6035	hate	0.556351363658905	dynahate
+8411	hate	0.9925169348716736	dynahate
+11816	hate	0.6541281938552856	dynahate
+8272	hate	0.8578596711158752	dynahate
+6907	nothate	0.3368588089942932	dynahate
+2797	hate	0.9745084643363953	dynahate
+5118	hate	0.9708533883094788	dynahate
+7909	hate	0.9360589385032654	dynahate
+4689	hate	0.8972223401069641	dynahate
+1742	hate	0.951897919178009	hatecheck
+11199	nothate	0.2725057601928711	dynahate
+1592	hate	0.7697693705558777	dynahate
+707	nothate	0.14869076013565063	dynahate
+9185	hate	0.9525941610336304	dynahate
+10500	nothate	0.005864918231964111	dynahate
+7083	nothate	0.004431307315826416	gpt
+1728	hate	0.9640583395957947	manual
+10204	hate	0.9750033617019653	dynahate
+2511	hate	0.9793420433998108	dynahate
+8273	hate	0.6860904097557068	dynahate
+9360	hate	0.9541523456573486	dynahate
+6400	hate	0.9902918934822083	dynahate
+6163	hate	0.9795190691947937	dynahate
+6960	hate	0.9632787704467773	dynahate
+14442	hate	0.9628423452377319	dynahate
+12074	nothate	0.05238223075866699	asonam
+6154	hate	0.5706298351287842	dynahate
+492	hate	0.9891527891159058	dynahate
+496	nothate	0.004650294780731201	dynahate
+11516	nothate	0.00013911724090576172	gpt
+2828	hate	0.962406575679779	dynahate
+4268	hate	0.9716666340827942	dynahate
+10008	nothate	0.03153860569000244	dynahate
+443	hate	0.9864380359649658	hatecheck
+6652	nothate	0.011495530605316162	dynahate
+9694	hate	0.9967345595359802	dynahate
+666	nothate	0.0027039647102355957	toxic span
+8112	nothate	0.02434009313583374	dynahate
+4033	hate	0.9736287593841553	hatecheck
+2721	hate	0.6813707947731018	dynahate
+7840	hate	0.973917543888092	dynahate
+9119	nothate	0.29320383071899414	dynahate
+2733	hate	0.9401116967201233	dynahate
+705	hate	0.8897478580474854	dynahate
+4101	hate	0.995725154876709	hatecheck
+431	hate	0.9832848906517029	hatecheck
+11891	nothate	0.041579365730285645	dynahate
+956	hate	0.9809386730194092	dynahate
+11707	nothate	0.1361200213432312	dynahate
+11185	nothate	0.2530919909477234	dynahate
+1247	hate	0.9629712104797363	dynahate
+11724	hate	0.8184923529624939	dynahate
+7042	nothate	0.0006597638130187988	dynahate
+6731	nothate	0.04148697853088379	dynahate
+986	nothate	0.027511298656463623	dynahate
+8265	nothate	0.2620527744293213	dynahate
+6774	hate	0.9335761070251465	manual
+11400	nothate	0.1387830376625061	dynahate
+4257	nothate	0.20238113403320312	dynahate
+7500	hate	0.9648556113243103	dynahate
+4682	hate	0.7169793844223022	dynahate
+685	hate	0.5738824009895325	toxic span
+16253	hate	0.9580032825469971	gpt
+8461	hate	0.9990109205245972	manual
+7877	hate	0.9988759160041809	dynahate
+3744	hate	0.8375363349914551	gpt
+6631	hate	0.8470517992973328	dynahate
+11450	nothate	0.0035616159439086914	gpt
+8170	nothate	0.20896530151367188	dynahate
+8423	hate	0.992284893989563	dynahate
+16078	hate	0.9726489782333374	hatecheck
+10284	nothate	0.3278493881225586	dynahate
+472	hate	0.9777823686599731	hatecheck
+10343	nothate	0.0026890039443969727	dynahate
+2739	nothate	0.02221500873565674	dynahate
+4627	hate	0.9170624017715454	dynahate
+9775	hate	0.9490925073623657	dynahate
+645	nothate	0.4807546138763428	toxic span
+7528	nothate	0.02309638261795044	dynahate
+11151	hate	0.8236344456672668	dynahate
+1832	hate	0.99868243932724	hate offensive
+10287	hate	0.9893203973770142	dynahate
+10360	hate	0.9893891215324402	dynahate
+10029	hate	0.6842269897460938	dynahate
+10091	hate	0.9708799719810486	hatecheck
+7112	nothate	0.0009138584136962891	gpt
+485	nothate	0.19825994968414307	dynahate
+2824	hate	0.9445175528526306	dynahate
+8786	nothate	0.06801486015319824	dynahate
+5766	nothate	0.3320978283882141	manual
+3314	nothate	0.0072692036628723145	dynahate
+10257	hate	0.960386335849762	dynahate
+2822	hate	0.9890936613082886	dynahate
+10264	hate	0.9410434365272522	dynahate
+9974	hate	0.9444078207015991	dynahate
+7284	nothate	0.0032296180725097656	gpt
+7060	hate	0.9388388991355896	dynahate
+9921	hate	0.9539229869842529	dynahate
+4965	hate	0.9976634979248047	dynahate
+16289	nothate	0.0009769201278686523	gpt
+8282	hate	0.8035088181495667	dynahate
+3775	hate	0.7853978276252747	gpt
+10321	hate	0.9172254204750061	dynahate
+5450	hate	0.9848662614822388	dynahate
+3335	nothate	0.004015803337097168	twitter
+10531	nothate	0.04011738300323486	dynahate
+5704	hate	0.5230486989021301	dynahate
+10253	hate	0.8968051075935364	dynahate
+9435	nothate	0.4653295874595642	dynahate
+5785	hate	0.9617708921432495	manual
+4619	hate	0.9896957874298096	dynahate
+9438	hate	0.9640918970108032	dynahate
+9105	nothate	0.11694157123565674	dynahate
+7922	nothate	0.09606850147247314	dynahate
+1590	hate	0.9701985120773315	dynahate
+4570	hate	0.9385771155357361	dynahate
+7905	nothate	0.2154771089553833	dynahate
+6347	hate	0.9331020712852478	dynahate
+8713	nothate	0.06801486015319824	dynahate
+6629	hate	0.987442672252655	dynahate
+4851	hate	0.9861723780632019	dynahate
+4960	hate	0.9858306050300598	dynahate
+10269	hate	0.8810245990753174	dynahate
+6123	hate	0.9505051374435425	dynahate
+9111	hate	0.8647165894508362	dynahate
+2477	hate	0.8601405024528503	dynahate
+10837	hate	0.6559441089630127	gpt
+2523	hate	0.8822023272514343	dynahate
+16268	nothate	0.0004900693893432617	gpt
+10509	nothate	0.07469797134399414	dynahate
+4548	hate	0.9976488947868347	dynahate
+7028	hate	0.5923317074775696	dynahate
+59	hate	0.8618705868721008	dynahate
+8195	nothate	0.19461148977279663	dynahate
+7044	hate	0.9232350587844849	dynahate
+6086	hate	0.9947110414505005	dynahate
+4855	hate	0.970562756061554	dynahate
+5714	nothate	0.0071593523025512695	dynahate
+9043	hate	0.9655017256736755	dynahate
+2443	nothate	0.000273287296295166	dynahate
+8197	hate	0.939598560333252	dynahate
+9767	hate	0.9940378665924072	dynahate
+376	nothate	0.03704029321670532	dynahate
+3619	nothate	0.006333529949188232	dynahate
+1248	hate	0.6246706247329712	dynahate
+497	nothate	0.007554471492767334	dynahate
+4529	hate	0.9873450398445129	dynahate
+8516	hate	0.9930999279022217	hate offensive
+4311	hate	0.8772081136703491	dynahate
+323	hate	0.9170151352882385	dynahate
+3308	nothate	0.0036510229110717773	dynahate
+611	hate	0.9896107912063599	dynahate
+3906	hate	0.9610757231712341	dynahate
+5402	hate	0.8622183799743652	dynahate
+2514	nothate	0.12467783689498901	dynahate
+9675	hate	0.9941512942314148	dynahate
+5421	nothate	0.058120906352996826	dynahate
+2507	hate	0.965065062046051	dynahate
+6490	hate	0.9560760259628296	dynahate
+2509	nothate	0.002550065517425537	dynahate
+1764	hate	0.968464732170105	manual
+10565	nothate	0.0022991299629211426	gpt
+7064	nothate	0.16685259342193604	dynahate
+11130	nothate	0.3278493881225586	dynahate
+9916	nothate	0.09816116094589233	dynahate
+1861	nothate	0.037545859813690186	hatecheck
+1229	hate	0.9799307584762573	dynahate
+12154	nothate	0.002202749252319336	asonam
+12035	hate	0.9728058576583862	asonam
+4964	nothate	0.31141793727874756	dynahate
+2252	hate	0.9941436648368835	dynahate
+6431	hate	0.9608662128448486	dynahate
+11849	nothate	0.049555838108062744	dynahate
+8476	hate	0.9807685017585754	dynahate
+14736	hate	0.7350764870643616	dynahate
+8255	hate	0.6966187357902527	dynahate
+3658	hate	0.8361481428146362	dynahate
+6363	hate	0.942073404788971	dynahate
+8529	hate	0.78755784034729	hate offensive
+436	hate	0.9909690022468567	hatecheck
+2237	hate	0.9650536179542542	dynahate
+7033	hate	0.9848582744598389	dynahate
+1516	hate	0.6430692672729492	dynahate
+2817	hate	0.9489545226097107	dynahate
+2837	nothate	0.4053509831428528	toxic span
+6658	nothate	0.0008352994918823242	dynahate
+6359	hate	0.9943403005599976	dynahate
+7068	nothate	0.11346375942230225	dynahate
+3675	hate	0.9771162867546082	dynahate
+4887	hate	0.9950494170188904	dynahate
+11840	nothate	0.15922212600708008	dynahate
+9368	nothate	0.48217397928237915	dynahate
+5115	nothate	0.033803462982177734	dynahate
+2414	hate	0.9900434017181396	dynahate
+3958	nothate	0.4699171185493469	dynahate
+11126	hate	0.9172254204750061	dynahate
+6355	hate	0.9901888966560364	dynahate
+2206	hate	0.9601635336875916	dynahate
+5119	hate	0.952017068862915	dynahate
+61	hate	0.9267974495887756	dynahate
+14917	hate	0.8904892206192017	dynahate
+9638	hate	0.9617043733596802	dynahate
+1522	nothate	0.13522827625274658	dynahate
+2244	hate	0.9723186492919922	dynahate
+742	hate	0.9868026375770569	dynahate
+10281	nothate	0.010024845600128174	dynahate
+739	hate	0.9806237816810608	dynahate
+1554	hate	0.956106424331665	dynahate
+4688	nothate	0.08558499813079834	dynahate
+11501	nothate	0.0001665353775024414	gpt
+1814	nothate	0.4112170934677124	dynahate
+9497	hate	0.9310053586959839	dynahate
+720	nothate	0.02972620725631714	dynahate
+4822	hate	0.9753444790840149	dynahate
+11141	hate	0.9713777899742126	dynahate
+4868	nothate	0.2144051194190979	dynahate
+3606	hate	0.9808667898178101	dynahate
+7929	nothate	0.2535339593887329	dynahate
+7348	nothate	0.0035917162895202637	gpt
+9938	hate	0.540182888507843	dynahate
+2783	nothate	0.03827863931655884	dynahate
+7022	hate	0.8674908876419067	dynahate
+11779	nothate	0.16746002435684204	dynahate
+5134	nothate	0.10912710428237915	dynahate
+433	hate	0.9980660080909729	hatecheck
+10254	hate	0.973057746887207	dynahate
+341	hate	0.6950308680534363	dynahate
+5481	nothate	0.031858086585998535	dynahate
+1007	hate	0.9732922315597534	dynahate
+11161	hate	0.7880790829658508	dynahate
+7893	hate	0.7817948460578918	dynahate
+8757	nothate	0.19673079252243042	dynahate
+9760	hate	0.9856806993484497	dynahate
+4882	hate	0.9693394303321838	dynahate
+4870	hate	0.9916236996650696	dynahate
+6158	hate	0.9843661785125732	dynahate
+10917	nothate	0.0012555122375488281	gpt
+7816	hate	0.6878386735916138	dynahate
+1527	nothate	0.07070153951644897	dynahate
+5149	hate	0.9216215014457703	manual
+6111	hate	0.9931527376174927	dynahate
+9464	hate	0.9594355821609497	dynahate
+9721	nothate	0.04227989912033081	dynahate
+6120	nothate	0.07511317729949951	dynahate
+109	hate	0.7585875988006592	hatecheck
+3672	nothate	0.0019677281379699707	dynahate
+743	nothate	0.04534792900085449	dynahate
+2179	hate	0.8892471194267273	dynahate
+4326	hate	0.7149742841720581	dynahate
+5471	hate	0.9824005365371704	dynahate
+14482	hate	0.8500791192054749	dynahate
+6443	hate	0.8232504725456238	dynahate
+10987	nothate	0.0010604262351989746	gpt
+10803	nothate	0.0006792545318603516	dynahate
+11468	nothate	0.000989079475402832	gpt
+6325	hate	0.9487231373786926	dynahate
+11738	nothate	0.3103301525115967	dynahate
+6970	hate	0.9717960953712463	dynahate
+6720	nothate	0.1332799792289734	dynahate
+3045	hate	0.6718213558197021	dynahate
+481	hate	0.9212467074394226	dynahate
+6969	hate	0.8038123846054077	dynahate
+6973	nothate	0.3755025863647461	dynahate
+9180	hate	0.9984532594680786	dynahate
+2804	hate	0.9309242963790894	dynahate
+6126	hate	0.9870731830596924	dynahate
+11842	nothate	0.03815102577209473	dynahate
+11189	hate	0.9973281621932983	dynahate
+2451	hate	0.9326105713844299	dynahate
+308	hate	0.5147824287414551	dynahate
+6956	nothate	0.07973688840866089	dynahate
+10249	hate	0.9576404094696045	dynahate
+423	hate	0.9975419044494629	dynahate
+977	hate	0.9495164155960083	dynahate
+379	hate	0.8943169713020325	dynahate
+6358	nothate	0.29896295070648193	dynahate
+2305	hate	0.9887797832489014	gpt
+7340	nothate	0.0009723901748657227	gpt
+4624	hate	0.959805965423584	dynahate
+2248	nothate	0.1146056056022644	dynahate
+16168	hate	0.8894580006599426	toxigen
+6412	hate	0.920505702495575	dynahate
+1234	hate	0.9667148590087891	dynahate
+1004	nothate	0.24735355377197266	dynahate
+8203	hate	0.9781274795532227	dynahate
+6322	hate	0.9709632396697998	dynahate
+429	nothate	0.18359553813934326	dynahate
+8165	hate	0.7914523482322693	dynahate
+1507	hate	0.889333188533783	dynahate
+1546	hate	0.9808939695358276	dynahate
+9757	hate	0.9586215615272522	dynahate
+8271	hate	0.9764057993888855	dynahate
+958	hate	0.9725253582000732	dynahate
+7004	nothate	0.1662197709083557	dynahate
+1730	nothate	0.06074357032775879	manual
+4558	hate	0.9956188797950745	dynahate
+3777	nothate	0.005858480930328369	gpt
+354	hate	0.9533454775810242	dynahate
+361	hate	0.9867562055587769	dynahate
+2430	hate	0.9835071563720703	dynahate
+1011	hate	0.9779517650604248	dynahate
+120	hate	0.9947445392608643	hatecheck
+6024	hate	0.9835571050643921	dynahate
+11752	nothate	0.0019221305847167969	dynahate
+946	hate	0.9835747480392456	dynahate
+10900	nothate	0.0032654404640197754	gpt
+8761	hate	0.9797689318656921	dynahate
+6612	nothate	0.018703043460845947	dynahate
+11806	nothate	0.04686152935028076	dynahate
+11815	nothate	0.028566598892211914	dynahate
+10527	nothate	0.0014140605926513672	dynahate
+1251	hate	0.9735161066055298	dynahate
+7217	nothate	0.45733368396759033	gpt
+324	hate	0.6597404479980469	dynahate
+10848	nothate	0.00021833181381225586	gpt
+8280	nothate	0.4873143434524536	dynahate
+7027	hate	0.9508599042892456	dynahate
+10957	nothate	0.00022369623184204102	gpt
+1000	nothate	0.003485381603240967	dynahate
+1553	nothate	0.28523939847946167	dynahate
+7934	nothate	0.31227266788482666	dynahate
+330	hate	0.9983854293823242	dynahate
+4913	hate	0.7519174814224243	dynahate
+11822	nothate	0.021270751953125	dynahate
+101	hate	0.864080548286438	hatecheck
+9152	hate	0.9878659844398499	dynahate
+6618	nothate	0.13586896657943726	dynahate
+12105	nothate	0.004574239253997803	asonam
+7047	nothate	0.021793127059936523	dynahate
+7886	hate	0.9713144898414612	dynahate
+6984	hate	0.9900117516517639	dynahate
+6496	hate	0.9939301013946533	dynahate
+10383	hate	0.9787192940711975	gpt
+3945	hate	0.7474408745765686	dynahate
+2304	hate	0.9920542240142822	gpt
+6421	hate	0.9920348525047302	dynahate
+3012	nothate	0.12605714797973633	dynahate
+7332	nothate	0.07424896955490112	gpt
+6900	nothate	0.006711423397064209	dynahate
+7012	hate	0.9535858631134033	dynahate
+9133	nothate	0.07935184240341187	dynahate
+1823	hate	0.9936299920082092	hate offensive
+8750	hate	0.9331642389297485	dynahate
+348	hate	0.9737697839736938	dynahate
+2426	nothate	0.005728244781494141	dynahate
+1228	hate	0.9839862585067749	dynahate
+364	hate	0.9416037797927856	dynahate
+9047	nothate	0.003476858139038086	dynahate
+7522	hate	0.9775057435035706	dynahate
+3924	nothate	0.0014657974243164062	dynahate
+737	hate	0.8429762721061707	dynahate
+754	hate	0.9903525710105896	dynahate
+10561	hate	0.5465571880340576	dynahate
+2482	nothate	0.029586195945739746	dynahate
+7053	nothate	0.2664533257484436	dynahate
+8547	hate	0.9968745708465576	twitter
+4838	hate	0.9953755140304565	dynahate
+310	hate	0.9906627535820007	dynahate
+11784	hate	0.7298274636268616	dynahate
+10388	hate	0.6730839014053345	gpt
+16266	hate	0.9866047501564026	gpt
+9300	hate	0.9378698468208313	dynahate
+6993	hate	0.9146727919578552	dynahate
+11201	nothate	0.44174450635910034	dynahate
+9604	nothate	0.016672194004058838	dynahate
+6467	nothate	0.02236121892929077	dynahate
+700	hate	0.8331318497657776	dynahate
+6099	hate	0.9936109185218811	dynahate
+62	nothate	0.10698515176773071	dynahate
+8490	hate	0.9982107877731323	hate offensive
+2418	hate	0.8997995257377625	dynahate
+1525	hate	0.9351509809494019	dynahate
+3957	nothate	0.44204181432724	dynahate
+4941	nothate	0.01113969087600708	dynahate
+2792	hate	0.9956080317497253	dynahate
+6033	hate	0.9959775805473328	dynahate
+2223	hate	0.8953567147254944	dynahate
+6495	hate	0.9781351089477539	dynahate
+301	hate	0.9454665780067444	dynahate
+11498	nothate	0.01541292667388916	gpt
+7998	nothate	0.49110621213912964	dynahate
+7858	nothate	0.012205958366394043	dynahate
+10530	nothate	0.0061266422271728516	dynahate
+16245	nothate	0.00826573371887207	gpt
+4357	nothate	0.21443486213684082	dynahate
+4340	hate	0.9721492528915405	dynahate
+6157	hate	0.9410483837127686	dynahate
+7335	nothate	0.05278599262237549	gpt
+8100	hate	0.8639312386512756	dynahate
+6487	hate	0.9602432250976562	dynahate
+9902	hate	0.631761372089386	dynahate
+10529	hate	0.8157504200935364	dynahate
+1514	hate	0.9835071563720703	dynahate
+11178	nothate	0.05294442176818848	dynahate
+6362	hate	0.9748992323875427	dynahate
+9120	nothate	0.07081335783004761	dynahate
+5731	hate	0.9404861330986023	dynahate
+11732	hate	0.7099862694740295	dynahate
+2820	hate	0.9850931763648987	dynahate
+9106	hate	0.9731510877609253	dynahate
+11847	nothate	0.043160080909729004	dynahate
+6975	hate	0.8748317956924438	dynahate
+3722	hate	0.9675946235656738	gpt
+6125	nothate	0.41520917415618896	dynahate
+4320	nothate	0.13242965936660767	dynahate
+10528	nothate	0.0015526413917541504	dynahate
+8266	hate	0.8449058532714844	dynahate
+6996	nothate	0.0002880692481994629	dynahate
+8532	hate	0.9927389025688171	hate offensive
+11839	nothate	0.14938169717788696	dynahate
+8256	nothate	0.3837127089500427	dynahate
+6373	hate	0.9455836415290833	dynahate
+7049	nothate	0.0001556873321533203	dynahate
+6703	hate	0.9974755644798279	dynahate
+4999	hate	0.9627510905265808	dynahate
+8285	hate	0.9792492985725403	dynahate
+3617	nothate	0.36625611782073975	dynahate
+8489	hate	0.9984820485115051	hate offensive
+6982	hate	0.9898562431335449	dynahate
+2552	hate	0.663692057132721	FRENK
+1250	hate	0.666532039642334	dynahate
+7524	nothate	0.02576756477355957	dynahate
+10380	nothate	0.05886620283126831	gpt
+8163	nothate	0.18909037113189697	dynahate
+11780	nothate	0.27878332138061523	dynahate
+4027	hate	0.9828258156776428	hatecheck
+16076	hate	0.8287821412086487	hatecheck
+2875	nothate	0.11740195751190186	toxic span
+11722	hate	0.9973133206367493	dynahate
+4321	hate	0.9918705224990845	dynahate
+6697	hate	0.8604922890663147	dynahate
+6483	nothate	0.03128254413604736	dynahate
+6600	hate	0.7911070585250854	dynahate
+1513	hate	0.9846100807189941	dynahate
+6316	hate	0.7682392001152039	dynahate
+14731	nothate	0.44175583124160767	dynahate
+6902	hate	0.9813082814216614	dynahate
+10967	nothate	0.0005698800086975098	gpt
+6006	hate	0.980348527431488	dynahate
+11191	hate	0.9791897535324097	dynahate
+8450	hate	0.8864024877548218	dynahate
+10301	hate	0.7197837233543396	dynahate
+9025	hate	0.99224853515625	dynahate
+6128	hate	0.9764520525932312	dynahate
+2759	hate	0.9723186492919922	dynahate
+4893	hate	0.8853810429573059	dynahate
+7065	hate	0.8126810789108276	dynahate
+1219	hate	0.8721725344657898	dynahate
+6121	hate	0.9833606481552124	dynahate
+8701	hate	0.9729698896408081	dynahate
+8488	hate	0.9989843964576721	hate offensive
+9032	hate	0.7554335594177246	dynahate
+2515	hate	0.9746033549308777	dynahate
+4018	hate	0.8889970183372498	hatecheck
+8430	hate	0.9989416003227234	manual
+4301	hate	0.9707756042480469	dynahate
+4643	hate	0.9823097586631775	dynahate
+9335	hate	0.9898813366889954	dynahate
+2740	hate	0.9877780079841614	dynahate
+6937	nothate	0.05207890272140503	dynahate
+331	hate	0.9751156568527222	dynahate
+2798	nothate	0.23536735773086548	dynahate
+3926	hate	0.9838422536849976	dynahate
+3944	hate	0.9960616230964661	dynahate
+11159	nothate	0.006013154983520508	dynahate
+4703	hate	0.9933453798294067	dynahate
+9051	nothate	0.3381345868110657	dynahate
+4948	hate	0.8412920236587524	dynahate
+6319	hate	0.9720669388771057	dynahate
+3309	nothate	0.18229997158050537	dynahate
+6147	hate	0.6538982391357422	dynahate
+715	hate	0.9630825519561768	dynahate
+6026	nothate	0.009553313255310059	dynahate
+7017	nothate	0.001017153263092041	dynahate
+6653	hate	0.9877068400382996	dynahate
+2147	nothate	0.3395993113517761	dynahate
+736	nothate	0.0064969658851623535	dynahate
+7099	nothate	0.0005000829696655273	gpt
+6357	hate	0.951034665107727	dynahate
+6735	nothate	0.052266061305999756	dynahate
+8107	nothate	0.027622640132904053	dynahate
+16237	hate	0.974035382270813	gpt
+486	nothate	0.016185462474822998	dynahate
+7376	nothate	0.004533052444458008	gpt
+10910	nothate	0.00048148632049560547	gpt
+4675	hate	0.9950843453407288	dynahate
+7830	hate	0.9055522084236145	dynahate
+619	hate	0.9898303151130676	dynahate
+2706	hate	0.5611550807952881	dynahate
+4943	nothate	0.03943413496017456	dynahate
+11145	nothate	0.4701648950576782	dynahate
+4819	hate	0.9829205870628357	dynahate
+494	nothate	0.06437331438064575	dynahate
+4678	hate	0.9879100322723389	dynahate
+311	hate	0.7589598298072815	dynahate
+5477	nothate	0.050052762031555176	dynahate
+7911	nothate	0.009623825550079346	dynahate
+10258	hate	0.9222249388694763	dynahate
+6729	nothate	0.09852546453475952	dynahate
+10050	hate	0.835268497467041	manual
+7201	nothate	0.06498557329177856	dynahate
+2425	nothate	0.008862316608428955	dynahate
+10362	hate	0.7310941815376282	dynahate
+9622	hate	0.9699492454528809	dynahate
+11202	nothate	0.026164650917053223	dynahate
+6989	hate	0.6310160756111145	dynahate
+4659	nothate	0.32944726943969727	dynahate
+11789	nothate	0.11970436573028564	dynahate
+5133	hate	0.7599238157272339	dynahate
+6489	hate	0.9347939491271973	dynahate
+4903	hate	0.9878805875778198	dynahate
+1537	hate	0.9580156207084656	dynahate
+4702	hate	0.9805155992507935	dynahate
+8807	nothate	0.033570289611816406	dynahate
+1512	nothate	0.022378087043762207	dynahate
+3613	nothate	0.2565181851387024	dynahate
+633	nothate	0.0035448074340820312	dynahate
+9127	nothate	0.019018054008483887	dynahate
+2123	hate	0.8296192288398743	dynahate
+6395	hate	0.9936927556991577	dynahate
+11157	hate	0.8716846108436584	dynahate
+10048	hate	0.9384369254112244	manual
+11188	hate	0.9956575632095337	dynahate
+10270	nothate	0.0010308027267456055	dynahate
+909	nothate	0.01306837797164917	dynahate
+11496	nothate	0.00023120641708374023	gpt
+4123	hate	0.8437708616256714	hatecheck
+11796	hate	0.9233657717704773	dynahate
+482	nothate	0.05347520112991333	dynahate
+2720	hate	0.955427348613739	dynahate
+5769	hate	0.9989591836929321	manual
+10551	nothate	0.4877281188964844	hatecheck
+11770	nothate	0.3712930679321289	dynahate
+373	nothate	0.031471312046051025	dynahate
+8278	nothate	0.49984580278396606	dynahate
+2852	nothate	0.17728948593139648	toxic span
+2105	hate	0.99224853515625	dynahate
+5712	hate	0.8679780960083008	dynahate
+9316	hate	0.9840174317359924	dynahate
+4828	hate	0.7373447418212891	dynahate
+1035	hate	0.8577880859375	dynahate
+487	nothate	0.21344316005706787	dynahate
+5726	hate	0.7789219617843628	dynahate
+8252	hate	0.8878669738769531	dynahate
+11176	hate	0.9296138882637024	dynahate
+434	hate	0.9729413390159607	hatecheck
+16079	nothate	0.04434037208557129	hatecheck
+4636	hate	0.9673453569412231	dynahate
+3691	hate	0.9672113060951233	dynahate
+10237	hate	0.953325092792511	dynahate
+3324	nothate	0.006372213363647461	dynahate
+9057	hate	0.8232365250587463	dynahate
+3353	nothate	0.0004284977912902832	gpt
+9125	nothate	0.13271957635879517	dynahate
+11817	nothate	0.02083754539489746	dynahate
+7516	hate	0.9801984429359436	dynahate
+14737	nothate	0.09268832206726074	dynahate
+2785	nothate	0.014906525611877441	dynahate
+11123	hate	0.8077300786972046	dynahate
+9155	hate	0.9675883650779724	dynahate
+8538	hate	0.9966416358947754	hate offensive
+4942	nothate	0.06091707944869995	dynahate
+2528	hate	0.9922439455986023	dynahate
+7920	nothate	0.0010660290718078613	dynahate
+7226	nothate	0.23932474851608276	gpt
+2440	hate	0.98967045545578	dynahate
+7000	nothate	0.02743774652481079	dynahate
+338	hate	0.9772419929504395	dynahate
+9104	nothate	0.015193521976470947	dynahate
+959	hate	0.5664609670639038	dynahate
+6001	hate	0.9739331603050232	dynahate
+11730	nothate	0.334370493888855	dynahate
+5775	hate	0.9019998908042908	manual
+2157	hate	0.8773376941680908	dynahate
+11777	hate	0.9875495433807373	dynahate
+300	hate	0.9537475109100342	dynahate
+2253	hate	0.9947340488433838	dynahate
+14735	hate	0.8313361406326294	dynahate
+4867	hate	0.8651242256164551	dynahate
+11845	nothate	0.08775484561920166	dynahate
+6420	hate	0.9557580351829529	dynahate
+1881	nothate	0.004272937774658203	hatecheck
+10206	nothate	0.005109667778015137	dynahate
+4666	hate	0.5499550700187683	dynahate
+4056	nothate	0.042255282402038574	hatecheck
+2473	nothate	0.055990397930145264	dynahate
+6146	nothate	0.014768600463867188	dynahate
+10330	hate	0.978097677230835	dynahate
+6130	hate	0.9801571369171143	dynahate
+980	nothate	0.009388744831085205	dynahate
+1036	hate	0.9679425358772278	dynahate
+2762	hate	0.9647822380065918	dynahate
+10904	nothate	0.00022524595260620117	gpt

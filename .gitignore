@@ -32,4 +32,8 @@ fine_tune/testing/bias_in_hatemoderate.ipynb
 fine_tune/testing/ttest.ipynb
 fine_tune/testing/bias_hatecheck_simple_test.ipynb
 postprocess/all_examples.csv
+fine_tune/datasets/testing/test.csv
+roberta-base_lr=1e-05_epoch=4_batch_size=32_include_hatemoderate
+roberta-base_lr=1e-05_epoch=4_batch_size=32_rebalance
+roberta-base_lr=2e-05_epoch=4_batch_size=32_rebalance
 
