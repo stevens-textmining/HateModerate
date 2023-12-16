@@ -65,7 +65,7 @@ def generate_predictions(dataset_name, model_path, comparison_value, device):
 
 
 
-def ttest(prediction_A, prediction_B):
+def ttest_all(prediction_A, prediction_B):
     predictions_model_A = pd.read_csv('fine_tune/testing/ttest_tmp/' + prediction_A, sep='\t', usecols=[0, 1, 2], header=None,
                                       names=['id', 'prediction', 'actual'])
     predictions_model_B = pd.read_csv('fine_tune/testing/ttest_tmp/' + prediction_B, sep='\t', usecols=[0, 1, 2], header=None,
@@ -88,6 +88,51 @@ def ttest(prediction_A, prediction_B):
     print("p-value:", p_value)
 
 
+def ttest(prediction_A, prediction_B):
+    predictions_model_A = pd.read_csv('fine_tune/testing/ttest_tmp/' + prediction_A, sep='\t', usecols=[0, 1, 2], header=None,
+                                      names=['id', 'prediction', 'actual'])
+    predictions_model_B = pd.read_csv('fine_tune/testing/ttest_tmp/' + prediction_B, sep='\t', usecols=[0, 1, 2], header=None,
+                                      names=['id', 'prediction', 'actual'])
+
+    predictions_model_A['prediction'] = predictions_model_A['prediction'].map({'LABEL_1': 1, 'LABEL_0': 0})
+    predictions_model_A['actual'] = predictions_model_A['actual'].map({'HATE': 1, 'NOT-HATE': 0})
+    predictions_model_B['prediction'] = predictions_model_B['prediction'].map({'LABEL_1': 1, 'LABEL_0': 0})
+    predictions_model_B['actual'] = predictions_model_B['actual'].map({'HATE': 1, 'NOT-HATE': 0})
+
+    predictions_A_hate = ((predictions_model_A['prediction'] == 1) & (predictions_model_A['actual'] == 1)).astype(int)
+    predictions_B_hate = ((predictions_model_B['prediction'] == 1) & (predictions_model_B['actual'] == 1)).astype(int)
+
+    predictions_A_nonhate = ((predictions_model_A['prediction'] == 0) & (predictions_model_A['actual'] == 0)).astype(
+        int)
+    predictions_B_nonhate = ((predictions_model_B['prediction'] == 0) & (predictions_model_B['actual'] == 0)).astype(
+        int)
+
+    accuracy_A_hate = (predictions_model_A[predictions_model_A['actual'] == 1]['prediction'] ==
+                       predictions_model_A[predictions_model_A['actual'] == 1]['actual']).mean()
+    accuracy_B_hate = (predictions_model_B[predictions_model_B['actual'] == 1]['prediction'] ==
+                       predictions_model_B[predictions_model_B['actual'] == 1]['actual']).mean()
+
+    accuracy_A_nonhate = (predictions_model_A[predictions_model_A['actual'] == 0]['prediction'] ==
+                          predictions_model_A[predictions_model_A['actual'] == 0]['actual']).mean()
+    accuracy_B_nonhate = (predictions_model_B[predictions_model_B['actual'] == 0]['prediction'] ==
+                          predictions_model_B[predictions_model_B['actual'] == 0]['actual']).mean()
+
+    #     t_statistic_hate, p_value_hate = stats.ttest_rel(predictions_A_hate, predictions_B_hate)
+    #     t_statistic_nonhate, p_value_nonhate = stats.ttest_rel(predictions_A_nonhate, predictions_B_nonhate)
+    t_statistic_hate, p_value_hate = stats.ttest_rel(predictions_A_hate, predictions_B_hate)
+    t_statistic_nonhate, p_value_nonhate = stats.ttest_rel(predictions_A_nonhate, predictions_B_nonhate)
+
+    print("Model A Accuracy (Hate):", accuracy_A_hate)
+    print("Model B Accuracy (Hate):", accuracy_B_hate)
+    print("t-statistic (Hate):", t_statistic_hate)
+    print("p-value (Hate):", p_value_hate)
+    #     print("\n")
+
+    print("Model A Accuracy (Non-Hate):", accuracy_A_nonhate)
+    print("Model B Accuracy (Non-Hate):", accuracy_B_nonhate)
+    print("t-statistic (Non-Hate):", t_statistic_nonhate)
+    print("p-value (Non-Hate):", p_value_nonhate)
+
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -108,7 +153,7 @@ labels = "LABEL_1"
 for dataset in datasets:
     for model in models:
         print(f"Model: {model}\n")
-        # generate_predictions(dataset, model, labels, device)
+        generate_predictions(dataset, model, labels, device)
 
 
 Rebalance = "roberta-base_lr=2e-05_epoch=4_batch_size=32_rebalance.csv"
@@ -128,5 +173,6 @@ for test in test_cases:
 
             print(f"Comparing {models_name[i]} vs {models_name[j]}")
 
+            ttest_all(model_A_file, model_B_file)
             ttest(model_A_file, model_B_file)
             print("\n")

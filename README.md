@@ -184,6 +184,12 @@ We compare the results of the following models:
     ```
     $ python fine_tune/testing/test_openai.py
     ```
+  
+    Significant test result can be checkedby:
+
+    ```
+    $ python fine_tune/testing/ttest.py
+    ```
     
 ### Main Results
 
