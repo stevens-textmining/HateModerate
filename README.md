@@ -1,6 +1,6 @@
-# HateModerate: Grounding and Benchmarking Hate Speech Detection with Content Policies
+# HateModerate: Testing Hate Speech Detectors against Content Moderation Policies
 
-This is the anonymous repository for our paper "HateModerate: Grounding and Benchmarking Hate Speech Detection with Content Policies"
+This is the anonymous repository for our paper "HateModerate: Testing Hate Speech Detectors against Content Moderation Policies"
 
 - First of all, clone the repository and make sure that your are current in the root path of repository `Hatemoderate`.
 
@@ -18,9 +18,9 @@ This repository contains final datasets we collected in `postprocess`. This stud
 
 There are two datasets. 
 
-**all_examples_hate.csv:** The hateful dataset that includes **4,651 sentences with guidelines**. The annotations with **more than 87% agreement** are included.
+**all_examples_hate.csv:** The hateful examples.
 
-**all_examples_nonhate.csv:** The non-hateful dataset that includes **3,915 sentences with guidelines and types in non-hateful cases**. The annotations with **more than 88% agreement** are included.
+**all_examples_nonhate.csv:** The non-hateful examples.
 
 <p align="center">
     <img src="stats_all.png"  width=500>
@@ -45,16 +45,19 @@ List of columns in `all_examples_hate.csv` and `all_examples_nonhate.csv`:
 
 `labelers` provides index of all annotators who reviewed this sentence.
 
-`type` is a categorical variable that indicates the classes to which this non-hateful example belongs.
+`type_name` is a categorical variable that indicates the classes to which this non-hateful example belongs.
 
-`label` is the index of the 'type' for these non-hateful sentences.
+`type` is the index of the 'type' for these non-hateful sentences.
 
-`gpt_label` is the predicted 'label' for these non-hateful sentences, determined using GPT-4.
+`is_valid_gpt` provides a binary label indicating whether a sentence matches the specified 'type'. A label of 0 represents 'not valid', and 1 represents 'valid', as determined by GPT-4.
+
+`is_valid_human_1` provides a binary label indicating whether a sentence matches the specified 'type'. A label of 0 represents 'not valid', and 1 represents 'valid', as determined by first human annotator.
+
+`is_valid_human_2` provides a binary label indicating whether a sentence matches the specified 'type'. A label of 0 represents 'not valid', and 1 represents 'valid', as determined by second human annotator.
 
 
 
-
-## Benchmarking Hate Speech Detectors' Consistency with Content Policies (Section 4.1 & Section 4.2)
+## Testing Hate Speech Detectors' Conformity with Content Policies (Section 4.1 & Section 4.2)
 
 ### Instructions for reproducing (requires API keys for OpenAI and Google Perspective) 
 
@@ -121,12 +124,13 @@ The table below shows the average failure rates of the hateful and non-hateful e
 
 ## Mitigating Model Failures with Fine-Tuning HateModerate (Section 4.3) 
 
-In this step, we compare the results of the two models: 
+We compare the results of the following models: 
 
  1. A RoBERTa-base model fine-tuned using all the available training data for the CardiffNLP model. We are only able to access 9 out of the 13 training datasets of the CardiffNLP model.
     
  2. A RoBERTa-base model fine-tuned using CardiffNLP's training data + HateModerate's reserved training data.
 
+ 3. A RoBERTa-base model fine-tuned using CardiffNLP's training data + re-balanced HateModerate's reserved training data
 
 
 - Step 1: Train a `roberta-base` hate speech detector with and without HateModerate dataset. The training process is managed by the `train_hate_model` function, and for this task, you need to set the following parameters:
@@ -167,7 +171,7 @@ In this step, we compare the results of the two models:
     
     
      
-- Step 2: Testing Fine-tuned `roberta-base` models with following test collections, they can be accessed in folder `fine_tune/datasets/testing`: 
+- Step 2: Testing Fine-tuned `roberta-base` models and OpenAI's Moderation API with following test collections, they can be accessed in folder `fine_tune/datasets/testing`: 
     - The testing fold of HateModerate; 
     - The 3 testing datasets of CardiffNLP; 
     - HateCheck, a dataset for independent out-of-domain capability tests of hate speech.
@@ -177,6 +181,10 @@ In this step, we compare the results of the two models:
     $ python fine_tune/testing/test.py
     ```
 
+    ```
+    $ python fine_tune/testing/test_openai.py
+    ```
+    
 ### Main Results
 
 The overall failure rates of 2 models can be found in the table below:
@@ -186,5 +194,4 @@ The overall failure rates of 2 models can be found in the table below:
     <img src="table 2.png"  width=500>
     <br>
 </p>
-
 

@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 def nonhate():
-    path = "all_examples_nonhate_raw.csv"
+    path = "postprocess/all_examples_nonhate_raw.csv"
     df = pd.read_csv(path, sep='\t')
     df.replace(-1, np.nan, inplace=True)
 
@@ -39,8 +39,8 @@ def hate_agreement():
     print("Agreement rate:", agreement_rate)
 
 def hate():
-    path = "all_examples_hate_raw.csv"
-    # path = "/data/jzheng36/hatemoderate/hatemoderate/postprocess/all_examples_0601.csv"
+    path = "postprocess/all_examples_hate_raw.csv"
+    # path = "../hatemoderate/hatemoderate/postprocess/all_examples_0601.csv"
     df = pd.read_csv(path, sep='\t')
     # df = df[df["dataset"] != 'gpt']
 

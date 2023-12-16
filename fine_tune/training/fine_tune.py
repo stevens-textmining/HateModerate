@@ -9,7 +9,7 @@ def train_hate_model(args):
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
     train_file = "fine_tune/datasets/training/hatemoderate_train.csv"
-    # train_file2 = "/data/jzheng36/hatemoderate/hatemoderate/raw_datasets/dynahate.csv"
+    # train_file2 = "../hatemoderate/hatemoderate/raw_datasets/dynahate.csv"
     # train_file = "fine_tune/datasets/training/rebalance_train.csv"
 
     test_file = "fine_tune/datasets/testing/hatemoderate_test.csv"
