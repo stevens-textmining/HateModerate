@@ -29,7 +29,7 @@ There are two datasets.
 
 ### Overview of Final Datasets
 
-List of columns in `all_examples_hate.csv` and `all_examples_nonhate.csv`:
+List of columns in `all_examples_hate.csv`:
 
 `example_id` is the unique ID of the entry.
 
@@ -41,9 +41,21 @@ List of columns in `all_examples_hate.csv` and `all_examples_nonhate.csv`:
 
 `guideline` is a categorical variable, providing which of Facebook’s hate speech community standard guidelines this sentence belongs to.
 
-`votes` provides the labels assigned by all annotators to this sentence, with 0 representing 'non-hate' and 1 representing 'hate'. A sentence is classified as hate if more than half of the annotators perceive it as hateful.
+`votes` provides the labels assigned by all annotators for the hateful examples, with 0 representing 'non-hate' and 1 representing 'hate'. A sentence is classified as hate if more than half of the annotators perceive it as hateful.
 
 `labelers` provides index of all annotators who reviewed this sentence.
+
+List of columns in `all_examples_nonhate.csv`:
+
+`example_id` is the unique ID of the entry.
+
+`sentence` is the content which has been entered.
+
+`dataset` is the source of this sentence.
+
+`index` is the position of the sentence within its original dataset. If the sentence is auto-generated, this value is set to -1.
+
+`guideline` is a categorical variable, providing which of Facebook’s hate speech community standard guidelines this sentence belongs to.
 
 `type_name` is a categorical variable that indicates the classes to which this non-hateful example belongs.
 
@@ -185,7 +197,7 @@ We compare the results of the following models:
     $ python fine_tune/testing/test_openai.py
     ```
   
-    Significant test results can be checke dby:
+    Significant test results can be checked by:
 
     ```
     $ python fine_tune/testing/ttest.py
@@ -193,7 +205,7 @@ We compare the results of the following models:
     
 ### Main Results
 
-The overall failure rates of 2 models can be found in the table below:
+The overall failure rates of models can be found in the table below:
 
 
 <p align="left">
