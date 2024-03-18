@@ -1,6 +1,6 @@
 # HateModerate: Testing Hate Speech Detectors against Content Moderation Policies
 
-This is the anonymous repository for our paper "HateModerate: Testing Hate Speech Detectors against Content Moderation Policies"
+This repository is part of our paper "HateModerate: Testing Hate Speech Detectors against Content Moderation Policies"
 
 - First of all, clone the repository and make sure that your are current in the root path of repository `Hatemoderate`.
 
@@ -10,6 +10,14 @@ This is the anonymous repository for our paper "HateModerate: Testing Hate Speec
 ```
 pip install -r requirements.txt
 ```
+
+## Overall Workflow
+
+<p align="center">
+    <img src="workflow.png"  width=1200>
+    <br>
+</p>
+
 
 
 ## Datasets Summary:
@@ -212,4 +220,9 @@ The overall failure rates of models can be found in the table below:
     <img src="table 2.png"  width=500>
     <br>
 </p>
+
+
+<!-- ### Reference
+
+Please cite our paper if you use our dataset in your works: -->
 
