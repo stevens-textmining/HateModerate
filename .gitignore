@@ -42,3 +42,4 @@ readme_test.ipynb
 roberta-base_lr=2e-05_epoch=4_batch_size=32_include_dynahate+HM
 .ipynb_checkpoints/
 readme_test.ipynb
+fine_tune/testing/ttest_tmp/*
