@@ -13,6 +13,7 @@ fine_tune/datasets/testing/hatemoderate_test_raw.csv
 roberta-base_lr=2e-05_epoch=2_batch_size=16_include_hatemoderate
 roberta-base_lr=2e-05_epoch=2_batch_size=16_no-include_hatemoderate
 roberta-base_lr=2e-05_epoch=2_batch_size=4_no-include_hatemoderate
+roberta-base_lr=2e-05_epoch=4_batch_size=32_include_dynahate
 fine_tune/testing/test.ipynb
 fine_tune/testing/.ipynb_checkpoints
 fine_tune/datasets/training/all_train.csv
@@ -37,4 +38,7 @@ roberta-base_lr=1e-05_epoch=4_batch_size=32_include_hatemoderate
 roberta-base_lr=1e-05_epoch=4_batch_size=32_rebalance
 roberta-base_lr=2e-05_epoch=4_batch_size=32_rebalance
 fine_tune/testing/simple_cases_test_bias.py
+readme_test.ipynb
+roberta-base_lr=2e-05_epoch=4_batch_size=32_include_dynahate+HM
+.ipynb_checkpoints/
 readme_test.ipynb

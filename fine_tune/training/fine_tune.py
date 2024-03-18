@@ -9,7 +9,7 @@ def train_hate_model(args):
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
     train_file = "fine_tune/datasets/training/hatemoderate_train.csv"
-    # train_file2 = "../hatemoderate/hatemoderate/raw_datasets/dynahate.csv"
+    train_file2 = "../hatemoderate/hatemoderate/raw_datasets/dynahate.csv"
     # train_file = "fine_tune/datasets/training/rebalance_train.csv"
 
     test_file = "fine_tune/datasets/testing/hatemoderate_test.csv"
@@ -23,7 +23,7 @@ def train_hate_model(args):
     model_args.warmup_steps = 50
     model_args.n_gpu = 4
     include_str = "include" if args.include else "no-include"
-    model_args.output_dir = "{}_lr={}_epoch={}_batch_size={}_{}_hatemoderate".format(args.model_name.replace("/", "-"), args.learning_rate, args.n_epoch, args.batch_size, include_str)
+    model_args.output_dir = "{}_lr={}_epoch={}_batch_size={}_{}_dynahate".format(args.model_name.replace("/", "-"), args.learning_rate, args.n_epoch, args.batch_size, include_str)
     # model_args.output_dir = "{}_lr={}_epoch={}_batch_size={}_rebalance".format(args.model_name.replace("/", "-"), args.learning_rate, args.n_epoch, args.batch_size)
 
     model_args.overwrite_output_dir = True
@@ -45,14 +45,16 @@ def train_hate_model(args):
     train_df = pd.read_csv(train_file, sep="\t")
     train_df = train_df.rename(columns={"sentence": "text"}).sample(frac=1)
 
-    # # dynahate
-    # train_df2 = pd.read_csv(train_file2, sep=",")
-    # train_df2 = train_df2.rename(columns={"label": "labels"}).sample(frac=1)
-    # train_df2["labels"] = train_df2["labels"].replace({"hate": 1, "nothate": 0})
+    # dynahate
+    train_df2 = pd.read_csv(train_file2, sep=",")
+    train_df2 = train_df2.rename(columns={"label": "labels"}).sample(frac=1)
+    train_df2["labels"] = train_df2["labels"].replace({"hate": 1, "nothate": 0})
 
     if args.include == True:
-        train_df = pd.concat([train_df[columns], cardiffnlp_datasets[columns]]).drop_duplicates()
-        # train_df = pd.concat([train_df[columns], train_df2[columns], cardiffnlp_datasets[columns]]).drop_duplicates()
+        # train_df = pd.concat([train_df[columns], cardiffnlp_datasets[columns]]).drop_duplicates()
+        train_df = pd.concat([train_df2[columns], cardiffnlp_datasets[columns]]).drop_duplicates() # dy only
+        # train_df = pd.concat(
+        #     [train_df[columns], train_df2[columns], cardiffnlp_datasets[columns]]).drop_duplicates()  # dy +hm
     else:
         train_df = pd.concat([cardiffnlp_datasets[columns]])
 
