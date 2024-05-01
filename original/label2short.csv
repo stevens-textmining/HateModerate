@@ -1,0 +1,42 @@
+tier	guideline	short
+1	filth	t1 dehum filth
+1	violent speech	t1 viol spch
+1	insects	t1 dehum insects
+1	bacteria	t1 dehum bacteri
+1	disease	t1 disease
+1	dehumanization animal	t1 dehum ani
+1	feces	t1 feces
+1	sexual predator	t1 sex pred
+1	subhumanity	t1 subhuman
+1	criminal	t1 criminal
+1	certain objects	t1 certain obj
+1	deny existence	t1 deny exist
+1	harmful stereotype	t1 harm ster
+1	hatecrime victim	t1 hatecrm vic
+2	attacking hygiene	t2 attck hyg
+2	attacking appearance	t2 attck appr
+2	attacking intellectual capability	t2 attck int cap
+2	attacking education	t2 attck edu
+2	attacking mental health	t2 attck mental
+2	attacking character trait	t2 attck chara
+2	attacking derogatory term	t2 attck deroga
+2	less than adequate	t2 les than
+2	deviating norm	t2 devia norm
+2	better worse than	t2 better wors
+2	contempt self admission intolerance	t2 cont slf adm
+2	contempt shouldnt exist	t2 cont shldnt exist
+2	contempt despise hate	t2 cont desp hate
+2	contempt despise dislike	t2 cont desp dislike
+2	curse sexual	t2 curs sexual
+2	disgust vomit	t2 disgu vomit
+2	disgust repulsion	t2 disgu repul
+2	curse genitalia	t2 curs genit
+2	curse profane	t2 curs profa
+3	segregation	t3 segregat
+3	explicit exclusion	t3 explt excl
+3	political exclusion	t3 polit excl
+3	economic exclusion	t3 econ excl
+3	social exclusion	t3 socl excl
+4	change sexual	t4 chge sexual
+4	attack concept associated protected characteristics	t4 attck concept
+4	spread virus	t4 spread virus

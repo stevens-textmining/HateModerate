@@ -1,0 +1,42 @@
+tier	guideline	description
+1	filth	Dehumanizing speech: Filth (including but not limited to: dirt, grime)
+1	violent speech	Violent speech or support in written or visual form
+1	insects	Dehumanizing speech: Insects (including but not limited to: cockroaches, locusts)
+1	bacteria	Dehumanizing speech: Bacteria, viruses, or microbes
+1	disease	Dehumanizing speech: Disease (including but not limited to: cancer, sexually transmitted diseases)
+1	dehumanization animal	Dehumanizing speech: Animals in general or specific types of animals that are culturally perceived as intellectually or physically inferior (including but not limited to: Black people and apes or ape-like
+1	feces	Dehumanizing speech: Feces (including but not limited to: shit, crap)
+1	sexual predator	Dehumanizing speech: Sexual predators (including but not limited to: Muslim people having sex with goats or pigs)
+1	subhumanity	Dehumanizing speech: Subhumanity (including but not limited to: savages, devils, monsters, primitives)
+1	criminal	Violent criminals (including but not limited to: terrorists, murderers, members of hate or criminal organizations)，Other criminals (including but not limited to “thieves,” “bank robbers,” or saying “All [protected characteristic or quasi-protected characteristic] are ‘criminals’”).
+1	certain objects	Certain objects (women as household objects or property or objects in general; Black people as farm equipment; transgender or non-binary people as “it”)
+1	deny existence	Statements denying existence (including but not limited to: "[protected characteristic(s) or quasi-protected characteristic] do not exist", "no such thing as [protected charactic(s) or quasi-protected characteristic]" ), deny existence is different from contempt-should-not-exist in tier 2
+1	harmful stereotype	Harmful stereotypes historically linked to intimidation, exclusion, or violence on the basis of a protected characteristic, such as Blackface; Holocaust denial; claims that Jewish people control financial, political, or media institutions; and references to Dalits as menial laborers
+1	hatecrime victim	Mocking the concept, events or victims of hate crimes even if no real person is depicted in an image.
+2	attacking hygiene	Content attacking a person or a group based on their hygiene, including but not limited to: filthy, dirty, smelly.
+2	attacking appearance	Content attacking a person or a group based on their physical appearance, including but not limited to: ugly, hideous.
+2	attacking intellectual capability	Content attacking a person or a group based on their intellectual capacity, including but not limited to: dumb, stupid, idiots.
+2	attacking education	Content attacking a person or a group based on their education, including but not limited to: illiterate, uneducated.
+2	attacking mental health	Content attacking a person or a group based on their mental health, including but not limited to: mentally ill, retarded, crazy, insane.
+2	attacking character trait	Attacking a person or group based on a perceived character trait , Content attacking a person or a group based on their character traits culturally perceived as negative, including but not limited to: coward, liar, arrogant, ignorant.
+2	attacking derogatory term	Content attacking a person or a group based on derogatory terms related to sexual activity, including but not limited to: whore, slut, perverts.
+2	less than adequate	Expressions about being less than adequate, including but not limited to: worthless, useless
+2	deviating norm	Expressions about deviating from the norm, including but not limited to: freaks, abnormal.
+2	better worse than	Expressions about being better/worse than another protected characteristic, including but not limited to: "I believe that males are superior to females."
+2	contempt self admission intolerance	Self-admission to intolerance on the basis of a protected characteristics, including but not limited to: homophobic, islamophobic, racist.
+2	contempt shouldnt exist	Expressions that a protected characteristic shouldn't exist. (shouldn't exist is different from deny-existence in tier 1)
+2	contempt despise hate	Expressions of hate, including but not limited to: despise, hate.
+2	contempt despise dislike	Expressions of dismissal, including but not limited to: don´t respect, don't like, don´t care for
+2	curse sexual	Terms or phrases calling for engagement in sexual activity, or contact with genitalia, anus, feces or urine, including but not limited to: suck my dick, kiss my ass, eat shit.
+2	disgust vomit	Expressions that suggest the target causes sickness, including but not limited to: vomit, throw up.
+2	disgust repulsion	Expressions of repulsion or distaste, including but not limited to: vile, disgusting, yuck.
+2	curse genitalia	curse that referring to the target as genitalia or anus, including but not limited to: cunt, dick, asshole.
+2	curse profane	Profane terms or phrases with the intent to insult, including but not limited to: fuck, bitch, motherfucker.
+3	segregation	Segregation in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting segregation.
+3	explicit exclusion	Call for action of exclusion, e.g., explicit exclusion, which means things like expelling certain groups or saying they are not allowed.
+3	political exclusion	Call for action of exclusion, e.g., political exclusion, which means denying the right to right to political participation.
+3	economic exclusion	Call for action of exclusion, e.g., economic exclusion, which means denying access to economic entitlements and limiting participation in the labour market.
+3	social exclusion	Call for action of exclusion, e.g., social exclusion, which means things like denying access to spaces (physical and online)and social services, except for gender-based exclusion in health and positive support Groups.
+4	change sexual	Content explicitly providing or offering to provide products or services that aim to change people’s sexual orientation or gender identity.
+4	attack concept associated protected characteristics	Content attacking concepts, institutions, ideas, practices, or beliefs associated with protected characteristics, which are likely to contribute to imminent physical harm, intimidation or discrimination against the people associated with that protected characteristic.
+4	spread virus	Content targeting a person or group of people on the basis of their protected characteristic(s) with claims that they have or spread the novel coronavirus, are responsible for the existence of the novel coronavirus, are deliberately spreading the novel coronavirus, or mocking them for having or experiencing the novel coronavirus.
